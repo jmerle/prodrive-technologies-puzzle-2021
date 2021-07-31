@@ -1,237 +1,254 @@
-Moves (204):
+Moves (221):
 0,0,H,territorialiteitsprincipe
 0,16,V,stijg
 5,0,H,productiviteitsstijgingen
 5,14,V,shist
 10,0,H,stofwisselingsstoornissen
-10,6,V,stipt
+10,0,V,shirt
 15,0,H,spijsverteringsstoornis
-15,4,V,stijf
+15,10,V,ritst
 20,0,H,elektriciteitsdistributie
-0,0,V,th
-0,0,V,the
-0,0,V,therapie
-0,0,V,therapies
-0,0,V,therapiesessie
-0,1,V,ee
-0,1,V,een
-0,1,V,eenpartijstaat
-0,2,V,ri
-0,2,V,rie
-0,2,V,riem
-0,3,V,rd
-0,3,V,rdw
-0,4,V,is
-0,4,V,isse
-0,6,V,or
-0,6,V,ort
-0,6,V,orth
-0,6,V,orthotist
-0,7,V,rec
-0,7,V,recidive
-0,7,V,recidiverisico
-0,8,V,ii
+0,0,V,ts
+0,0,V,tsjirp
+0,0,V,tsjirpt
+0,0,V,tsjirpte
+0,0,V,tsjirpten
+0,1,V,ep
+0,1,V,epi
+0,1,V,epiderm
+0,1,V,epidermization
+0,2,V,ree
+0,2,V,rees
+0,2,V,reeshof
+0,3,V,rs
+0,3,V,rss
+0,5,V,tr
+0,5,V,tra
+0,5,V,tran
+0,5,V,transcription
+0,5,V,transcriptions
+0,6,V,ov
+0,6,V,over
+0,6,V,overstap
+0,6,V,overstapkosten
+0,7,V,rd
 0,9,V,at
 0,9,V,atoominstallaties
-0,10,V,lh
-0,12,V,tin
-0,12,V,tins
-0,12,V,tinsmith
-0,12,V,tinsmithing
-0,12,V,tinsmithings
-0,13,V,enig
-0,13,V,enigst
-0,14,V,ins
-0,14,V,inst
-0,15,V,tie
-0,16,V,stijgtijd
-0,18,V,rit
-0,18,V,rits
-0,18,V,ritsijzer
-0,19,V,ijs
-0,19,V,ijspegel
-0,19,V,ijspegels
-0,20,V,nl
-0,21,V,ce
-0,21,V,cen
-0,21,V,cent
-0,21,V,centen
-0,21,V,centenaries
-0,22,V,inburger
-0,23,V,pd
-0,23,V,pda
-3,4,H,elhi
-3,5,V,lych
-3,5,V,lyches
-3,9,H,oj
-3,10,V,jet
-3,10,V,jeth
-3,10,V,jethro
-3,16,H,jisp
-4,3,V,id
-4,3,V,ide
-4,3,V,ident
-4,3,V,identifies
-4,15,H,hg
-4,15,V,hso
-4,18,H,ieper
-4,23,V,set
-7,3,H,neese
-7,12,H,hai
-7,13,V,ar
-7,13,V,aris
-7,13,V,aristo
-7,13,V,aristologies
-7,16,H,jeel
-7,17,V,eo
-7,17,V,eozoic
-8,0,H,sjot
-8,2,V,oro
-8,21,H,ite
-8,21,H,ites
-8,23,V,epe
-8,23,V,epee
-8,23,V,epeeist
-8,24,V,sun
-8,24,V,sunbright
-9,7,H,ita
-9,8,V,ter
-9,11,H,unit
-9,11,H,unity
-9,11,V,uns
-9,11,V,unspiritualise
-9,11,V,unspiritualises
-9,15,V,yttrias
-9,20,H,je
-9,20,V,jil
-9,20,V,jill
-9,20,V,jillion
-9,20,V,jillionth
-10,4,V,wo
-10,4,V,wog
-10,4,V,wogs
-10,6,V,stipter
-10,6,V,stiptere
-10,16,V,orf
-10,16,V,orff
-10,18,V,res
-10,18,V,resinosis
-10,22,V,sh
-10,22,V,sha
-10,22,V,shar
-10,22,V,sharns
-12,9,H,atp
-12,10,V,tw
-13,9,H,twirl
-13,12,V,ren
-13,12,V,rena
-13,12,V,renate
-13,18,H,iii
-13,19,V,ier
-14,2,V,sin
-14,2,V,sinister
-14,2,V,sinisterity
-14,5,H,ft
-14,8,H,gi
-14,8,V,gtd
-15,0,V,so
-15,0,V,sort
-15,0,V,sortie
-15,0,V,sortietje
-15,0,V,sortietjes
-15,1,V,poo
-15,1,V,poos
-15,4,V,stijfte
-15,7,V,rij
-15,7,V,rijg
-15,7,V,rijgschoen
-15,14,V,sss
-15,16,V,thy
-15,16,V,thyristor
-15,16,V,thyristors
-15,17,V,ot
-15,21,V,int
-15,21,V,inti
-15,21,V,intituling
-16,23,H,pt
-16,23,V,pit
-16,23,V,pittig
-16,23,V,pittigst
-16,23,V,pittigste
-17,10,H,jutes
-17,10,V,jr
-18,4,H,jj
-18,5,V,jer
-18,5,V,jerque
-18,5,V,jerques
-18,7,H,gj
-18,8,V,juice
-18,8,V,juiced
-18,15,H,trist
-18,15,V,tui
-18,15,V,tuibrug
-18,19,V,thir
-18,19,V,thirst
-18,19,V,thirsts
-18,21,H,ist
-18,21,H,isth
-18,22,V,sit
-18,22,V,situ
-18,22,V,situeer
-18,24,V,hie
-18,24,V,hies
-19,7,H,sud
-19,14,H,hui
-19,14,H,huic
-20,1,V,lo
-20,1,V,loast
-20,10,V,ex
-20,10,V,exp
-20,10,V,expo
-20,10,V,expos
-20,12,V,td
-20,12,V,tdd
-20,18,V,rh
-20,18,V,rhumb
-22,0,H,jais
-22,3,V,sse
-22,10,H,pedrero
-22,13,V,ris
-22,14,V,eto
-23,5,H,ehed
-23,6,V,ho
-23,21,H,nett
-23,24,V,ty
-24,9,H,qs
+0,10,V,li
+0,10,V,lic
+0,10,V,lich
+0,10,V,lichttijd
+0,11,V,ie
+0,11,V,iet
+0,11,V,iets
+0,12,V,traa
+0,13,V,et
+0,13,V,ets
+0,15,V,tim
+0,15,V,timo
+0,15,V,timorstraat
+0,17,V,ps
+0,17,V,pst
+0,19,V,in
+0,19,V,ins
+0,19,V,inst
+0,19,V,instigation
+0,19,V,instigations
+0,20,V,numb
+0,20,V,numbfish
+0,21,V,cr
+0,21,V,cras
+0,22,V,is
+0,22,V,isl
+0,23,V,pe
+0,23,V,pet
+0,23,V,petite
+0,23,V,petitenesses
+0,24,V,ed
+0,24,V,ede
+0,24,V,edel
+0,24,V,edelen
+3,4,H,inri
+3,4,V,imus
+3,14,H,goj
+4,8,H,amt
+4,8,V,ava
+4,13,V,ft
+4,13,V,ftp
+4,13,V,ftps
+4,15,H,rgb
+4,17,V,bis
+4,17,V,bisschop
+4,17,V,bisschops
+4,17,V,bisschopstronen
+4,22,H,ste
+4,22,V,sgt
+5,11,V,es
+5,18,V,ja
+5,18,V,jai
+5,18,V,jail
+5,18,V,jailor
+7,5,H,ipa
+7,7,V,ag
+7,7,V,ages
+7,12,H,asir
+7,12,V,al
+7,12,V,alight
+7,12,V,alightment
+7,12,V,alightments
+7,17,H,sithe
+7,21,V,epis
+7,21,V,epistilbite
+7,21,V,epistilbites
+7,23,H,ej
+7,24,V,jo
+7,24,V,john
+7,24,V,johnboat
+7,24,V,johnboats
+8,21,H,piso
+9,1,H,ar
+9,1,H,art
+9,2,V,rot
+9,2,V,rots
+9,5,H,toega
+9,8,V,gegispt
+9,11,H,biota
+9,11,V,bnr
+9,13,V,osage
+10,0,V,shirtsleeve
+10,0,V,shirtsleeves
+10,4,V,wh
+10,4,V,wha
+10,4,V,whaurs
+10,16,V,oo
+10,16,V,oocyst
+10,20,V,isa
+10,20,V,isatin
+12,4,H,anemia
+12,4,H,anemias
+12,10,V,sd
+12,12,H,tgv
+12,14,V,ve
+12,14,V,vers
+12,14,V,verst
+12,14,V,verstoord
+12,14,V,verstoordheid
+12,16,H,cst
+12,20,H,ait
+12,22,V,tc
+14,2,H,oir
+14,2,V,oil
+14,2,V,oiler
+14,2,V,oileries
+14,3,V,ijl
+14,3,V,ijle
+14,3,V,ijler
+14,7,H,ppi
+14,7,V,pre
+14,7,V,pret
+14,7,V,pretlichtje
+14,11,H,ze
+14,11,V,zin
+14,11,V,zins
+14,16,H,srd
+14,18,V,doc
+14,18,V,doch
+14,18,V,docht
+14,18,V,dochter
+14,18,V,dochtertje
+14,18,V,dochtertjes
+14,23,H,gt
+15,1,V,pip
+15,5,V,vi
+15,5,V,vis
+15,5,V,visser
+15,5,V,vissertje
+15,5,V,vissertjes
+15,6,V,er
+15,6,V,erit
+15,10,V,ritsten
+15,15,V,sk
+15,15,V,sky
+15,15,V,skyr
+15,15,V,skyrmion
+15,19,V,ros
+15,22,V,sjalot
+15,22,V,sjalotje
+15,22,V,sjalotjes
+16,21,H,tja
+16,23,V,ata
+16,23,V,ataxie
+17,5,H,sits
+17,21,H,eats
+17,24,V,stoer
+17,24,V,stoerst
+17,24,V,stoerste
+18,9,H,hs
+18,9,V,hut
+18,9,V,hutongs
+18,13,H,for
+18,13,H,forint
+18,13,H,forints
+18,13,V,foster
+19,0,H,vei
+19,1,V,els
+19,1,V,elsje
+19,1,V,elsjes
+19,4,H,de
+19,4,V,dtp
+19,9,H,uti
+19,20,V,sbirri
+20,8,V,iou
+20,16,V,su
+20,16,V,sus
+20,16,V,sushi
+20,19,V,ira
+20,19,V,irae
+22,5,H,jotun
+22,12,H,teens
+22,12,V,tsp
+22,18,H,jarre
+23,0,H,tes
+23,0,H,test
+23,0,H,testte
+23,0,V,tx
+23,3,V,ty
+23,4,V,tu
+23,9,H,gj
+23,10,V,jf
+23,22,H,set
+23,23,V,ef
+24,14,H,driss
+24,20,H,iq
 
 Board:
    0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
  0 T  e  r  r  i  T  o  r  i  a  L  i  t  e  i  T  s  p  r  i  N  c  i  p  e
- 1 h  e  i  d  s  ▢  r  e  i  t  h  ▢  i  n  n  i  t  ▢  i  j  l  e  n  d  ▢
- 2 e  n  e  w  s  ▢  t  c  ▢  o  ▢  ▢  n  i  s  e  i  ▢  t  s  ▢  n  b  a  ▢
- 3 r  p  m  ▢  e  l  h  i  ▢  o  j  ▢  s  g  t  ▢  j  i  s  p  ▢  t  u  ▢  ▢
- 4 a  a  ▢  i  ▢  y  o  d  ▢  m  e  ▢  m  s  ▢  h  g  ▢  i  e  p  e  r  s  ▢
+ 1 s  p  e  s  ▢  r  v  d  ▢  t  i  e  r  t  ▢  i  t  s  ▢  n  u  r  s  e  d
+ 2 j  i  e  s  ▢  a  e  ▢  ▢  o  c  t  a  s  ▢  m  i  t  ▢  s  m  a  l  t  e
+ 3 i  d  s  ▢  i  n  r  i  ▢  o  h  s  a  ▢  g  o  j  ▢  ▢  t  b  s  ▢  i  l
+ 4 r  e  h  ▢  m  s  s  ▢  a  m  t  ▢  ▢  f  ▢  r  g  b  ▢  i  f  ▢  s  t  e
  5 P  r  o  d  u  C  t  i  v  i  T  e  i  t  s  S  t  i  j  g  I  n  g  e  n
- 6 i  t  ▢  e  ▢  h  i  v  ▢  n  h  ▢  t  ▢  h  o  i  ▢  z  e  ▢  a  e  t  ▢
- 7 e  i  ▢  n  e  e  s  e  ▢  s  r  ▢  h  a  i  ▢  j  e  e  l  ▢  r  r  ▢  ▢
- 8 s  j  o  t  ▢  s  t  r  ▢  t  o  ▢  i  r  s  ▢  d  o  r  s  ▢  i  t  e  s
- 9 e  s  r  i  ▢  ▢  ▢  i  t  a  ▢  u  n  i  t  y  ▢  z  ▢  ▢  j  e  ▢  p  u
+ 6 t  m  f  ▢  s  r  a  ▢  a  n  i  s  ▢  p  h  t  ▢  s  a  a  s  ▢  t  n  ▢
+ 7 e  i  ▢  ▢  ▢  i  p  a  ▢  s  j  ▢  a  s  i  r  ▢  s  i  t  h  e  ▢  e  j
+ 8 n  z  ▢  ▢  ▢  p  k  g  ▢  t  d  ▢  l  ▢  s  a  ▢  c  l  i  ▢  p  i  s  o
+ 9 ▢  a  r  t  ▢  t  o  e  g  a  ▢  b  i  o  t  a  ▢  h  o  o  ▢  i  ▢  s  h
 10 S  t  o  f  w  I  s  s  e  l  I  n  g  s  s  T  o  o  r  n  I  s  s  e  n
-11 s  a  ▢  i  o  ▢  t  i  r  l  ▢  s  s  t  ▢  t  r  i  e  ▢  l  ▢  h  e  b
-12 i  a  ▢  e  g  ▢  i  c  ▢  a  t  p  ▢  o  ▢  r  f  c  s  ▢  l  ▢  a  i  r
-13 e  t  ▢  s  s  ▢  p  o  ▢  t  w  i  r  l  ▢  i  f  ▢  i  i  i  ▢  r  s  i
-14 ▢  ▢  s  ▢  ▢  f  t  ▢  g  i  ▢  r  e  o  ▢  a  ▢  ▢  n  e  o  ▢  n  t  g
-15 S  p  i  j  s  V  e  r  t  e  R  i  n  g  s  S  t  o  o  r  N  i  s  ▢  h
-16 o  o  n  ▢  t  ▢  r  i  d  s  ▢  t  a  i  s  ▢  h  t  s  ▢  t  n  ▢  p  t
-17 r  o  i  ▢  i  ▢  e  j  ▢  ▢  j  u  t  e  s  ▢  y  ▢  i  ▢  h  t  ▢  i  ▢
-18 t  s  s  ▢  j  j  ▢  g  j  ▢  r  a  e  s  ▢  t  r  i  s  t  ▢  i  s  t  h
-19 i  ▢  t  ▢  f  e  ▢  s  u  d  ▢  l  ▢  ▢  h  u  i  c  ▢  h  ▢  t  i  t  i
+11 h  i  t  ▢  h  o  t  ▢  g  l  ▢  r  h  a  ▢  ▢  o  p  ▢  s  s  t  ▢  s  b
+12 i  o  s  ▢  a  n  e  m  i  a  s  ▢  t  g  v  ▢  c  s  t  ▢  a  i  t  ▢  o
+13 r  n  ▢  ▢  u  s  n  ▢  s  t  d  ▢  m  e  e  ▢  y  t  ▢  ▢  t  l  c  ▢  a
+14 t  ▢  o  i  r  ▢  ▢  p  p  i  ▢  z  e  ▢  r  ▢  s  r  d  ▢  i  b  ▢  g  t
+15 S  p  i  j  s  V  e  r  t  e  R  i  n  g  s  S  t  o  o  r  N  i  s  ▢  s
+16 l  i  l  l  ▢  i  r  e  ▢  s  i  n  t  ▢  t  k  ▢  n  c  o  ▢  t  j  a  ▢
+17 e  p  e  e  ▢  s  i  t  s  ▢  t  s  s  ▢  o  y  ▢  e  h  s  ▢  e  a  t  s
+18 e  ▢  r  r  ▢  s  t  l  ▢  h  s  ▢  ▢  f  o  r  i  n  t  s  ▢  s  l  a  t
+19 v  e  i  ▢  d  e  ▢  i  ▢  u  t  i  ▢  o  r  m  ▢  ▢  e  ▢  s  ▢  o  x  o
 20 E  l  e  k  t  R  i  c  i  t  E  i  t  s  d  I  s  t  r  i  B  u  t  i  e
-21 t  o  r  ▢  e  q  ▢  h  c  ▢  x  s  d  ▢  ▢  b  t  ▢  h  r  ▢  l  u  g  s
-22 j  a  i  s  ▢  u  ▢  o  e  ▢  p  e  d  r  e  r  o  ▢  u  s  ▢  i  e  s  ▢
-23 e  s  t  s  ▢  e  h  e  d  ▢  o  s  ▢  i  t  u  r  ▢  m  t  ▢  n  e  t  t
-24 s  t  y  e  ▢  s  o  n  ▢  q  s  ▢  ▢  s  o  g  s  ▢  b  s  ▢  g  r  e  y
+21 s  s  s  ▢  p  t  ▢  h  o  o  n  ▢  ▢  t  h  o  u  ▢  t  r  i  ▢  j  e  r
+22 ▢  j  ▢  ▢  ▢  j  o  t  u  n  ▢  ▢  t  e  e  n  s  ▢  j  a  r  r  e  ▢  s
+23 t  e  s  t  t  e  ▢  j  ▢  g  j  ▢  s  r  i  ▢  h  ▢  e  e  r  ▢  s  e  t
+24 x  s  ▢  y  u  s  ▢  e  ▢  s  f  ▢  p  ▢  d  r  i  s  s  ▢  i  q  ▢  f  e
 
-Score: 188,415
+Score: 188,767
 
-Solving for size 25 took 76,854.19ms
+Solving for size 25 took 61,128.99ms

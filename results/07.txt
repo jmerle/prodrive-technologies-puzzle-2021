@@ -1,38 +1,37 @@
-Moves (23):
+Moves (22):
 0,0,H,tittish
-0,2,V,tithe
+0,0,V,trijs
 5,0,H,tiritis
-0,0,V,th
-0,0,V,thir
-0,0,V,thirst
-0,0,V,thirsts
-0,1,V,ie
-0,1,V,ieee
-0,2,V,tithers
-0,3,V,tj
-0,4,V,in
-0,4,V,ins
-0,4,V,insist
-0,4,V,insists
+0,0,V,trijste
+0,1,V,il
+0,1,V,iliitis
+0,3,V,ti
+0,3,V,tis
+0,3,V,tishri
+0,3,V,tishris
+0,4,V,ing
+0,4,V,inge
+0,4,V,ingest
+0,4,V,ingests
 0,5,V,se
-0,5,V,sem
-0,5,V,semi
-0,5,V,semifit
-2,4,H,sms
-2,6,V,si
-5,1,V,is
-5,6,V,sr
+0,5,V,set
+0,5,V,sett
+0,6,V,hs
+3,3,H,hets
+3,6,V,sis
+3,6,V,sist
+4,0,H,stirs
 
 Board:
   0  1  2  3  4  5  6
 0 T  i  t  t  i  S  h
-1 h  e  i  j  n  e  ▢
-2 i  e  t  ▢  s  m  s
-3 r  e  h  ▢  i  i  i
-4 s  ▢  e  ▢  s  f  ▢
+1 r  l  ▢  i  n  e  s
+2 i  i  ▢  s  g  t  ▢
+3 j  i  ▢  h  e  t  s
+4 s  t  i  r  s  ▢  i
 5 T  i  r  i  t  I  s
-6 s  s  s  ▢  s  t  r
+6 e  s  ▢  s  s  ▢  t
 
-Score: 1,932
+Score: 2,041
 
-Solving for size 7 took 3,159.02ms
+Solving for size 7 took 2,097.02ms

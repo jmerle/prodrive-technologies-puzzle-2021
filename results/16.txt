@@ -1,8 +1,8 @@
-Moves (77):
+Moves (82):
 0,0,H,striptijdschrift
-0,9,V,shist
+0,15,V,trist
 5,0,H,tijdsregistratie
-5,7,V,grist
+5,9,V,stijg
 10,0,H,prioriteitsrecht
 10,1,V,ritst
 15,0,H,rechtshistorisch
@@ -28,7 +28,12 @@ Moves (77):
 0,6,V,is
 0,6,V,iscose
 0,8,V,de
-0,8,V,dehumidifying
+0,8,V,der
+0,8,V,dere
+0,8,V,deregistering
+0,9,V,sh
+0,9,V,shi
+0,9,V,shir
 0,10,V,cs
 0,10,V,cst
 0,12,V,re
@@ -37,65 +42,65 @@ Moves (77):
 0,12,V,restraighten
 0,12,V,restraightens
 0,13,V,in
-0,13,V,ink
-0,13,V,inkort
-0,13,V,inkortte
-0,14,V,fe
-0,14,V,feit
-0,15,V,tros
-0,15,V,trossers
-3,11,H,stots
-3,11,V,ser
-3,11,V,serr
-3,11,V,serra
-3,11,V,serras
-4,3,H,gios
-4,3,V,gdp
-5,7,V,grister
-5,7,V,gristers
-5,10,V,ted
-5,10,V,tediosity
-7,0,H,ets
-7,2,V,sori
-7,2,V,sorites
-7,10,H,dagers
-7,14,V,ri
-7,14,V,right
-7,14,V,righter
-9,7,H,tygo
-9,12,H,tig
-9,12,H,tigs
-9,13,V,icahn
-9,15,V,ste
-9,15,V,stet
-13,9,H,tyr
-13,9,V,tit
-14,3,V,gh
-14,5,H,sp
-14,5,H,spa
-14,5,H,spahi
-14,12,V,ji
-14,15,V,fh
+0,13,V,inf
+0,13,V,inflatie
+0,13,V,inflaties
+0,14,V,fg
+0,15,V,tristesse
+3,11,H,stl
+3,11,V,sir
+3,11,V,sirdar
+4,3,H,rios
+4,10,H,girant
+5,2,V,ji
+5,2,V,jihadi
+5,2,V,jihadis
+5,7,V,gs
+5,7,V,gsa
+7,11,H,agers
+8,4,H,set
+8,6,V,tit
+8,6,V,titi
+8,6,V,titis
+9,8,H,rgb
+9,10,V,bsd
+9,10,V,bsds
+9,14,V,thij
+9,14,V,thijs
+10,7,V,eo
+10,11,V,ris
+10,11,V,rist
+10,11,V,rister
+10,15,V,tj
+10,15,V,tjon
+12,3,H,jags
+12,3,V,jhvh
+13,13,H,bsn
+13,13,V,bis
+14,1,H,tiv
+14,5,H,sc
+14,5,H,schop
+14,5,H,schopte
 
 Board:
    0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15
  0 S  t  r  i  p  T  i  j  d  s  C  h  r  i  f  T
- 1 o  h  o  ▢  i  e  s  ▢  e  h  s  ▢  e  n  e  r
- 2 c  i  t  ▢  s  m  c  ▢  h  i  t  ▢  s  k  i  o
- 3 i  r  s  ▢  u  p  o  ▢  u  s  ▢  s  t  o  t  s
- 4 o  t  ▢  g  i  o  s  ▢  m  t  ▢  e  r  r  ▢  s
+ 1 o  h  o  ▢  i  e  s  ▢  e  h  s  ▢  e  n  g  r
+ 2 c  i  t  ▢  s  m  c  ▢  r  i  t  ▢  s  f  ▢  i
+ 3 i  r  s  ▢  u  p  o  ▢  e  r  ▢  s  t  l  ▢  s
+ 4 o  t  ▢  r  i  o  s  ▢  g  ▢  g  i  r  a  n  t
  5 T  i  j  d  s  R  e  g  i  s  T  r  a  t  i  E
- 6 h  e  ▢  p  s  i  ▢  r  d  ▢  e  r  i  t  ▢  r
- 7 e  t  s  ▢  e  s  ▢  i  i  ▢  d  a  g  e  r  s
- 8 r  h  o  ▢  s  e  ▢  s  f  ▢  i  s  h  ▢  i  ▢
- 9 a  ▢  r  ▢  t  r  ▢  t  y  g  o  ▢  t  i  g  s
+ 6 h  e  i  ▢  s  i  ▢  s  s  t  ▢  d  i  i  ▢  s
+ 7 e  t  h  ▢  e  s  ▢  a  t  i  ▢  a  g  e  r  s
+ 8 r  h  a  ▢  s  e  t  ▢  e  j  ▢  r  h  s  ▢  e
+ 9 a  ▢  d  ▢  t  r  i  ▢  r  g  b  ▢  t  ▢  t  ▢
 10 P  r  i  o  r  I  t  e  i  t  S  r  e  c  h  T
-11 e  i  t  ▢  a  n  ▢  r  n  ▢  i  ▢  n  a  t  e
-12 u  t  e  ▢  a  g  ▢  s  g  ▢  t  ▢  s  h  e  t
-13 t  s  s  ▢  t  ▢  ▢  ▢  ▢  t  y  r  ▢  n  r  ▢
-14 ▢  t  ▢  g  ▢  s  p  a  h  i  ▢  ▢  j  ▢  ▢  f
+11 e  i  s  ▢  a  n  i  o  n  ▢  d  i  n  ▢  i  j
+12 u  t  ▢  j  a  g  s  ▢  g  ▢  s  s  s  ▢  j  o
+13 t  s  ▢  h  t  ▢  ▢  ▢  ▢  ▢  ▢  t  ▢  b  s  n
+14 ▢  t  i  v  ▢  s  c  h  o  p  t  e  ▢  i  ▢  ▢
 15 R  e  c  h  t  S  h  i  s  t  O  r  i  s  c  H
 
-Score: 38,292
+Score: 38,393
 
-Solving for size 16 took 25,846.65ms
+Solving for size 16 took 23,723.45ms

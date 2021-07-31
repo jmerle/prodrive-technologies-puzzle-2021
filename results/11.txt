@@ -1,8 +1,8 @@
-Moves (46):
+Moves (43):
 0,0,H,stresstests
 0,6,V,trijs
 5,0,H,hittestress
-5,9,V,siste
+5,10,V,shist
 10,0,H,stijgijzers
 0,0,V,st
 0,0,V,stitch
@@ -20,46 +20,43 @@ Moves (46):
 0,6,V,trijste
 0,7,V,ei
 0,8,V,sto
-0,8,V,stof
-0,8,V,stofgehalte
+0,8,V,stop
+0,8,V,stopgezet
+0,8,V,stopgezette
+0,9,V,te
 0,9,V,tes
 0,9,V,test
-0,10,V,sn
-0,10,V,snee
-0,10,V,sneers
-2,5,H,mi
-2,5,H,mitose
-2,5,V,mids
-2,5,V,midship
-3,4,H,jij
-3,4,V,jee
-3,4,V,jeetje
-4,3,H,geds
-4,3,V,gte
-7,0,H,rhs
-7,2,V,sh
-7,2,V,shri
-7,7,H,jas
-7,7,H,jast
+0,9,V,testis
+0,10,V,sst
+2,5,H,ji
+2,5,V,je
+2,5,V,jersey
+2,5,V,jerseys
+4,3,H,hirs
+4,3,V,http
+4,3,V,https
+4,4,V,ier
+4,4,V,ieren
+7,7,H,jeri
 7,7,V,jf
-9,2,H,rj
-9,6,V,tj
-9,8,H,ter
+7,9,V,rp
+9,2,V,ti
+9,6,V,jj
 
 Board:
    0  1  2  3  4  5  6  7  8  9 10
  0 S  t  r  e  s  S  t  e  s  t  S
- 1 t  r  a  s  s  ▢  r  i  t  e  n
- 2 i  i  i  p  ▢  m  i  t  o  s  e
- 3 t  s  s  ▢  j  i  j  ▢  f  t  e
- 4 c  t  ▢  g  e  d  s  ▢  g  ▢  r
+ 1 t  r  a  s  s  ▢  r  i  t  e  s
+ 2 i  i  i  p  ▢  j  i  ▢  o  s  t
+ 3 t  s  s  ▢  ▢  e  j  ▢  p  t  ▢
+ 4 c  t  ▢  h  i  r  s  ▢  g  i  ▢
  5 H  i  t  t  e  S  t  r  e  s  S
- 6 e  c  ▢  e  t  h  e  ▢  h  i  ▢
- 7 r  h  s  ▢  j  i  ▢  j  a  s  t
- 8 i  s  h  ▢  e  p  ▢  f  l  t  ▢
- 9 e  ▢  r  j  ▢  ▢  t  ▢  t  e  r
+ 6 e  c  ▢  t  r  e  e  ▢  z  ▢  h
+ 7 r  h  ▢  p  e  y  ▢  j  e  r  i
+ 8 i  s  ▢  s  n  s  ▢  f  t  p  s
+ 9 e  ▢  t  ▢  ▢  ▢  j  ▢  t  ▢  t
 10 S  t  i  j  g  I  j  z  e  r  S
 
-Score: 8,559
+Score: 8,571
 
-Solving for size 11 took 7,564.35ms
+Solving for size 11 took 8,573.97ms

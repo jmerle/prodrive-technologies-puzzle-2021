@@ -1,73 +1,78 @@
-Moves (53):
+Moves (58):
 0,0,H,tijdritfiets
-0,11,V,shist
+0,0,V,trijs
 5,0,H,trottoirtjes
-5,3,V,trijs
+5,3,V,trits
 10,0,H,institutists
-0,0,V,tr
-0,0,V,tri
-0,0,V,trie
-0,0,V,triest
-0,0,V,triestig
-0,0,V,triestigheid
+0,0,V,trijste
 0,1,V,in
 0,1,V,ins
 0,1,V,insp
 0,1,V,inspirit
 0,1,V,inspiritment
 0,2,V,ja
-0,2,V,jat
-0,2,V,jato
+0,2,V,jaan
 0,4,V,re
-0,4,V,ren
-0,4,V,rent
-0,4,V,rentetheorie
-0,5,V,iso
-0,5,V,isogloss
-0,5,V,isoglosse
-0,6,V,ts
-0,6,V,tss
-0,7,V,fe
-0,7,V,fee
-0,7,V,fees
-0,7,V,feestroes
-0,8,V,inst
-0,8,V,institute
-0,10,V,te
-0,10,V,ter
-0,10,V,terr
-0,10,V,terrie
-0,10,V,terrier
-0,10,V,terriers
-3,7,H,stirs
-7,7,H,eths
-7,9,V,hi
-7,9,V,hijs
-7,9,V,hijst
-9,6,V,ju
-9,6,V,jut
-9,9,H,jos
-9,10,V,oto
-9,11,V,sst
-10,2,V,sp
-10,5,V,tf
-10,7,V,ta
+0,4,V,reg
+0,4,V,regi
+0,5,V,ing
+0,5,V,inge
+0,5,V,ingetogen
+0,5,V,ingetogenste
+0,6,V,te
+0,6,V,ted
+0,6,V,teds
+0,7,V,fr
+0,9,V,ee
+0,9,V,eer
+0,9,V,eert
+0,9,V,eertijds
+0,9,V,eertijdse
+0,10,V,th
+0,10,V,thir
+0,10,V,thirteen
+0,10,V,thirteens
+0,11,V,ss
+0,11,V,sst
+2,8,H,grit
+2,8,V,gs
+4,4,H,ft
+4,7,V,trop
+4,7,V,tropist
+4,7,V,tropists
+4,9,H,ito
+4,11,V,ost
+4,11,V,ostosis
+5,3,V,tritste
+5,6,V,ir
+5,6,V,irs
+7,1,H,tri
+7,2,V,reis
+7,2,V,reise
+8,0,H,emetin
+8,0,V,epi
+8,0,V,epis
+9,5,H,ses
+9,5,H,sesh
+9,6,V,eur
+9,8,V,hit
+10,9,V,se
 
 Board:
    0  1  2  3  4  5  6  7  8  9 10 11
  0 T  i  j  d  r  I  t  f  i  e  T  s
- 1 r  n  a  ▢  e  s  s  e  n  ▢  e  h
- 2 i  s  t  ▢  n  o  s  e  s  ▢  r  i
- 3 e  p  o  ▢  t  g  ▢  s  t  i  r  s
- 4 s  i  ▢  ▢  e  l  ▢  t  i  ▢  i  t
+ 1 r  n  a  ▢  e  n  e  r  ▢  e  h  s
+ 2 i  s  a  ▢  g  g  d  ▢  g  r  i  t
+ 3 j  p  n  ▢  i  e  s  ▢  s  t  r  ▢
+ 4 s  i  ▢  ▢  f  t  ▢  t  ▢  i  t  o
  5 T  r  o  t  t  O  i  r  t  j  E  s
- 6 i  i  ▢  r  h  s  ▢  o  u  ▢  r  ▢
- 7 g  t  ▢  i  e  s  ▢  e  t  h  s  ▢
- 8 h  m  ▢  j  o  e  ▢  s  e  i  ▢  ▢
- 9 e  e  ▢  s  r  ▢  j  ▢  ▢  j  o  s
+ 6 e  i  ▢  r  ▢  g  r  o  ▢  d  e  t
+ 7 ▢  t  r  i  ▢  e  s  p  ▢  s  n  o
+ 8 e  m  e  t  i  n  ▢  i  ▢  e  s  s
+ 9 p  e  i  s  ▢  s  e  s  h  ▢  ▢  i
 10 I  n  s  t  i  T  u  t  i  s  T  s
-11 d  t  p  ▢  e  f  t  a  ▢  t  o  t
+11 s  t  e  e  ▢  e  r  s  t  e  ▢  ▢
 
-Score: 9,354
+Score: 9,532
 
-Solving for size 12 took 13,176.71ms
+Solving for size 12 took 10,825.03ms

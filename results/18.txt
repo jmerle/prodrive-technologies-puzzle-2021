@@ -1,10 +1,10 @@
-Moves (107):
+Moves (105):
 0,0,H,sportiviteitsprijs
 0,11,V,trist
 5,0,H,stichtingsregister
 5,9,V,shist
 10,0,H,vrijheidsstrijders
-10,8,V,stijg
+10,10,V,trijs
 15,0,H,oostfrontstrijders
 0,0,V,sl
 0,0,V,slijpschijven
@@ -59,6 +59,11 @@ Moves (107):
 7,8,H,gies
 7,8,H,giesen
 7,8,V,ge
+7,8,V,gees
+7,8,V,geest
+7,8,V,geestig
+7,8,V,geestigst
+7,8,V,geestigste
 7,12,V,er
 7,12,V,eruit
 7,12,V,eruitgezien
@@ -68,44 +73,37 @@ Moves (107):
 9,0,H,jot
 9,2,V,tit
 9,2,V,titties
-9,5,H,fp
-9,5,H,fps
-9,5,V,feh
-9,5,V,fehm
-9,5,V,fehme
+9,5,H,mp
+9,5,H,mpret
+9,5,V,men
+9,5,V,meng
+9,5,V,mengkoren
 9,14,H,hs
 9,14,V,hdd
-10,4,V,hp
-10,10,V,tr
-10,10,V,tri
-10,10,V,trie
-10,10,V,triest
-10,10,V,triestig
-10,11,V,ri
-10,11,V,rin
-10,11,V,rins
-10,11,V,rinser
-10,11,V,rinsers
+10,4,V,hi
+10,4,V,hin
+10,4,V,hink
+10,10,V,trijste
+10,11,V,reg
+10,11,V,regi
+10,11,V,regierol
 10,16,V,rc
 10,16,V,rca
-12,0,H,nett
-12,3,V,test
-12,3,V,testis
-12,5,H,miii
-12,10,H,ings
-12,13,V,sr
+12,10,H,iggs
+13,14,H,so
+13,14,V,sod
+13,14,V,sods
 14,0,V,jots
-14,2,H,est
-14,7,V,gnoe
-14,14,H,trui
-14,16,V,uri
-14,16,V,uris
+14,2,H,eh
+14,3,V,http
+14,7,V,lng
+14,14,H,orti
+14,16,V,tri
+14,16,V,trig
 15,1,V,oh
 15,1,V,ohg
-15,5,V,ris
-15,9,V,set
-15,13,V,jr
-17,3,H,sis
+17,3,H,pin
+17,11,H,lno
 
 Board:
    0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17
@@ -118,16 +116,16 @@ Board:
  6 c  i  ▢  i  i  i  ▢  e  ▢  h  i  s  ▢  o  ▢  r  r  ▢
  7 h  a  n  t  e  e  r  ▢  g  i  e  s  e  n  ▢  i  d  i
  8 i  t  ▢  y  t  ▢  e  ▢  e  s  t  e  r  s  ▢  e  e  r
- 9 j  o  t  ▢  ▢  f  p  s  ▢  t  ▢  ▢  u  ▢  h  s  ▢  i
+ 9 j  o  t  ▢  ▢  m  p  r  e  t  ▢  ▢  u  ▢  h  s  ▢  i
 10 V  r  i  j  h  E  i  d  s  s  T  r  i  j  d  E  r  s
-11 e  i  t  ▢  p  h  t  ▢  t  ▢  r  i  t  ▢  d  c  c  c
-12 n  e  t  t  ▢  m  i  i  i  ▢  i  n  g  s  ▢  t  a  o
-13 ▢  s  i  e  ▢  e  t  ▢  j  ▢  e  s  e  r  ▢  o  ▢  p
-14 j  ▢  e  s  t  ▢  i  g  g  ▢  s  e  z  ▢  t  r  u  i
+11 e  i  t  ▢  i  n  t  ▢  t  ▢  r  e  t  ▢  d  c  c  c
+12 n  e  t  ▢  n  g  i  ▢  i  ▢  i  g  g  s  ▢  t  a  o
+13 ▢  s  i  ▢  k  k  t  ▢  g  ▢  j  i  e  ▢  s  o  ▢  p
+14 j  ▢  e  h  ▢  o  i  l  s  ▢  s  e  z  ▢  o  r  t  i
 15 O  o  s  t  f  R  o  n  t  s  T  r  i  j  d  E  r  s
-16 t  h  ▢  i  ▢  i  n  o  ▢  e  i  s  e  r  ▢  n  i  t
-17 s  g  ▢  s  i  s  ▢  e  ▢  t  g  ▢  n  ▢  ▢  ▢  s  ▢
+16 t  h  ▢  t  ▢  e  n  g  e  ▢  e  o  e  ▢  s  n  i  t
+17 s  g  ▢  p  i  n  ▢  ▢  ▢  ▢  ▢  l  n  o  ▢  ▢  g  ▢
 
-Score: 43,299
+Score: 43,330
 
-Solving for size 18 took 40,046.94ms
+Solving for size 18 took 32,765.18ms

@@ -71,10 +71,6 @@ public class Solver {
 
                 int currentWordLength = currentWord.length();
                 for (int j = 0; j < size && j < currentWordLength; j++) {
-                    if (j % 5 == 0) {
-                        continue;
-                    }
-
                     char startCell = board.getCell(j, previousY);
                     if (startCell == Board.EMPTY_CELL) {
                         continue;
@@ -87,7 +83,8 @@ public class Solver {
                             continue;
                         }
 
-                        if (!wordList.contains(connectingWord + endCell)) {
+                        String fullConnectingWord = connectingWord + endCell;
+                        if (currentWord.equals(fullConnectingWord) || !wordList.contains(fullConnectingWord)) {
                             continue;
                         }
 
@@ -95,6 +92,11 @@ public class Solver {
                         int score = board.getMoveScore(move);
 
                         if (score != Board.INVALID_MOVE && score > bestConnectingScore) {
+                            Move fullConnectingMove = new Move(j, previousY, Direction.Vertical, fullConnectingWord);
+                            if (board.getMoveScore(fullConnectingMove) == Board.INVALID_MOVE) {
+                                continue;
+                            }
+
                             bestConnectingMove = move;
                             bestConnectingScore = score;
                         }

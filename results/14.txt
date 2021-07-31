@@ -1,6 +1,6 @@
-Moves (66):
+Moves (71):
 0,0,H,spiritstirring
-0,11,V,ijsje
+0,5,V,trijs
 5,0,H,lithotriptists
 5,13,V,stipt
 10,0,H,spiritistische
@@ -24,65 +24,70 @@ Moves (66):
 0,3,V,righthand
 0,3,V,righthander
 0,3,V,righthanders
-0,5,V,to
-0,5,V,toe
-0,5,V,toelating
-0,5,V,toelatingstest
+0,5,V,trijste
 0,6,V,spoorrijtuig
 0,6,V,spoorrijtuigen
-0,7,V,ti
-0,7,V,tifosi
+0,7,V,tm
+0,7,V,tmc
 0,9,V,re
 0,9,V,res
 0,9,V,resist
 0,9,V,resistivities
-0,12,V,na
-0,12,V,nag
-0,12,V,nagi
-0,12,V,nagisting
+0,10,V,ro
+0,10,V,roc
+0,10,V,rock
+0,10,V,rockgitarist
+0,10,V,rockgitaristen
+0,11,V,if
 0,13,V,gi
-0,13,V,git
-0,13,V,gite
-1,5,H,opine
-4,3,H,tiars
-4,9,H,shes
-4,10,V,hirs
-4,10,V,hirsels
-5,8,V,pl
-5,8,V,plas
-5,8,V,plasstop
+0,13,V,gij
+0,13,V,gijs
+2,12,H,jj
+2,12,V,je
+2,12,V,jest
+2,12,V,jestful
+3,8,H,tik
+3,8,H,tikjes
+4,5,H,sri
+5,8,V,pr
+5,8,V,pre
+5,8,V,prelatist
 5,13,V,stipter
 5,13,V,stiptere
-8,0,H,eard
-8,2,V,rei
-8,2,V,reif
-8,2,V,reify
-10,11,V,ci
-10,11,V,cijs
-10,12,V,he
-10,12,V,hee
-10,12,V,heet
-12,4,H,tse
-12,4,V,tc
-13,10,H,ist
+7,3,H,nj
+7,4,V,ju
+7,4,V,juri
+7,4,V,juris
+7,4,V,jurist
+7,4,V,jurists
+8,3,H,duit
+9,0,H,spaer
+9,6,H,uratic
+10,12,V,ht
+10,12,V,http
+12,0,H,slr
+12,2,V,rj
+12,4,H,tie
+12,5,V,ie
+13,10,H,nip
 
 Board:
    0  1  2  3  4  5  6  7  8  9 10 11 12 13
  0 S  p  i  r  i  T  s  t  i  r  R  i  n  g
- 1 i  a  s  i  ▢  o  p  i  n  e  ▢  j  a  i
- 2 g  r  e  g  ▢  e  o  f  ▢  s  ▢  s  g  t
- 3 h  a  s  h  ▢  l  o  o  ▢  i  ▢  j  i  e
- 4 t  d  ▢  t  i  a  r  s  ▢  s  h  e  s  ▢
+ 1 i  a  s  i  ▢  r  p  m  ▢  e  o  f  ▢  i
+ 2 g  r  e  g  ▢  i  o  c  ▢  s  c  ▢  j  j
+ 3 h  a  s  h  ▢  j  o  ▢  t  i  k  j  e  s
+ 4 t  d  ▢  t  ▢  s  r  i  ▢  s  g  ▢  s  ▢
  5 L  i  t  h  o  T  r  i  p  t  I  s  t  s
- 6 i  j  ▢  a  ▢  i  i  ▢  l  i  r  ▢  i  t
- 7 n  s  ▢  n  ▢  n  j  ▢  a  v  s  ▢  n  i
- 8 e  a  r  d  ▢  g  t  ▢  s  i  e  ▢  g  p
- 9 s  p  e  e  ▢  s  u  ▢  s  t  l  ▢  ▢  t
+ 6 i  j  ▢  a  ▢  e  i  ▢  r  i  t  ▢  f  t
+ 7 n  s  ▢  n  j  ▢  j  ▢  e  v  a  ▢  u  i
+ 8 e  a  ▢  d  u  i  t  ▢  l  i  r  ▢  l  p
+ 9 s  p  a  e  r  ▢  u  r  a  t  i  c  ▢  t
 10 S  p  i  r  i  T  i  s  t  i  S  c  h  e
-11 e  e  f  s  ▢  e  g  ▢  o  e  ▢  i  e  r
-12 s  l  y  ▢  t  s  e  ▢  p  s  ▢  j  e  e
-13 ▢  s  ▢  ▢  c  t  n  ▢  ▢  ▢  i  s  t  ▢
+11 e  e  ▢  s  s  ▢  g  ▢  i  e  t  ▢  t  r
+12 s  l  r  ▢  t  i  e  ▢  s  s  e  ▢  t  e
+13 ▢  s  j  ▢  s  e  n  ▢  t  ▢  n  i  p  ▢
 
-Score: 11,064
+Score: 11,211
 
-Solving for size 14 took 16,028.61ms
+Solving for size 14 took 15,411.96ms

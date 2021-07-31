@@ -1,10 +1,10 @@
-Moves (105):
+Moves (104):
 0,0,H,identiteitscrisis
 0,16,V,shist
 5,0,H,irresistibilities
 5,1,V,ritst
 10,0,H,tekstschrijfsters
-10,9,V,ijsje
+10,5,V,stijg
 15,0,H,striptijdschrift
 0,0,V,in
 0,0,V,int
@@ -31,100 +31,99 @@ Moves (105):
 0,8,V,it
 0,8,V,ita
 0,8,V,itas
-0,10,V,str
-0,10,V,stro
-0,10,V,strooi
-0,10,V,strooimandje
-0,10,V,strooimandjes
+0,10,V,sp
+0,10,V,spijtig
+0,10,V,spijtigst
 0,11,V,ch
-0,11,V,chor
-0,11,V,chortle
-0,11,V,chortler
-0,11,V,chortlers
-0,12,V,rei
-0,12,V,reis
-0,12,V,reissite
-0,13,V,ie
-0,13,V,ies
-0,14,V,sst
+0,11,V,chi
+0,11,V,chiefling
+0,12,V,ro
+0,12,V,roi
+0,12,V,roin
+0,13,V,inpast
+0,13,V,inpaste
+0,14,V,ss
 2,5,H,orca
-2,5,V,op
-2,5,V,optic
-2,5,V,opticus
-3,5,H,pressors
-3,9,V,sob
-3,9,V,sobs
-3,15,H,hs
-3,15,V,hae
-3,15,V,haem
-3,15,V,haematuria
-3,15,V,haematurias
-4,4,H,eten
-4,14,H,jat
-4,14,V,jin
-4,14,V,jing
-4,14,V,jingkoes
+2,5,V,oi
+2,5,V,oikist
+2,5,V,oikists
+2,15,H,ji
+2,15,V,jo
+2,15,V,joden
+2,15,V,jodenster
+2,15,V,jodensterren
+4,4,H,eken
+4,4,V,esa
 5,2,V,rsi
-5,3,V,etsers
-7,5,H,uris
-7,8,V,stir
-7,8,V,stirs
-7,10,H,arenga
-7,13,V,no
-7,13,V,nopt
-8,13,H,okta
-8,16,V,afstijg
-9,0,H,stirp
-9,2,V,ike
-9,2,V,iker
-9,2,V,ikers
-9,4,V,pts
-9,4,V,ptss
-10,11,V,fsh
-11,0,H,ine
-12,2,H,ris
-12,2,H,rister
-12,3,V,ignis
-12,5,V,ti
-12,5,V,tist
-12,5,V,tists
-13,8,H,jj
-13,8,V,jed
-13,8,V,jedi
-14,1,V,its
-14,3,H,nis
-14,3,H,nisi
-14,4,V,ipa
-14,8,H,eel
-14,8,H,eellike
-14,10,V,lch
-14,12,V,irs
-14,13,V,kir
-15,0,V,sq
-15,7,V,jp
-15,15,V,tg
-16,15,H,gj
+5,8,V,ia
+5,8,V,ian
+5,8,V,ians
+5,12,V,its
+7,0,H,utis
+7,3,V,si
+7,3,V,sijs
+7,3,V,sijsje
+7,3,V,sijsjes
+7,14,H,ist
+7,14,V,inpers
+7,14,V,inperst
+7,16,V,this
+9,0,H,stijf
+9,2,V,ikke
+9,2,V,ikken
+9,9,V,rig
+9,9,V,right
+9,9,V,rightist
+9,12,V,oss
+9,12,V,osse
+9,12,V,osset
+9,12,V,osseter
+9,12,V,osseters
+10,10,V,jer
+10,10,V,jeri
+10,11,V,fr
+12,2,H,eerier
+12,12,H,eise
+12,12,H,eises
+12,16,V,ste
+13,0,H,lins
+13,1,V,isth
+13,8,H,stigt
+13,8,V,sad
+13,8,V,sado
+13,11,V,goh
+14,4,H,gg
+14,4,H,ggz
+14,4,V,gps
+14,6,V,zij
+14,11,H,oeh
+14,13,V,hij
+15,0,V,sr
+15,2,V,ry
+15,10,V,ct
+15,15,V,to
+16,15,H,oj
 
 Board:
    0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16
  0 I  d  e  n  t  I  t  e  i  t  S  c  r  i  s  I  s
- 1 n  i  t  e  s  ▢  e  x  t  ▢  t  h  e  e  s  ▢  h
- 2 t  j  a  p  ▢  o  r  c  a  ▢  r  o  i  s  t  ▢  i
- 3 e  t  s  t  ▢  p  r  e  s  s  o  r  s  ▢  ▢  h  s
- 4 r  ▢  ▢  ▢  e  t  e  n  ▢  o  o  t  s  ▢  j  a  t
+ 1 n  i  t  e  s  ▢  e  x  t  ▢  p  h  o  n  s  ▢  h
+ 2 t  j  a  p  ▢  o  r  c  a  ▢  i  i  i  p  ▢  j  i
+ 3 e  t  s  t  ▢  i  r  e  s  ▢  j  e  n  a  ▢  o  s
+ 4 r  ▢  ▢  ▢  e  k  e  n  ▢  ▢  t  f  ▢  s  ▢  d  t
  5 I  r  r  e  s  I  s  t  i  b  I  l  i  t  i  E  s
- 6 e  i  s  t  ▢  c  t  r  ▢  s  m  e  t  ▢  n  m  ▢
- 7 u  t  i  s  ▢  u  r  i  s  ▢  a  r  e  n  g  a  ▢
- 8 r  s  ▢  e  ▢  s  i  s  t  ▢  n  s  ▢  o  k  t  a
- 9 s  t  i  r  p  ▢  s  c  i  ▢  d  ▢  ▢  p  o  u  f
+ 6 e  i  s  ▢  a  s  t  r  a  ▢  g  i  t  e  ▢  n  ▢
+ 7 u  t  i  s  ▢  t  r  i  n  ▢  s  n  s  ▢  i  s  t
+ 8 r  s  ▢  i  ▢  s  i  s  s  ▢  t  g  ▢  ▢  n  t  h
+ 9 s  t  i  j  f  ▢  s  c  ▢  r  ▢  ▢  o  ▢  p  e  i
 10 T  e  k  s  t  S  c  h  r  i  J  f  s  t  e  R  s
-11 i  n  e  ▢  s  ▢  h  e  s  j  e  s  ▢  ▢  s  i  t
-12 j  ▢  r  i  s  t  e  r  ▢  s  s  h  ▢  ▢  ▢  a  i
-13 l  ▢  s  g  ▢  i  ▢  ▢  j  j  ▢  ▢  ▢  ▢  ▢  s  j
-14 ▢  i  ▢  n  i  s  i  ▢  e  e  l  l  i  k  e  ▢  g
+11 i  ▢  k  j  ▢  t  h  e  ▢  g  e  r  s  ▢  r  r  ▢
+12 j  ▢  e  e  r  i  e  r  ▢  h  r  ▢  e  i  s  e  s
+13 l  i  n  s  ▢  j  ▢  ▢  s  t  i  g  t  ▢  t  n  t
+14 ▢  s  ▢  ▢  g  g  z  ▢  a  i  ▢  o  e  h  ▢  ▢  e
 15 S  t  r  i  p  T  i  j  d  s  C  h  r  i  f  T  ▢
-16 q  s  ▢  s  a  s  ▢  p  i  ▢  h  ▢  s  r  ▢  g  j
+16 r  h  y  ▢  s  ▢  j  ▢  o  t  t  ▢  s  j  ▢  o  j
 
-Score: 41,050
+Score: 41,054
 
-Solving for size 17 took 37,203.65ms
+Solving for size 17 took 28,451.95ms

@@ -1,6 +1,6 @@
-Moves (36):
+Moves (32):
 0,0,H,spiritists
-0,8,V,trijs
+0,5,V,trist
 5,0,H,tritheists
 0,0,V,sp
 0,0,V,splittist
@@ -8,47 +8,43 @@ Moves (36):
 0,1,V,prijsrecht
 0,2,V,is
 0,2,V,isis
-0,4,V,in
-0,4,V,inf
-0,4,V,infight
-0,4,V,infighter
-0,4,V,infighters
-0,5,V,tr
-0,6,V,ic
-0,6,V,ict
-0,6,V,icteric
-0,6,V,icterical
-0,6,V,ictericals
-0,8,V,trijste
-0,9,V,spiraster
-0,9,V,spirasters
-2,4,H,fit
-3,4,H,ine
-4,3,H,hg
-4,3,V,htm
-4,3,V,html
-4,6,H,rosa
-4,7,V,osha
-4,7,V,oshac
-4,7,V,oshacs
-7,0,H,scale
-7,2,V,ag
-7,2,V,agr
-9,0,H,stres
+0,4,V,ijsschots
+0,5,V,tristeza
+0,7,V,stijfst
+0,7,V,stijfster
+0,7,V,stijfsters
+0,8,V,tri
+0,8,V,trio
+0,8,V,triootje
+0,8,V,triootjes
+0,9,V,sa
+0,9,V,sai
+0,9,V,sait
+0,9,V,saiths
+4,3,H,ict
+4,3,V,its
+7,0,H,sci
+7,2,V,ier
+7,4,H,taxeer
+7,6,V,xi
+7,6,V,xie
+8,0,H,thess
+8,3,V,so
+9,5,H,tes
 
 Board:
   0  1  2  3  4  5  6  7  8  9
 0 S  p  i  r  i  T  i  s  t  s
-1 p  r  s  ▢  n  r  c  ▢  r  p
-2 l  i  i  ▢  f  i  t  ▢  i  i
-3 i  j  s  ▢  i  n  e  ▢  j  r
-4 t  s  ▢  h  g  ▢  r  o  s  a
+1 p  r  s  ▢  j  r  ▢  t  r  a
+2 l  i  i  ▢  s  i  ▢  i  i  i
+3 i  j  s  ▢  s  s  ▢  j  o  t
+4 t  s  ▢  i  c  t  ▢  f  o  h
 5 T  r  i  t  h  E  i  s  t  s
-6 i  e  ▢  m  t  ▢  c  h  e  t
-7 s  c  a  l  e  ▢  a  a  ▢  e
-8 t  h  g  ▢  r  ▢  l  c  ▢  r
-9 s  t  r  e  s  ▢  s  s  ▢  s
+6 i  e  ▢  s  o  z  ▢  t  j  ▢
+7 s  c  i  ▢  t  a  x  e  e  r
+8 t  h  e  s  s  ▢  i  r  s  ▢
+9 s  t  r  o  ▢  t  e  s  ▢  ▢
 
-Score: 2,981
+Score: 3,170
 
-Solving for size 10 took 14,519.46ms
+Solving for size 10 took 5,976.23ms
