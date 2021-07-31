@@ -1,78 +1,95 @@
-Moves (55):
+Moves (72):
 0,0,H,schrijfstertjes
-0,0,V,spiritstirring
+0,3,V,ritst
 5,0,H,tsjerkestrjitte
-10,0,H,restitutionists
-0,5,V,ji
-0,5,V,jin
-0,5,V,jinriksha
-0,10,V,re
-0,10,V,ret
-0,10,V,retroject
-0,10,V,retrojecting
-2,0,H,in
-2,0,H,int
-2,0,H,intern
-2,0,H,interne
-2,0,H,internet
-2,0,H,internets
-2,0,H,internetsite
-2,0,H,internetsites
-7,0,H,te
-7,0,H,ter
-7,0,H,tere
-7,0,H,terecht
-7,0,H,terechtbracht
-12,0,H,ni
-12,0,H,nigh
-12,0,H,night
-12,0,H,nights
-12,0,H,nightshirt
-0,2,V,het
-0,2,V,hetzij
-0,7,V,sit
-0,7,V,sith
-0,7,V,sithes
-0,12,V,jesu
-0,12,V,jesuit
-1,0,H,pee
-1,0,H,peet
-4,0,H,isis
-8,0,H,init
-8,0,H,initial
-8,0,H,initialisation
-8,0,H,initialisations
-9,0,H,rg
-9,0,H,rgb
-13,0,H,gi
-13,0,H,gis
-13,0,H,gist
-13,0,H,gisting
-13,0,H,gistingsproces
-0,6,V,fie
-0,9,V,epi
-0,9,V,epimer
-0,14,V,syn
-0,14,V,synthetists
+5,13,V,trijs
+10,0,H,lithontriptists
+0,0,V,sc
+0,0,V,schiet
+0,0,V,schietspelletje
+0,1,V,cor
+0,1,V,corr
+0,1,V,corrosibilities
+0,2,V,hl
+0,3,V,ritsten
+0,4,V,in
+0,4,V,ins
+0,4,V,insurrect
+0,4,V,insurrection
+0,4,V,insurrectionist
+0,6,V,fe
+0,6,V,feat
+0,6,V,feather
+0,6,V,feathers
+0,6,V,featherstitch
+0,6,V,featherstitches
+0,7,V,sa
+0,7,V,sal
+0,7,V,salfischberger
+0,8,V,tss
+0,9,V,eto
+0,9,V,etos
+0,10,V,rs
+0,12,V,ji
+0,12,V,jiujitsu
+0,12,V,jiujitsus
+0,13,V,etty
+0,14,V,ss
+0,14,V,sss
+2,11,H,juts
+3,9,H,st
+3,10,V,tij
+3,10,V,tijd
+3,10,V,tijdkritisch
+4,6,H,hip
+4,8,V,pta
+4,8,V,ptah
+4,10,H,iii
+4,14,V,hei
+4,14,V,heit
+5,2,V,jest
+5,13,V,trijste
+7,10,H,kruit
+8,9,H,trosje
+8,9,V,top
+8,9,V,toppie
+8,9,V,toppier
+9,3,H,firie
+9,3,V,fha
+9,9,H,oio
+10,2,V,th
+10,2,V,tho
+10,2,V,thor
+10,2,V,thors
+10,12,V,stir
+10,12,V,stirs
+10,14,V,stig
+10,14,V,stigt
+12,6,H,henis
+13,0,H,jerks
+13,12,H,rig
+13,13,V,io
+14,4,H,tis
+14,8,H,hrh
 
 Board:
    0  1  2  3  4  5  6  7  8  9 10 11 12 13 14
  0 S  c  h  r  i  J  f  s  t  e  R  t  j  e  s
- 1 p  e  e  t  ▢  i  i  i  ▢  p  e  ▢  e  ▢  y
- 2 i  n  t  e  r  n  e  t  s  i  t  e  s  ▢  n
- 3 r  ▢  z  ▢  ▢  r  ▢  h  ▢  m  r  ▢  u  ▢  t
- 4 i  s  i  s  ▢  i  ▢  e  ▢  e  o  ▢  i  ▢  h
+ 1 c  o  l  i  n  ▢  e  a  s  t  s  ▢  i  t  s
+ 2 h  r  ▢  t  s  ▢  a  l  s  o  ▢  j  u  t  s
+ 3 i  r  ▢  s  u  ▢  t  f  ▢  s  t  ▢  j  y  ▢
+ 4 e  o  ▢  t  r  ▢  h  i  p  ▢  i  i  i  ▢  h
  5 T  s  j  e  r  K  e  s  t  r  J  i  t  t  e
- 6 s  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢  ▢  e  ▢  ▢  ▢  t
- 7 t  e  r  e  c  h  t  b  r  a  c  h  t  ▢  i
- 8 i  n  i  t  i  a  l  i  s  a  t  i  o  n  s
- 9 r  g  b  ▢  ▢  ▢  ▢  ▢  ▢  ▢  i  ▢  ▢  ▢  t
-10 R  e  s  t  i  T  u  t  i  o  N  i  s  t  s
-11 i  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  g  ▢  ▢  ▢  ▢
-12 n  i  g  h  t  s  h  i  r  t  ▢  ▢  ▢  ▢  ▢
-13 g  i  s  t  i  n  g  s  p  r  o  c  e  s  ▢
-14 ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+ 6 s  i  e  n  e  ▢  r  c  a  ▢  d  ▢  s  r  i
+ 7 p  b  s  ▢  c  ▢  s  h  h  ▢  k  r  u  i  t
+ 8 e  i  t  ▢  t  ▢  t  b  ▢  t  r  o  s  j  e
+ 9 l  l  ▢  f  i  r  i  e  ▢  o  i  o  ▢  s  ▢
+10 L  i  t  h  o  N  t  r  i  p  T  i  s  t  s
+11 e  t  h  a  n  ▢  c  g  ▢  p  i  ▢  t  e  t
+12 t  i  o  ▢  i  ▢  h  e  n  i  s  ▢  i  ▢  i
+13 j  e  r  k  s  ▢  e  r  ▢  e  c  ▢  r  i  g
+14 e  s  s  ▢  t  i  s  ▢  h  r  h  ▢  s  o  t
 
-Score: 7,815
+Score: 11,716
 
-Solving for size 15 took 1,985.86ms
+Solving for size 15 took 18,990.55ms

@@ -1,67 +1,88 @@
-Moves (45):
+Moves (66):
 0,0,H,spiritstirring
-0,0,V,spiritistische
-5,0,H,troostprijsjes
-10,0,H,skriesstrjitte
-0,5,V,th
-0,5,V,thir
-0,5,V,thirst
-0,5,V,thirstiness
-0,5,V,thirstinesses
-0,10,V,ra
-0,10,V,rad
-0,10,V,radiesthesist
-0,10,V,radiesthesists
-2,0,H,in
-2,0,H,inbezittreding
-7,0,H,sc
-7,0,H,schijn
-7,0,H,schijnwijsheid
-12,0,H,hyp
-12,0,H,hype
-12,0,H,hypers
-12,0,H,hypersensitise
-0,2,V,imbizo
-0,7,V,tit
-0,7,V,titter
-0,12,V,non
-0,12,V,noncredit
-1,0,H,pim
-1,0,H,pima
-3,0,H,rei
-3,0,H,reit
-3,0,H,reiter
-3,0,H,reiterate
-6,0,H,if
-8,0,H,ts
-8,0,H,tsar
-11,0,H,ce
-11,0,H,cee
-11,0,H,cees
-13,0,H,es
-13,0,H,est
-13,0,H,ests
-0,6,V,seta
-0,9,V,rie
-0,13,V,gegons
+0,11,V,ijsje
+5,0,H,lithotriptists
+5,13,V,stipt
+10,0,H,spiritistische
+0,0,V,si
+0,0,V,sig
+0,0,V,sigh
+0,0,V,sightline
+0,0,V,sightliness
+0,0,V,sightlinesses
+0,1,V,pa
+0,1,V,par
+0,1,V,para
+0,1,V,paradijs
+0,1,V,paradijsappel
+0,1,V,paradijsappels
+0,2,V,is
+0,2,V,ise
+0,2,V,ises
+0,3,V,ri
+0,3,V,rig
+0,3,V,righthand
+0,3,V,righthander
+0,3,V,righthanders
+0,5,V,to
+0,5,V,toe
+0,5,V,toelating
+0,5,V,toelatingstest
+0,6,V,spoorrijtuig
+0,6,V,spoorrijtuigen
+0,7,V,ti
+0,7,V,tifosi
+0,9,V,re
+0,9,V,res
+0,9,V,resist
+0,9,V,resistivities
+0,12,V,na
+0,12,V,nag
+0,12,V,nagi
+0,12,V,nagisting
+0,13,V,gi
+0,13,V,git
+0,13,V,gite
+1,5,H,opine
+4,3,H,tiars
+4,9,H,shes
+4,10,V,hirs
+4,10,V,hirsels
+5,8,V,pl
+5,8,V,plas
+5,8,V,plasstop
+5,13,V,stipter
+5,13,V,stiptere
+8,0,H,eard
+8,2,V,rei
+8,2,V,reif
+8,2,V,reify
+10,11,V,ci
+10,11,V,cijs
+10,12,V,he
+10,12,V,hee
+10,12,V,heet
+12,4,H,tse
+12,4,V,tc
+13,10,H,ist
 
 Board:
    0  1  2  3  4  5  6  7  8  9 10 11 12 13
  0 S  p  i  r  i  T  s  t  i  r  R  i  n  g
- 1 p  i  m  a  ▢  h  e  i  ▢  i  a  ▢  o  e
- 2 i  n  b  e  z  i  t  t  r  e  d  i  n  g
- 3 r  e  i  t  e  r  a  t  e  ▢  i  ▢  c  o
- 4 i  ▢  z  ▢  ▢  s  ▢  e  ▢  ▢  e  ▢  r  n
- 5 T  r  o  o  s  T  p  r  i  j  S  j  e  s
- 6 i  f  ▢  ▢  ▢  i  ▢  ▢  ▢  ▢  t  ▢  d  ▢
- 7 s  c  h  i  j  n  w  i  j  s  h  e  i  d
- 8 t  s  a  r  ▢  e  ▢  ▢  ▢  ▢  e  ▢  t  ▢
- 9 i  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢
-10 S  k  r  i  e  S  s  t  r  j  I  t  t  e
-11 c  e  e  s  ▢  e  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢
-12 h  y  p  e  r  s  e  n  s  i  t  i  s  e
-13 e  s  t  s  ▢  ▢  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢
+ 1 i  a  s  i  ▢  o  p  i  n  e  ▢  j  a  i
+ 2 g  r  e  g  ▢  e  o  f  ▢  s  ▢  s  g  t
+ 3 h  a  s  h  ▢  l  o  o  ▢  i  ▢  j  i  e
+ 4 t  d  ▢  t  i  a  r  s  ▢  s  h  e  s  ▢
+ 5 L  i  t  h  o  T  r  i  p  t  I  s  t  s
+ 6 i  j  ▢  a  ▢  i  i  ▢  l  i  r  ▢  i  t
+ 7 n  s  ▢  n  ▢  n  j  ▢  a  v  s  ▢  n  i
+ 8 e  a  r  d  ▢  g  t  ▢  s  i  e  ▢  g  p
+ 9 s  p  e  e  ▢  s  u  ▢  s  t  l  ▢  ▢  t
+10 S  p  i  r  i  T  i  s  t  i  S  c  h  e
+11 e  e  f  s  ▢  e  g  ▢  o  e  ▢  i  e  r
+12 s  l  y  ▢  t  s  e  ▢  p  s  ▢  j  e  e
+13 ▢  s  ▢  ▢  c  t  n  ▢  ▢  ▢  i  s  t  ▢
 
-Score: 7,087
+Score: 11,064
 
-Solving for size 14 took 1,702.64ms
+Solving for size 14 took 16,028.61ms

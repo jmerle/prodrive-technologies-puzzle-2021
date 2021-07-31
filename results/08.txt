@@ -1,38 +1,40 @@
-Moves (22):
+Moves (24):
 0,0,H,tsitsith
-0,0,V,tightish
-5,0,H,iritises
-0,5,V,ij
-0,5,V,ijs
-0,5,V,ijspiste
-2,0,H,gj
-2,0,H,gjetost
-2,0,H,gjetosts
-7,0,H,hi
-7,0,H,his
-7,0,H,hiss
-7,0,H,hissies
-7,0,H,hissiest
-0,2,V,ine
-0,2,V,inertias
-0,7,V,hisses
-3,0,H,har
-3,0,H,harumphs
-4,0,H,tit
-4,0,H,titi
-0,4,V,stom
+0,3,V,trijs
+5,0,H,pittigst
+0,0,V,ts
+0,0,V,tsjirp
+0,0,V,tsjirpt
+0,0,V,tsjirpte
+0,1,V,stithies
+0,2,V,ie
+0,2,V,ier
+0,3,V,trijste
+0,4,V,sf
+0,5,V,ite
+0,5,V,ites
+0,6,V,ter
+0,6,V,tersest
+2,5,H,ers
+2,7,V,stithy
+4,0,H,rhos
+4,2,V,ott
+4,2,V,otte
+5,4,V,is
+5,4,V,ist
+7,4,H,tj
 
 Board:
   0  1  2  3  4  5  6  7
 0 T  s  i  t  s  I  t  h
-1 i  ▢  n  ▢  t  j  ▢  i
-2 g  j  e  t  o  s  t  s
-3 h  a  r  u  m  p  h  s
-4 t  i  t  i  ▢  i  ▢  e
-5 I  r  i  t  i  S  e  s
-6 s  ▢  a  ▢  ▢  t  ▢  ▢
-7 h  i  s  s  i  e  s  t
+1 s  t  e  r  f  t  e  ▢
+2 j  i  r  i  ▢  e  r  s
+3 i  t  ▢  j  ▢  s  s  t
+4 r  h  o  s  ▢  ▢  e  i
+5 P  i  t  t  i  G  s  t
+6 t  e  t  e  s  ▢  t  h
+7 e  s  e  ▢  t  j  ▢  y
 
-Score: 1,708
+Score: 2,335
 
-Solving for size 8 took 509.40ms
+Solving for size 8 took 2,937.75ms

@@ -1,96 +1,133 @@
-Moves (70):
+Moves (107):
 0,0,H,sportiviteitsprijs
-0,0,V,stichtingsregister
-5,0,H,tekstschrijfsters
-10,0,H,registratieletters
-15,0,H,toetsingsgrootheid
+0,11,V,trist
+5,0,H,stichtingsregister
+5,9,V,shist
+10,0,H,vrijheidsstrijders
+10,8,V,stijg
+15,0,H,oostfrontstrijders
+0,0,V,sl
+0,0,V,slijpschijven
+0,1,V,pr
+0,1,V,pro
+0,1,V,prop
+0,1,V,propitiator
+0,1,V,propitiatories
+0,3,V,rh
+0,3,V,rho
+0,3,V,rhotic
+0,3,V,rhoticity
+0,4,V,to
+0,4,V,toe
+0,4,V,toes
+0,4,V,toeschiet
 0,5,V,in
-0,5,V,ine
-0,5,V,inelastic
-0,5,V,inelasticities
-0,10,V,int
-0,10,V,interj
-0,10,V,interject
-0,10,V,interjectie
-0,10,V,interjecties
-0,15,V,ins
-0,15,V,inschrijf
-0,15,V,inschrijfperiode
-2,0,H,interess
-2,0,H,interessant
-2,0,H,interessants
-2,0,H,interessantst
-2,0,H,interessantste
-7,0,H,ni
-7,0,H,nih
-7,0,H,nihilist
-7,0,H,nihilistisch
-7,0,H,nihilistische
-7,0,H,nihilistischer
-12,0,H,gl
-12,0,H,glit
-12,0,H,glitter
-12,0,H,glittert
-12,0,H,glittertje
-17,0,H,re
-17,0,H,reg
-17,0,H,regi
-17,0,H,regis
-17,0,H,registratie
-17,0,H,registratiedossier
-0,2,V,ott
-0,2,V,ottink
-0,7,V,ijs
-0,7,V,ijsschots
-0,12,V,sot
-0,12,V,sottisier
-0,17,V,si
-0,17,V,sis
-0,17,V,sist
-0,17,V,sists
-1,0,H,tet
-1,0,H,tetten
-3,0,H,cii
-6,0,H,ip
-8,0,H,gs
-8,0,H,gsm
-11,0,H,es
-11,0,H,ese
-11,0,H,eses
-14,0,H,sh
-14,0,H,shi
-14,0,H,shist
-16,0,H,et
-0,4,V,terr
-0,4,V,territ
-0,8,V,tra
-0,8,V,tram
-0,8,V,tramtrein
-0,11,V,tes
-0,11,V,tess
-0,14,V,rr
+0,5,V,inf
+0,5,V,infect
+0,5,V,infectie
+0,6,V,vi
+0,7,V,igraine
+0,9,V,eijt
+0,10,V,ie
+0,11,V,tristesse
+0,12,V,ss
+0,12,V,sss
+0,13,V,pe
+0,13,V,pet
+0,13,V,petitio
+0,13,V,petition
+0,13,V,petitions
+0,15,V,ind
+0,15,V,industrie
+0,15,V,industriesectoren
+0,16,V,ju
+0,16,V,jus
+0,16,V,just
+0,16,V,justeer
+0,16,V,justeerde
+0,17,V,st
+0,17,V,sto
+0,17,V,stop
+0,17,V,stoper
+2,7,H,rij
+2,8,V,ir
+3,7,H,artis
+3,10,V,ivriet
+7,0,H,hanteer
+7,6,V,re
+7,6,V,repitition
+7,8,H,gies
+7,8,H,giesen
+7,8,V,ge
+7,12,V,er
+7,12,V,eruit
+7,12,V,eruitgezien
+7,15,H,idi
+7,17,V,iris
+7,17,V,iriscopist
+9,0,H,jot
+9,2,V,tit
+9,2,V,titties
+9,5,H,fp
+9,5,H,fps
+9,5,V,feh
+9,5,V,fehm
+9,5,V,fehme
+9,14,H,hs
+9,14,V,hdd
+10,4,V,hp
+10,10,V,tr
+10,10,V,tri
+10,10,V,trie
+10,10,V,triest
+10,10,V,triestig
+10,11,V,ri
+10,11,V,rin
+10,11,V,rins
+10,11,V,rinser
+10,11,V,rinsers
+10,16,V,rc
+10,16,V,rca
+12,0,H,nett
+12,3,V,test
+12,3,V,testis
+12,5,H,miii
+12,10,H,ings
+12,13,V,sr
+14,0,V,jots
+14,2,H,est
+14,7,V,gnoe
+14,14,H,trui
+14,16,V,uri
+14,16,V,uris
+15,1,V,oh
+15,1,V,ohg
+15,5,V,ris
+15,9,V,set
+15,13,V,jr
+17,3,H,sis
 
 Board:
    0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17
  0 S  p  o  r  t  I  v  i  t  e  I  t  s  p  r  I  j  s
- 1 t  e  t  t  e  n  ▢  j  r  ▢  n  e  o  ▢  r  n  ▢  i
- 2 i  n  t  e  r  e  s  s  a  n  t  s  t  e  ▢  s  ▢  s
- 3 c  i  i  ▢  r  l  ▢  s  m  ▢  e  s  t  ▢  ▢  c  ▢  t
- 4 h  ▢  n  ▢  i  a  ▢  c  t  ▢  r  ▢  i  ▢  ▢  h  ▢  s
- 5 T  e  k  s  t  S  c  h  r  i  J  f  s  t  e  R  s  ▢
- 6 i  p  ▢  ▢  ▢  t  ▢  o  e  ▢  e  ▢  i  ▢  ▢  i  ▢  ▢
- 7 n  i  h  i  l  i  s  t  i  s  c  h  e  r  ▢  j  ▢  ▢
- 8 g  s  m  ▢  ▢  c  ▢  s  n  ▢  t  ▢  r  ▢  ▢  f  ▢  ▢
- 9 s  ▢  ▢  ▢  ▢  i  ▢  ▢  ▢  ▢  i  ▢  ▢  ▢  ▢  p  ▢  ▢
-10 R  e  g  i  s  T  r  a  t  i  E  l  e  t  t  E  r  s
-11 e  s  e  s  ▢  i  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢  ▢  r  ▢  ▢
-12 g  l  i  t  t  e  r  t  j  e  ▢  ▢  ▢  ▢  ▢  i  ▢  ▢
-13 i  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  o  ▢  ▢
-14 s  h  i  s  t  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  d  ▢  ▢
-15 T  o  e  t  s  I  n  g  s  g  R  o  o  t  h  E  i  d
-16 e  t  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
-17 r  e  g  i  s  t  r  a  t  i  e  d  o  s  s  i  e  r
+ 1 l  r  ▢  h  o  n  i  g  ▢  i  e  r  s  e  ▢  n  u  t
+ 2 i  o  ▢  o  e  f  ▢  r  i  j  ▢  i  s  t  ▢  d  s  o
+ 3 j  p  ▢  t  s  e  ▢  a  r  t  i  s  ▢  i  ▢  u  t  p
+ 4 p  i  ▢  i  c  c  ▢  i  ▢  ▢  v  t  ▢  t  ▢  s  e  e
+ 5 S  t  i  c  h  T  i  n  g  s  R  e  g  i  s  T  e  r
+ 6 c  i  ▢  i  i  i  ▢  e  ▢  h  i  s  ▢  o  ▢  r  r  ▢
+ 7 h  a  n  t  e  e  r  ▢  g  i  e  s  e  n  ▢  i  d  i
+ 8 i  t  ▢  y  t  ▢  e  ▢  e  s  t  e  r  s  ▢  e  e  r
+ 9 j  o  t  ▢  ▢  f  p  s  ▢  t  ▢  ▢  u  ▢  h  s  ▢  i
+10 V  r  i  j  h  E  i  d  s  s  T  r  i  j  d  E  r  s
+11 e  i  t  ▢  p  h  t  ▢  t  ▢  r  i  t  ▢  d  c  c  c
+12 n  e  t  t  ▢  m  i  i  i  ▢  i  n  g  s  ▢  t  a  o
+13 ▢  s  i  e  ▢  e  t  ▢  j  ▢  e  s  e  r  ▢  o  ▢  p
+14 j  ▢  e  s  t  ▢  i  g  g  ▢  s  e  z  ▢  t  r  u  i
+15 O  o  s  t  f  R  o  n  t  s  T  r  i  j  d  E  r  s
+16 t  h  ▢  i  ▢  i  n  o  ▢  e  i  s  e  r  ▢  n  i  t
+17 s  g  ▢  s  i  s  ▢  e  ▢  t  g  ▢  n  ▢  ▢  ▢  s  ▢
 
-Score: 25,348
+Score: 43,299
 
-Solving for size 18 took 2,637.88ms
+Solving for size 18 took 40,046.94ms

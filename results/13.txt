@@ -1,62 +1,85 @@
-Moves (41):
+Moves (64):
 0,0,H,rijstdistrict
-0,0,V,resistivities
-5,0,H,thirstinesses
-10,0,H,ijzergieterij
-0,5,V,dr
-0,5,V,drivethrough
-0,5,V,drivethroughs
+0,8,V,trijs
+5,0,H,lithotritists
+5,7,V,ijsje
+10,0,H,spiritistisch
+0,0,V,ri
+0,0,V,rit
+0,0,V,ritual
+0,0,V,ritualist
+0,0,V,ritualistisch
+0,1,V,irrision
+0,1,V,irrisions
+0,2,V,je
+0,2,V,jeat
+0,3,V,ss
+0,3,V,sst
+0,5,V,di
+0,5,V,dis
+0,5,V,disinter
+0,5,V,disinterest
+0,5,V,disinterests
+0,6,V,ish
+0,6,V,ishtar
+0,7,V,sa
+0,7,V,sar
 0,10,V,in
-0,10,V,ins
-0,10,V,insp
-0,10,V,inspissator
-0,10,V,inspissators
-2,0,H,st
-2,0,H,stijgijzers
-7,0,H,vi
-7,0,H,vis
-7,0,H,visser
-7,0,H,vissers
-7,0,H,vissersstraat
-12,0,H,stijfst
-12,0,H,stijfster
-12,0,H,stijfsters
-0,2,V,jai
-0,2,V,jais
-0,7,V,suzann
-0,7,V,suzannes
-0,12,V,te
-0,12,V,ted
-0,12,V,tediosity
-1,0,H,esa
-3,0,H,ias
-3,0,H,iasi
-6,0,H,ie
-6,0,H,iet
-6,0,H,iets
-8,0,H,ij
-11,0,H,eo
-11,0,H,eoe
-0,4,V,tig
-0,8,V,treitert
-0,11,V,ci
+0,10,V,int
+0,10,V,intr
+0,10,V,intrusion
+0,10,V,intrusionist
+0,10,V,intrusionists
+0,11,V,cr
+0,11,V,cros
+0,11,V,crosstie
+0,11,V,crossties
+0,12,V,ta
+0,12,V,tal
+0,12,V,tali
+0,12,V,talies
+0,12,V,taliesin
+3,4,H,tit
+3,4,V,trot
+3,4,V,trots
+3,4,V,trotsheid
+4,3,H,erna
+4,3,V,ehs
+4,8,H,souse
+4,9,V,oil
+7,0,H,sns
+7,2,V,sp
+7,2,V,sprit
+7,2,V,sprits
+7,4,H,sris
+8,4,H,hekje
+8,8,V,eit
+8,8,V,eitje
+9,2,H,rees
+9,3,V,erit
+9,12,V,th
+9,12,V,thij
+10,9,V,ie
+10,9,V,iet
+12,0,H,hist
+12,7,H,jets
 
 Board:
    0  1  2  3  4  5  6  7  8  9 10 11 12
  0 R  i  j  s  t  D  i  s  t  r  I  c  t
- 1 e  s  a  ▢  i  r  ▢  u  r  ▢  n  i  e
- 2 s  t  i  j  g  i  j  z  e  r  s  ▢  d
- 3 i  a  s  i  ▢  v  ▢  a  i  ▢  p  ▢  i
- 4 s  ▢  ▢  ▢  ▢  e  ▢  n  t  ▢  i  ▢  o
- 5 T  h  i  r  s  T  i  n  e  s  S  e  s
- 6 i  e  t  s  ▢  h  ▢  e  r  ▢  s  ▢  i
- 7 v  i  s  s  e  r  s  s  t  r  a  a  t
- 8 i  j  ▢  ▢  ▢  o  ▢  ▢  ▢  ▢  t  ▢  y
- 9 t  ▢  ▢  ▢  ▢  u  ▢  ▢  ▢  ▢  o  ▢  ▢
-10 I  j  z  e  r  G  i  e  t  e  R  i  j
-11 e  o  e  ▢  ▢  h  ▢  ▢  ▢  ▢  s  ▢  ▢
-12 s  t  i  j  f  s  t  e  r  s  ▢  ▢  ▢
+ 1 i  r  e  s  ▢  i  s  a  r  ▢  n  r  a
+ 2 t  r  a  t  ▢  s  h  r  i  ▢  t  o  l
+ 3 u  i  t  ▢  t  i  t  ▢  j  ▢  r  s  i
+ 4 a  s  ▢  e  r  n  a  ▢  s  o  u  s  e
+ 5 L  i  t  h  o  T  r  i  t  i  S  t  s
+ 6 i  o  ▢  s  t  e  ▢  j  ▢  l  i  i  i
+ 7 s  n  s  ▢  s  r  i  s  ▢  ▢  o  e  n
+ 8 t  s  p  ▢  h  e  k  j  e  ▢  n  s  ▢
+ 9 i  ▢  r  e  e  s  ▢  e  i  ▢  i  ▢  t
+10 S  p  i  r  i  T  i  s  t  i  S  c  h
+11 c  ▢  t  i  d  s  ▢  ▢  j  e  t  ▢  i
+12 h  i  s  t  ▢  ▢  ▢  j  e  t  s  ▢  j
 
-Score: 6,495
+Score: 10,468
 
-Solving for size 13 took 1,588.78ms
+Solving for size 13 took 13,004.30ms

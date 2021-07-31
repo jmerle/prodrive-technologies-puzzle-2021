@@ -1,102 +1,168 @@
-Moves (74):
+Moves (140):
 0,0,H,prioriteitenlijstjes
-0,0,V,prioriteitenlijstje
+0,6,V,trijs
 5,0,H,identiteitscrisissen
-10,0,H,elektriciteitscrisis
-15,0,H,stichtingsvoorzitter
-0,5,V,in
-0,5,V,int
-0,5,V,interieur
-0,5,V,interieurproduct
-0,5,V,interieurproducten
-0,10,V,ei
-0,10,V,eiwitsynthese
-0,10,V,eiwitsyntheses
-0,15,V,sp
-0,15,V,spe
-0,15,V,spel
-0,15,V,spelling
-0,15,V,spellinghervorming
-0,15,V,spellinghervormingen
-2,0,H,inject
-2,0,H,injectie
-2,0,H,injectiegeweer
-7,0,H,ex
-7,0,H,ext
-7,0,H,extrauterine
-12,0,H,li
-12,0,H,lim
-12,0,H,limp
-12,0,H,limpid
-12,0,H,limpidnesses
-17,0,H,ja
-17,0,H,jar
-17,0,H,jargon
-17,0,H,jargonregister
-0,2,V,injure
-0,7,V,ere
-0,7,V,eremieten
-0,12,V,lie
-0,12,V,lieg
-0,12,V,lieger
-0,12,V,liegers
+5,16,V,stijg
+10,0,H,vrijheidsstrijdster
+10,18,V,ritst
+15,0,H,integriteitskwesties
+0,0,V,po
+0,0,V,pos
+0,0,V,post
+0,0,V,posthitis
+0,1,V,re
+0,1,V,rec
+0,1,V,reco
+0,1,V,record
+0,1,V,recordist
+0,2,V,ir
+0,2,V,iris
+0,2,V,irissen
+0,3,V,os
+0,5,V,id
+0,5,V,ide
+0,5,V,identificeer
+0,5,V,identificeerbaar
+0,5,V,identificeerbaarheid
+0,6,V,trijste
+0,7,V,ee
+0,7,V,eet
+0,8,V,ie
+0,9,V,tsar
+0,9,V,tsaritsa
+0,9,V,tsaritsas
+0,11,V,no
+0,11,V,non
+0,11,V,nonsecret
+0,11,V,nonsecretor
+0,11,V,nonsecretories
+0,12,V,li
+0,12,V,lic
+0,12,V,lich
+0,12,V,lichtrijk
+0,13,V,iso
+0,14,V,je
+0,16,V,tij
+0,16,V,tijs
 0,17,V,jo
-0,17,V,joy
-0,17,V,joyless
-0,17,V,joylessness
-0,17,V,joylessnesses
-1,0,H,rent
-1,0,H,renten
-4,0,H,rort
-4,0,H,rorter
-8,0,H,ins
-8,0,H,insp
-8,0,H,inspiring
-11,0,H,ni
-11,0,H,nie
-11,0,H,nier
-13,0,H,ii
-16,0,H,tie
-16,0,H,tiet
-18,0,H,er
-18,0,H,ers
-0,4,V,reciet
-0,8,V,ing
-0,8,V,ingo
-0,8,V,ingooi
-0,13,V,irrision
-0,13,V,irrisions
-0,16,V,to
-0,16,V,tom
-0,16,V,tome
-0,18,V,ets
-0,18,V,etst
-0,18,V,etstoel
-0,19,V,ss
+0,17,V,jor
+0,17,V,jori
+0,17,V,jorissen
+0,18,V,es
+2,4,H,heit
+3,0,H,tost
+3,8,H,irish
+3,8,V,icing
+3,8,V,icings
+3,10,V,ivs
+3,15,H,isit
+3,15,V,irisates
+3,18,V,toe
+3,18,V,toet
+3,18,V,toets
+3,18,V,toetst
+4,4,H,its
+4,4,V,ite
+4,4,V,item
+4,13,V,sit
+4,17,H,sot
+5,16,V,stijgtijd
+7,3,H,emi
+7,3,V,eenjarige
+7,3,V,eenjarigen
+7,7,H,pga
+7,7,V,pr
+7,7,V,predigest
+7,7,V,predigestion
+7,7,V,predigestions
+7,14,H,gains
+7,14,H,gainst
+7,19,V,tri
+8,0,H,stie
+8,2,V,irised
+8,11,H,tko
+8,13,V,otje
+8,13,V,otjens
+9,5,H,epe
+9,6,V,pie
+9,6,V,piek
+9,6,V,piekt
+9,10,H,ho
+9,13,H,thegn
+9,14,V,hdmi
+9,17,V,new
+9,17,V,newed
+10,0,V,vi
+10,0,V,vijf
+10,0,V,vijftig
+10,0,V,vijftigste
+10,1,V,rs
+10,8,V,sj
+10,9,V,sn
+10,9,V,sno
+10,9,V,snot
+10,9,V,snottiness
+10,18,V,ritsten
+11,16,H,iwis
+11,19,V,se
+12,9,H,ote
+12,10,V,tilt
+12,10,V,tiltyard
+13,2,H,dilate
+13,4,V,log
+13,4,V,logic
+13,4,V,logici
+13,9,H,tists
+13,12,V,tik
+13,12,V,tiks
+13,12,V,tikster
+13,15,H,odds
+13,15,V,ops
+13,15,V,opstijg
+14,0,H,tx
+14,14,H,hp
+14,14,V,hen
+14,14,V,henbit
+14,18,H,th
+14,19,V,hsbc
+15,11,V,ses
+15,16,V,tu
+15,16,V,tut
+15,16,V,tuts
+17,0,H,sst
+17,1,V,syn
+17,2,V,tet
+17,4,H,ceto
+17,14,H,bitt
+17,17,V,tty
+18,7,H,nasr
+19,5,H,dts
+19,17,H,yr
+19,17,H,yrs
 
 Board:
    0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19
  0 P  r  i  o  r  I  t  e  i  t  E  n  l  i  j  S  t  j  e  s
- 1 r  e  n  t  e  n  ▢  r  n  ▢  i  ▢  i  r  ▢  p  o  o  t  s
- 2 i  n  j  e  c  t  i  e  g  e  w  e  e  r  ▢  e  m  y  s  ▢
- 3 o  ▢  u  ▢  i  e  ▢  m  o  ▢  i  ▢  g  i  ▢  l  e  l  t  ▢
- 4 r  o  r  t  e  r  ▢  i  o  ▢  t  ▢  e  s  ▢  l  ▢  e  o  ▢
+ 1 o  e  r  s  ▢  d  r  e  e  s  ▢  o  i  s  e  ▢  i  o  s  ▢
+ 2 s  c  i  ▢  h  e  i  t  ▢  a  ▢  n  c  o  ▢  ▢  j  r  ▢  ▢
+ 3 t  o  s  t  ▢  n  j  ▢  i  r  i  s  h  ▢  ▢  i  s  i  t  ▢
+ 4 h  r  s  ▢  i  t  s  ▢  c  i  v  e  t  s  ▢  r  ▢  s  o  t
  5 I  d  e  n  t  I  t  e  i  t  S  c  r  i  s  I  s  s  e  n
- 6 t  ▢  ▢  ▢  ▢  e  ▢  t  ▢  ▢  y  ▢  s  o  ▢  n  ▢  s  l  ▢
- 7 e  x  t  r  a  u  t  e  r  i  n  e  ▢  n  ▢  g  ▢  n  ▢  ▢
- 8 i  n  s  p  i  r  i  n  g  ▢  t  ▢  ▢  s  ▢  h  ▢  e  ▢  ▢
- 9 t  ▢  ▢  ▢  ▢  p  ▢  ▢  ▢  ▢  h  ▢  ▢  ▢  ▢  e  ▢  s  ▢  ▢
-10 E  l  e  k  t  R  i  c  i  t  E  i  t  s  c  R  i  s  i  s
-11 n  i  e  r  ▢  o  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢  ▢  v  ▢  e  ▢  ▢
-12 l  i  m  p  i  d  n  e  s  s  e  s  ▢  ▢  ▢  o  ▢  s  ▢  ▢
-13 i  i  ▢  ▢  ▢  u  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢  ▢  r  ▢  ▢  ▢  ▢
-14 j  ▢  ▢  ▢  ▢  c  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  m  ▢  ▢  ▢  ▢
-15 S  t  i  c  h  T  i  n  g  s  V  o  o  r  z  I  t  t  e  r
-16 t  i  e  t  ▢  e  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  n  ▢  ▢  ▢  ▢
-17 j  a  r  g  o  n  r  e  g  i  s  t  e  r  ▢  g  ▢  ▢  ▢  ▢
-18 e  r  s  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  e  ▢  ▢  ▢  ▢
-19 ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  n  ▢  ▢  ▢  ▢
+ 6 t  i  n  ▢  e  f  e  ▢  n  s  ▢  r  i  t  ▢  s  t  e  t  ▢
+ 7 i  s  ▢  e  m  i  ▢  p  g  a  ▢  e  j  ▢  g  a  i  n  s  t
+ 8 s  t  i  e  ▢  c  ▢  r  s  s  ▢  t  k  o  ▢  t  j  ▢  t  r
+ 9 ▢  ▢  r  n  ▢  e  p  e  ▢  ▢  h  o  ▢  t  h  e  g  n  ▢  i
+10 V  r  i  j  h  E  i  d  s  s  T  r  i  j  d  S  t  e  r  ▢
+11 i  s  s  a  ▢  r  e  i  j  n  ▢  i  ▢  e  m  ▢  i  w  i  s
+12 j  ▢  e  r  ▢  b  k  g  ▢  o  t  e  ▢  n  i  ▢  j  e  t  e
+13 f  ▢  d  i  l  a  t  e  ▢  t  i  s  t  s  ▢  o  d  d  s  ▢
+14 t  x  ▢  g  o  a  ▢  s  ▢  t  l  ▢  i  ▢  h  p  ▢  ▢  t  h
+15 I  n  t  e  g  R  i  t  e  i  T  s  k  w  e  S  t  i  e  s
+16 g  ▢  ▢  n  i  h  ▢  i  ▢  n  y  e  s  ▢  n  t  u  ▢  n  b
+17 s  s  t  ▢  c  e  t  o  ▢  e  a  s  t  ▢  b  i  t  t  ▢  c
+18 t  y  e  ▢  i  i  ▢  n  a  s  r  ▢  e  ▢  i  j  s  t  ▢  ▢
+19 e  n  t  ▢  ▢  d  t  s  ▢  s  d  ▢  r  ▢  t  g  ▢  y  r  s
 
-Score: 27,070
+Score: 47,242
 
-Solving for size 20 took 2,554.38ms
+Solving for size 20 took 41,237.80ms

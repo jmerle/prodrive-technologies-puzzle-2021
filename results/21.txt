@@ -1,109 +1,182 @@
-Moves (80):
+Moves (153):
 0,0,H,postimpressionistisch
-0,0,V,politierechterzitting
+0,2,V,shist
 5,0,H,inschrijvingsregister
-10,0,H,huisvestingssituaties
-15,0,H,integriteitscommissie
-20,0,H,gezondheidsstatistiek
-0,5,V,me
-0,5,V,men
-0,5,V,mens
-0,5,V,menstrua
-0,5,V,menstruatie
-0,5,V,menstruaties
-0,5,V,menstruatiestoornis
-0,10,V,sc
-0,10,V,schijn
-0,10,V,schijnbeweging
+5,17,V,shirt
+10,0,H,integriteitscommissie
+10,7,V,tight
+15,0,H,terrorismebestrijders
+15,3,V,ritst
+20,0,H,integriteitsschending
+0,0,V,po
+0,0,V,pol
+0,0,V,poli
+0,0,V,politie
+0,0,V,politieregistratie
+0,0,V,politieregistraties
+0,1,V,oc
+0,1,V,oca
+0,1,V,ocarina
+0,1,V,ocarinas
+0,3,V,te
+0,3,V,tet
+0,4,V,is
+0,4,V,ish
+0,6,V,politiebericht
+0,7,V,ri
+0,7,V,rij
+0,7,V,rijt
+0,7,V,rijtijd
+0,7,V,rijtijden
+0,8,V,es
+0,9,V,se
+0,9,V,sei
+0,9,V,seignior
+0,9,V,seigniors
+0,9,V,seigniorship
+0,9,V,seigniorships
+0,11,V,in
+0,11,V,inc
+0,11,V,inco
+0,11,V,incongruous
+0,11,V,incongruousnesses
+0,12,V,ob
+0,12,V,obs
+0,12,V,obsess
+0,12,V,obsessor
+0,12,V,obsessors
+0,13,V,na
+0,13,V,nat
+0,13,V,nats
 0,15,V,st
 0,15,V,str
 0,15,V,streight
 0,15,V,streights
-0,20,V,he
-0,20,V,her
-0,20,V,hervorm
-0,20,V,hervormingsproject
-2,0,H,la
-2,0,H,lan
-2,0,H,land
-2,0,H,landing
-2,0,H,landings
-2,0,H,landingsschip
-7,0,H,re
-7,0,H,rec
-7,0,H,recreatie
-7,0,H,recreatiegemeente
-12,0,H,et
-12,0,H,etiket
-12,0,H,etikettering
-12,0,H,etiketteringsplicht
-17,0,H,ti
-17,0,H,tij
-17,0,H,tijd
-17,0,H,tijdrijder
-17,0,H,tijdrijders
-17,0,H,tijdrijderscapaciteit
-0,2,V,sen
-0,2,V,sens
-0,2,V,sensis
-0,7,V,ris
-0,7,V,rist
-0,12,V,opp
-0,12,V,oppresses
-0,17,V,ij
-0,17,V,ijzigst
-1,0,H,ore
-1,0,H,oreide
-3,0,H,ils
-3,0,H,ilse
-6,0,H,ei
-8,0,H,etiketje
-8,0,H,etiketjes
-11,0,H,tibi
-11,0,H,tibias
-14,0,H,zo
-14,0,H,zoo
-14,0,H,zoop
-14,0,H,zoophobia
-14,0,H,zoophobias
-18,0,H,inc
-18,0,H,inca
-18,0,H,incasso
-18,0,H,incassotraject
-19,0,H,ng
-0,8,V,eis
-0,8,V,eish
-0,13,V,nj
-0,16,V,ta
-0,16,V,tai
-0,16,V,tail
-0,18,V,so
-0,18,V,soa
+0,16,V,typ
+0,16,V,typifier
+0,16,V,typifiers
+0,17,V,ir
+0,18,V,ses
+0,18,V,sestet
+0,18,V,sestets
+0,19,V,ce
+0,19,V,cen
+0,19,V,cenote
+2,18,H,sns
+2,20,V,sc
+2,20,V,schrijf
+2,20,V,schrijfsel
+2,20,V,schrijfseltjes
+3,5,H,sit
+3,5,V,sur
+3,5,V,surnamer
+3,5,V,surnamers
+3,9,H,groes
+3,10,V,ran
+4,0,H,titi
+4,3,V,ich
+4,3,V,ichtegem
+4,3,V,ichtegemse
+4,14,H,rif
+5,4,V,ho
+5,13,V,rei
+5,13,V,reis
+5,13,V,reiskoffertje
+5,13,V,reiskoffertjes
+7,5,H,abear
+7,8,V,ae
+7,8,V,aere
+7,19,H,jj
+7,19,V,jo
+7,19,V,josie
+7,19,V,josien
+7,19,V,josiens
+8,2,H,je
+8,2,V,jet
+8,2,V,jets
+8,2,V,jetski
+9,0,H,gleg
+9,0,H,glegger
+9,13,H,kt
+9,14,V,tmh
+9,17,H,tass
+9,18,V,ast
+9,18,V,asti
+10,10,V,tis
+10,10,V,tist
+10,15,V,ma
+10,15,V,maj
+10,15,V,majori
+10,15,V,majoritaire
+12,0,H,tekst
+12,4,V,tr
+12,4,V,trio
+12,4,V,triomf
+12,15,H,ji
+12,16,V,ij
+13,6,H,thg
+13,8,V,gam
+13,8,V,game
+13,8,V,games
+13,8,V,gamesite
+14,0,H,ah
+14,1,V,hei
+14,1,V,heij
+14,1,V,heijden
+14,4,H,iq
+14,7,H,tag
+14,9,V,gehop
+14,17,H,jf
+14,18,V,fer
+14,18,V,ferrari
+15,6,V,ist
+15,6,V,isth
+15,6,V,isthmi
+15,14,V,rot
+15,14,V,roth
+15,16,V,ja
+15,16,V,jas
+15,16,V,jast
+15,19,V,rav
+15,19,V,ravi
+15,19,V,ravijn
+17,6,H,tyson
+17,10,V,nast
+17,12,H,getas
+17,18,H,rvs
+17,20,V,sr
+18,5,H,sh
+18,5,V,ser
+18,8,H,ipad
+18,11,V,dis
+19,1,H,egt
+19,5,H,empt
+19,10,H,sig
 
 Board:
    0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20
  0 P  o  s  t  i  M  p  r  e  s  S  i  o  n  i  S  t  i  s  c  H
- 1 o  r  e  i  d  e  ▢  i  i  ▢  c  ▢  p  j  ▢  t  a  j  o  ▢  e
- 2 l  a  n  d  i  n  g  s  s  c  h  i  p  ▢  ▢  r  i  z  a  ▢  r
- 3 i  l  s  e  ▢  s  ▢  t  h  ▢  i  ▢  r  ▢  ▢  e  l  i  ▢  ▢  v
- 4 t  ▢  i  ▢  ▢  t  ▢  ▢  ▢  ▢  j  ▢  e  ▢  ▢  i  ▢  g  ▢  ▢  o
+ 1 o  c  h  e  s  ▢  o  i  s  e  ▢  n  b  a  ▢  t  y  r  e  e  ▢
+ 2 l  a  i  t  h  ▢  l  j  ▢  i  ▢  c  s  t  ▢  r  p  ▢  s  n  s
+ 3 i  r  s  ▢  ▢  s  i  t  ▢  g  r  o  e  s  ▢  e  i  ▢  t  o  c
+ 4 t  i  t  i  ▢  u  t  i  ▢  n  a  n  s  ▢  r  i  f  ▢  e  t  h
  5 I  n  s  c  h  R  i  j  v  i  N  g  s  r  e  G  i  s  t  e  R
- 6 e  i  ▢  ▢  ▢  u  ▢  ▢  ▢  ▢  b  ▢  s  ▢  ▢  h  ▢  t  ▢  ▢  m
- 7 r  e  c  r  e  a  t  i  e  g  e  m  e  e  n  t  e  ▢  ▢  ▢  i
- 8 e  t  i  k  e  t  j  e  s  ▢  w  ▢  s  ▢  ▢  s  ▢  ▢  ▢  ▢  n
- 9 c  ▢  ▢  ▢  ▢  i  ▢  ▢  ▢  ▢  e  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  g
-10 H  u  i  s  v  E  s  t  i  n  G  s  s  i  t  U  a  t  i  e  S
-11 t  i  b  i  a  s  ▢  ▢  ▢  ▢  i  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  p
-12 e  t  i  k  e  t  t  e  r  i  n  g  s  p  l  i  c  h  t  ▢  r
-13 r  ▢  ▢  ▢  ▢  o  ▢  ▢  ▢  ▢  g  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  o
-14 z  o  o  p  h  o  b  i  a  s  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  j
-15 I  n  t  e  g  R  i  t  e  i  T  s  c  o  m  M  i  s  s  i  E
-16 t  ▢  ▢  ▢  ▢  n  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  c
-17 t  i  j  d  r  i  j  d  e  r  s  c  a  p  a  c  i  t  e  i  t
-18 i  n  c  a  s  s  o  t  r  a  j  e  c  t  ▢  ▢  ▢  ▢  ▢  ▢  ▢
-19 n  g  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
-20 G  e  z  o  n  D  h  e  i  d  S  s  t  a  t  I  s  t  i  e  K
+ 6 e  a  ▢  h  o  n  e  d  ▢  o  ▢  r  o  e  ▢  h  e  h  s  ▢  i
+ 7 r  s  ▢  t  ▢  a  b  e  a  r  ▢  u  r  i  ▢  t  r  i  ▢  j  j
+ 8 e  ▢  j  e  ▢  m  e  n  e  s  ▢  o  s  s  ▢  s  s  r  ▢  o  f
+ 9 g  l  e  g  g  e  r  ▢  r  h  ▢  u  ▢  k  t  ▢  ▢  t  a  s  s
+10 I  n  t  e  g  R  i  t  e  i  T  s  c  o  m  M  i  s  s  i  E
+11 s  ▢  s  m  ▢  s  c  i  ▢  p  i  n  ▢  f  h  a  ▢  ▢  t  e  l
+12 t  e  k  s  t  ▢  h  g  ▢  s  s  e  ▢  f  ▢  j  i  ▢  i  n  t
+13 r  ▢  i  e  r  ▢  t  h  g  ▢  t  s  ▢  e  ▢  o  j  ▢  ▢  s  j
+14 a  h  ▢  ▢  i  q  ▢  t  a  g  ▢  s  ▢  r  ▢  r  ▢  j  f  ▢  e
+15 T  e  r  r  o  R  i  s  m  e  B  e  s  t  r  I  j  d  e  r  S
+16 i  i  ▢  i  m  ▢  s  ▢  e  h  ▢  s  ▢  j  o  t  a  ▢  r  a  ▢
+17 e  j  ▢  t  f  ▢  t  y  s  o  n  ▢  g  e  t  a  s  ▢  r  v  s
+18 s  d  ▢  s  ▢  s  h  ▢  i  p  a  d  ▢  s  h  i  t  ▢  a  i  r
+19 ▢  e  g  t  ▢  e  m  p  t  ▢  s  i  g  ▢  ▢  r  ▢  ▢  r  j  ▢
+20 I  n  t  e  g  R  i  t  e  i  T  s  s  c  h  E  n  d  i  n  G
 
-Score: 86,375
+Score: 163,550
 
-Solving for size 21 took 2,903.00ms
+Solving for size 21 took 49,618.75ms

@@ -1,55 +1,65 @@
-Moves (36):
+Moves (46):
 0,0,H,stresstests
-0,0,V,stijgijzers
-5,0,H,institutist
-10,0,H,spiritistic
-0,5,V,se
-0,5,V,sen
-0,5,V,sens
-0,5,V,sensitief
-0,5,V,sensitiefst
-0,10,V,sp
-0,10,V,spirit
-0,10,V,spiritist
-2,0,H,in
-2,0,H,int
-2,0,H,intern
-2,0,H,internuntii
-7,0,H,zi
-7,0,H,zij
-7,0,H,zijwiel
-7,0,H,zijwieltjes
-0,2,V,rit
-0,2,V,ritjes
-0,7,V,ern
-0,7,V,erne
-0,7,V,ernest
-1,0,H,tui
-1,0,H,tuis
-1,0,H,tuiste
-4,0,H,gre
-4,0,H,greasies
-4,0,H,greasiest
-8,0,H,et
-8,0,H,eto
-8,0,H,etouffee
-0,8,V,sit
-0,9,V,teis
+0,6,V,trijs
+5,0,H,hittestress
+5,9,V,siste
+10,0,H,stijgijzers
+0,0,V,st
+0,0,V,stitch
+0,0,V,stitcher
+0,0,V,stitcheries
+0,1,V,tri
+0,1,V,tristich
+0,1,V,tristichs
+0,2,V,ra
+0,2,V,rai
+0,2,V,rais
+0,3,V,es
+0,3,V,esp
+0,4,V,ss
+0,6,V,trijste
+0,7,V,ei
+0,8,V,sto
+0,8,V,stof
+0,8,V,stofgehalte
+0,9,V,tes
+0,9,V,test
+0,10,V,sn
+0,10,V,snee
+0,10,V,sneers
+2,5,H,mi
+2,5,H,mitose
+2,5,V,mids
+2,5,V,midship
+3,4,H,jij
+3,4,V,jee
+3,4,V,jeetje
+4,3,H,geds
+4,3,V,gte
+7,0,H,rhs
+7,2,V,sh
+7,2,V,shri
+7,7,H,jas
+7,7,H,jast
+7,7,V,jf
+9,2,H,rj
+9,6,V,tj
+9,8,H,ter
 
 Board:
    0  1  2  3  4  5  6  7  8  9 10
  0 S  t  r  e  s  S  t  e  s  t  S
- 1 t  u  i  s  t  e  ▢  r  i  e  p
- 2 i  n  t  e  r  n  u  n  t  i  i
- 3 j  ▢  j  ▢  ▢  s  ▢  e  ▢  s  r
- 4 g  r  e  a  s  i  e  s  t  ▢  i
- 5 I  n  s  t  i  T  u  t  i  s  T
- 6 j  ▢  ▢  ▢  ▢  i  ▢  ▢  ▢  ▢  i
- 7 z  i  j  w  i  e  l  t  j  e  s
- 8 e  t  o  u  f  f  e  e  ▢  ▢  t
- 9 r  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢  ▢  ▢
-10 S  p  i  r  i  T  i  s  t  i  C
+ 1 t  r  a  s  s  ▢  r  i  t  e  n
+ 2 i  i  i  p  ▢  m  i  t  o  s  e
+ 3 t  s  s  ▢  j  i  j  ▢  f  t  e
+ 4 c  t  ▢  g  e  d  s  ▢  g  ▢  r
+ 5 H  i  t  t  e  S  t  r  e  s  S
+ 6 e  c  ▢  e  t  h  e  ▢  h  i  ▢
+ 7 r  h  s  ▢  j  i  ▢  j  a  s  t
+ 8 i  s  h  ▢  e  p  ▢  f  l  t  ▢
+ 9 e  ▢  r  j  ▢  ▢  t  ▢  t  e  r
+10 S  t  i  j  g  I  j  z  e  r  S
 
-Score: 5,625
+Score: 8,559
 
-Solving for size 11 took 1,322.10ms
+Solving for size 11 took 7,564.35ms

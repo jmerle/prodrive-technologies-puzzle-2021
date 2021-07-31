@@ -5,6 +5,15 @@ import com.jaspervanmerle.ptp2021.core.WordList;
 import com.jaspervanmerle.ptp2021.model.Direction;
 import com.jaspervanmerle.ptp2021.model.Move;
 
+import java.util.ArrayDeque;
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Queue;
+import java.util.stream.Collectors;
+
 public class Solver {
     private final int size;
     private final Board board;
@@ -17,47 +26,112 @@ public class Solver {
     }
 
     public void solve() {
-        playBestWord(0, 0, Direction.Horizontal, false);
-        playBestWord(0, 0, Direction.Vertical, false);
+        playBestMultiplierMoves();
 
-        for (int i = 5; i < size; i += 5) {
-            if (board.getCell(0, i) != Board.EMPTY_CELL) {
-                playBestWord(0, i, Direction.Horizontal, false);
-            }
-        }
+        for (int y = 0; y < size; y++) {
+            for (int x = 0; x < size; x++) {
+                if (!isValidStart(x, y)) {
+                    continue;
+                }
 
-        for (int i = 5; i < size; i += 5) {
-            if (board.getCell(i, 0) != Board.EMPTY_CELL) {
-                playBestWord(i, 0, Direction.Vertical, true);
-            }
-        }
-
-        for (int i = 2; i < size; i += 5) {
-            if (board.getCell(0, i) != Board.EMPTY_CELL) {
-                playBestWord(0, i, Direction.Horizontal, true);
-            }
-        }
-
-        for (int i = 2; i < size; i += 5) {
-            if (board.getCell(i, 0) != Board.EMPTY_CELL) {
-                playBestWord(i, 0, Direction.Vertical, true);
-            }
-        }
-
-        for (int i = 0; i < size; i++) {
-            if (board.getCell(0, i) != Board.EMPTY_CELL) {
-                playBestWord(0, i, Direction.Horizontal, true);
-            }
-        }
-
-        for (int i = 0; i < size; i++) {
-            if (board.getCell(i, 0) != Board.EMPTY_CELL) {
-                playBestWord(i, 0, Direction.Vertical, true);
+                playBestWord(x, y, Direction.Horizontal);
+                playBestWord(x, y, Direction.Vertical);
             }
         }
     }
 
-    private void playBestWord(int startX, int startY, Direction direction, boolean useSubMoves) {
+    private void playBestMultiplierMoves() {
+        Queue<String> multiplierWords = new ArrayDeque<>(getBestMultiplierWords());
+
+        List<String> connectingWords = new ArrayList<>(1_000_000);
+        for (String word : wordList) {
+            if (word.length() == 5) {
+                connectingWords.add(word);
+            }
+        }
+
+        int multiplierTileCount = (size - 1) / 5 + 1;
+        for (int i = 0; i < multiplierTileCount; i++) {
+            int previousY = (i - 1) * 5;
+            int currentY = i * 5;
+
+            while (true) {
+                String currentWord = multiplierWords.poll();
+                if (currentWord == null) {
+                    break;
+                }
+
+                if (i == 0) {
+                    board.applyMove(new Move(0, currentY, Direction.Horizontal, currentWord));
+                    break;
+                }
+
+                Move bestConnectingMove = null;
+                int bestConnectingScore = 0;
+
+                int currentWordLength = currentWord.length();
+                for (int j = 0; j < size && j < currentWordLength; j++) {
+                    if (j % 5 == 0) {
+                        continue;
+                    }
+
+                    char startCell = board.getCell(j, previousY);
+                    if (startCell == Board.EMPTY_CELL) {
+                        continue;
+                    }
+
+                    char endCell = currentWord.charAt(j);
+
+                    for (String connectingWord : connectingWords) {
+                        if (connectingWord.charAt(0) != startCell) {
+                            continue;
+                        }
+
+                        if (!wordList.contains(connectingWord + endCell)) {
+                            continue;
+                        }
+
+                        Move move = new Move(j, previousY, Direction.Vertical, connectingWord);
+                        int score = board.getMoveScore(move);
+
+                        if (score != Board.INVALID_MOVE && score > bestConnectingScore) {
+                            bestConnectingMove = move;
+                            bestConnectingScore = score;
+                        }
+                    }
+                }
+
+                if (bestConnectingMove == null) {
+                    continue;
+                }
+
+                board.applyMove(bestConnectingMove);
+                board.applyMove(new Move(0, currentY, Direction.Horizontal, currentWord));
+                break;
+            }
+        }
+    }
+
+    private List<String> getBestMultiplierWords() {
+        Map<String, Integer> multiplierWords = new HashMap<>();
+
+        for (String word : wordList) {
+            Move move = new Move(0, 0, Direction.Horizontal, word);
+            int score = board.getMoveScore(move);
+
+            if (score != Board.INVALID_MOVE) {
+                multiplierWords.put(word, score);
+            }
+        }
+
+        return multiplierWords
+                .keySet()
+                .stream()
+                .sorted(Comparator.comparing(multiplierWords::get).reversed())
+                .collect(Collectors.toList());
+    }
+
+    private void playBestWord(int startX, int startY, Direction direction) {
         String bestWord = "";
         int bestScore = 0;
 
@@ -71,15 +145,21 @@ public class Solver {
             }
         }
 
-        if (useSubMoves) {
-            for (int i = 0; i <= bestWord.length(); i++) {
-                Move subMove = new Move(startX, startY, direction, bestWord.substring(0, i));
-                if (board.getMoveScore(subMove) != Board.INVALID_MOVE) {
-                    board.applyMove(subMove);
-                }
+        for (int i = 0; i <= bestWord.length(); i++) {
+            Move subMove = new Move(startX, startY, direction, bestWord.substring(0, i));
+            if (board.getMoveScore(subMove) != Board.INVALID_MOVE) {
+                board.applyMove(subMove);
             }
-        } else {
-            board.applyMove(new Move(startX, startY, direction, bestWord));
         }
+    }
+
+    private boolean isValidStart(int x, int y) {
+        if (board.getCell(x, y) != Board.EMPTY_CELL) return true;
+        if (x != 0 && board.getCell(x - 1, y) != Board.EMPTY_CELL) return true;
+        if (x != size - 1 && board.getCell(x + 1, y) != Board.EMPTY_CELL) return true;
+        if (y != 0 && board.getCell(x, y - 1) != Board.EMPTY_CELL) return true;
+        if (y != size - 1 && board.getCell(x, y + 1) != Board.EMPTY_CELL) return true;
+
+        return false;
     }
 }

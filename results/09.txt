@@ -1,49 +1,46 @@
-Moves (32):
+Moves (29):
 0,0,H,rightists
+0,4,V,trijs
+5,0,H,shittiest
+0,0,V,ri
+0,0,V,rij
+0,0,V,rijs
 0,0,V,rijststro
-5,0,H,spijtigst
-0,5,V,in
-0,5,V,int
-0,5,V,inti
-0,5,V,intimi
-0,5,V,intimist
-0,5,V,intimists
-2,0,H,jo
-2,0,H,jojo
-2,0,H,jojoot
-2,0,H,jojootje
-2,0,H,jojootjes
-7,0,H,re
-7,0,H,res
-7,0,H,resist
-7,0,H,resister
-7,0,H,resisters
-0,2,V,gij
-0,2,V,gijs
-0,7,V,tjerks
-0,7,V,tjerkstra
-1,0,H,isis
-3,0,H,sss
-6,0,H,te
-6,0,H,ter
-6,0,H,tera
-6,0,H,terais
-8,0,H,ot
-0,8,V,sis
-0,8,V,siss
+0,1,V,iep
+0,1,V,iepenhout
+0,2,V,gt
+0,4,V,trijste
+0,5,V,ir
+0,7,V,th
+0,7,V,thy
+0,7,V,thyristor
+0,8,V,st
+0,8,V,stijntje
+0,8,V,stijntjes
+2,3,H,ti
+2,3,H,tis
+2,3,V,titter
+2,3,V,titters
+4,3,H,tss
+4,5,V,sis
+4,5,V,sist
+4,5,V,sists
+5,2,V,ip
+8,0,H,otis
+8,5,H,sirs
 
 Board:
   0  1  2  3  4  5  6  7  8
 0 R  i  g  h  t  I  s  t  s
-1 i  s  i  s  ▢  n  ▢  j  i
-2 j  o  j  o  o  t  j  e  s
-3 s  s  s  ▢  ▢  i  ▢  r  s
-4 t  ▢  ▢  ▢  ▢  m  ▢  k  ▢
-5 S  p  i  j  t  I  g  s  t
-6 t  e  r  a  i  s  ▢  t  ▢
-7 r  e  s  i  s  t  e  r  s
-8 o  t  ▢  ▢  ▢  s  ▢  a  ▢
+1 i  e  t  ▢  r  r  ▢  h  t
+2 j  p  ▢  t  i  s  ▢  y  i
+3 s  e  ▢  i  j  ▢  ▢  r  j
+4 t  n  ▢  t  s  s  ▢  i  n
+5 S  h  i  t  t  I  e  s  t
+6 t  o  p  e  e  s  ▢  t  j
+7 r  u  ▢  r  ▢  t  ▢  o  e
+8 o  t  i  s  ▢  s  i  r  s
 
-Score: 2,201
+Score: 2,561
 
-Solving for size 9 took 825.65ms
+Solving for size 9 took 4,675.42ms

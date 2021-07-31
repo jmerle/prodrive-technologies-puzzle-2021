@@ -1,62 +1,73 @@
-Moves (42):
+Moves (53):
 0,0,H,tijdritfiets
-0,0,V,trottoirtjes
-5,0,H,orthopristis
-10,0,H,emissieprijs
-0,5,V,ie
-0,5,V,iet
-0,5,V,iets
-0,5,V,ietsepietsie
-0,10,V,ta
-0,10,V,tax
-0,10,V,taxa
-0,10,V,taxatie
-0,10,V,taxatieprijs
-2,0,H,or
-2,0,H,ort
-2,0,H,orth
-2,0,H,orthotist
-7,0,H,ru
-7,0,H,rui
-7,0,H,ruim
-7,0,H,ruimte
-7,0,H,ruimtes
-7,0,H,ruimteschip
-0,2,V,jet
-0,2,V,jets
-0,2,V,jetset
-0,7,V,fysici
-1,0,H,ree
-3,0,H,tss
-6,0,H,io
-8,0,H,te
-8,0,H,tes
-8,0,H,test
-8,0,H,teststrip
-11,0,H,syn
-11,0,H,synthetists
-0,4,V,rho
-0,4,V,rhos
-0,6,V,tri
-0,8,V,ietjes
-0,11,V,sw
-0,11,V,swinish
+0,11,V,shist
+5,0,H,trottoirtjes
+5,3,V,trijs
+10,0,H,institutists
+0,0,V,tr
+0,0,V,tri
+0,0,V,trie
+0,0,V,triest
+0,0,V,triestig
+0,0,V,triestigheid
+0,1,V,in
+0,1,V,ins
+0,1,V,insp
+0,1,V,inspirit
+0,1,V,inspiritment
+0,2,V,ja
+0,2,V,jat
+0,2,V,jato
+0,4,V,re
+0,4,V,ren
+0,4,V,rent
+0,4,V,rentetheorie
+0,5,V,iso
+0,5,V,isogloss
+0,5,V,isoglosse
+0,6,V,ts
+0,6,V,tss
+0,7,V,fe
+0,7,V,fee
+0,7,V,fees
+0,7,V,feestroes
+0,8,V,inst
+0,8,V,institute
+0,10,V,te
+0,10,V,ter
+0,10,V,terr
+0,10,V,terrie
+0,10,V,terrier
+0,10,V,terriers
+3,7,H,stirs
+7,7,H,eths
+7,9,V,hi
+7,9,V,hijs
+7,9,V,hijst
+9,6,V,ju
+9,6,V,jut
+9,9,H,jos
+9,10,V,oto
+9,11,V,sst
+10,2,V,sp
+10,5,V,tf
+10,7,V,ta
 
 Board:
    0  1  2  3  4  5  6  7  8  9 10 11
  0 T  i  j  d  r  I  t  f  i  e  T  s
- 1 r  e  e  ▢  h  e  r  y  e  ▢  a  w
- 2 o  r  t  h  o  t  i  s  t  ▢  x  i
- 3 t  s  s  ▢  s  s  ▢  i  j  ▢  a  n
- 4 t  ▢  e  ▢  ▢  e  ▢  c  e  ▢  t  i
- 5 O  r  t  h  o  P  r  i  s  t  I  s
- 6 i  o  ▢  ▢  ▢  i  ▢  ▢  ▢  ▢  e  h
- 7 r  u  i  m  t  e  s  c  h  i  p  ▢
- 8 t  e  s  t  s  t  r  i  p  ▢  r  ▢
- 9 j  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢  ▢  i  ▢
-10 E  m  i  s  s  I  e  p  r  i  J  s
-11 s  y  n  t  h  e  t  i  s  t  s  ▢
+ 1 r  n  a  ▢  e  s  s  e  n  ▢  e  h
+ 2 i  s  t  ▢  n  o  s  e  s  ▢  r  i
+ 3 e  p  o  ▢  t  g  ▢  s  t  i  r  s
+ 4 s  i  ▢  ▢  e  l  ▢  t  i  ▢  i  t
+ 5 T  r  o  t  t  O  i  r  t  j  E  s
+ 6 i  i  ▢  r  h  s  ▢  o  u  ▢  r  ▢
+ 7 g  t  ▢  i  e  s  ▢  e  t  h  s  ▢
+ 8 h  m  ▢  j  o  e  ▢  s  e  i  ▢  ▢
+ 9 e  e  ▢  s  r  ▢  j  ▢  ▢  j  o  s
+10 I  n  s  t  i  T  u  t  i  s  T  s
+11 d  t  p  ▢  e  f  t  a  ▢  t  o  t
 
-Score: 6,137
+Score: 9,354
 
-Solving for size 12 took 1,291.43ms
+Solving for size 12 took 13,176.71ms

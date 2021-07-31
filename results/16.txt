@@ -1,90 +1,101 @@
-Moves (66):
+Moves (77):
 0,0,H,striptijdschrift
-0,0,V,seropositiviteit
-5,0,H,osteoarthritides
-10,0,H,verzetsstrijders
-15,0,H,tijdsregistratie
+0,9,V,shist
+5,0,H,tijdsregistratie
+5,7,V,grist
+10,0,H,prioriteitsrecht
+10,1,V,ritst
+15,0,H,rechtshistorisch
+0,0,V,so
+0,0,V,soc
+0,0,V,sociotherapeut
+0,1,V,th
+0,1,V,thir
+0,1,V,thirtieth
+0,2,V,ro
+0,2,V,rot
+0,2,V,rots
+0,4,V,pi
+0,4,V,pis
+0,4,V,pisuissestraat
 0,5,V,te
-0,5,V,tes
-0,5,V,test
-0,5,V,testfaciliteit
-0,10,V,co
-0,10,V,con
-0,10,V,cont
-0,10,V,contrist
-0,10,V,contristation
-0,10,V,contristations
-0,15,V,ti
-0,15,V,tig
-0,15,V,tigris
-0,15,V,tigrish
-0,15,V,tigrishness
-0,15,V,tigrishnesses
-2,0,H,re
-2,0,H,req
-2,0,H,requisit
-2,0,H,requisition
-2,0,H,requisitionist
-7,0,H,ign
-7,0,H,ignitibilities
-12,0,H,tr
-12,0,H,tra
-12,0,H,tran
-12,0,H,transi
-12,0,H,transit
-12,0,H,transito
-12,0,H,transitoriness
-12,0,H,transitorinesses
-0,2,V,requit
-0,2,V,requiting
-0,7,V,jet
-0,7,V,jets
-0,7,V,jetset
+0,5,V,tem
+0,5,V,temp
+0,5,V,tempori
+0,5,V,temporis
+0,5,V,temporise
+0,5,V,temporisering
+0,6,V,is
+0,6,V,iscose
+0,8,V,de
+0,8,V,dehumidifying
+0,10,V,cs
+0,10,V,cst
+0,12,V,re
 0,12,V,res
-0,12,V,resinise
-0,12,V,resinises
-1,0,H,ese
-4,0,H,psi
-4,0,H,psis
-8,0,H,teg
-8,0,H,tegellijm
-9,0,H,it
-13,0,H,ex
-13,0,H,exp
-13,0,H,expo
-13,0,H,export
-13,0,H,exportbelasting
-0,4,V,phi
-0,4,V,phis
-0,6,V,ilia
-0,9,V,sto
-0,9,V,stop
-0,9,V,stoper
-0,13,V,int
-0,13,V,intr
-0,13,V,intrad
-0,13,V,intrados
-0,14,V,fc
+0,12,V,rest
+0,12,V,restraighten
+0,12,V,restraightens
+0,13,V,in
+0,13,V,ink
+0,13,V,inkort
+0,13,V,inkortte
+0,14,V,fe
+0,14,V,feit
+0,15,V,tros
+0,15,V,trossers
+3,11,H,stots
+3,11,V,ser
+3,11,V,serr
+3,11,V,serra
+3,11,V,serras
+4,3,H,gios
+4,3,V,gdp
+5,7,V,grister
+5,7,V,gristers
+5,10,V,ted
+5,10,V,tediosity
+7,0,H,ets
+7,2,V,sori
+7,2,V,sorites
+7,10,H,dagers
+7,14,V,ri
+7,14,V,right
+7,14,V,righter
+9,7,H,tygo
+9,12,H,tig
+9,12,H,tigs
+9,13,V,icahn
+9,15,V,ste
+9,15,V,stet
+13,9,H,tyr
+13,9,V,tit
+14,3,V,gh
+14,5,H,sp
+14,5,H,spa
+14,5,H,spahi
+14,12,V,ji
+14,15,V,fh
 
 Board:
    0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15
  0 S  t  r  i  p  T  i  j  d  s  C  h  r  i  f  T
- 1 e  s  e  ▢  h  e  l  e  ▢  t  o  ▢  e  n  c  i
- 2 r  e  q  u  i  s  i  t  i  o  n  i  s  t  ▢  g
- 3 o  ▢  u  ▢  s  t  a  s  ▢  p  t  ▢  i  r  ▢  r
- 4 p  s  i  s  ▢  f  ▢  e  ▢  e  r  ▢  n  a  ▢  i
- 5 O  s  t  e  o  A  r  t  h  r  I  t  i  d  e  S
- 6 s  ▢  i  ▢  ▢  c  ▢  ▢  ▢  ▢  s  ▢  s  o  ▢  h
- 7 i  g  n  i  t  i  b  i  l  i  t  i  e  s  ▢  n
- 8 t  e  g  e  l  l  i  j  m  ▢  a  ▢  s  ▢  ▢  e
- 9 i  t  ▢  ▢  ▢  i  ▢  ▢  ▢  ▢  t  ▢  ▢  ▢  ▢  s
-10 V  e  r  z  e  T  s  s  t  r  I  j  d  e  r  S
-11 i  ▢  ▢  ▢  ▢  e  ▢  ▢  ▢  ▢  o  ▢  ▢  ▢  ▢  e
-12 t  r  a  n  s  i  t  o  r  i  n  e  s  s  e  s
-13 e  x  p  o  r  t  b  e  l  a  s  t  i  n  g  ▢
-14 i  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
-15 T  i  j  d  s  R  e  g  i  s  T  r  a  t  i  E
+ 1 o  h  o  ▢  i  e  s  ▢  e  h  s  ▢  e  n  e  r
+ 2 c  i  t  ▢  s  m  c  ▢  h  i  t  ▢  s  k  i  o
+ 3 i  r  s  ▢  u  p  o  ▢  u  s  ▢  s  t  o  t  s
+ 4 o  t  ▢  g  i  o  s  ▢  m  t  ▢  e  r  r  ▢  s
+ 5 T  i  j  d  s  R  e  g  i  s  T  r  a  t  i  E
+ 6 h  e  ▢  p  s  i  ▢  r  d  ▢  e  r  i  t  ▢  r
+ 7 e  t  s  ▢  e  s  ▢  i  i  ▢  d  a  g  e  r  s
+ 8 r  h  o  ▢  s  e  ▢  s  f  ▢  i  s  h  ▢  i  ▢
+ 9 a  ▢  r  ▢  t  r  ▢  t  y  g  o  ▢  t  i  g  s
+10 P  r  i  o  r  I  t  e  i  t  S  r  e  c  h  T
+11 e  i  t  ▢  a  n  ▢  r  n  ▢  i  ▢  n  a  t  e
+12 u  t  e  ▢  a  g  ▢  s  g  ▢  t  ▢  s  h  e  t
+13 t  s  s  ▢  t  ▢  ▢  ▢  ▢  t  y  r  ▢  n  r  ▢
+14 ▢  t  ▢  g  ▢  s  p  a  h  i  ▢  ▢  j  ▢  ▢  f
+15 R  e  c  h  t  S  h  i  s  t  O  r  i  s  c  H
 
-Score: 22,842
+Score: 38,292
 
-Solving for size 16 took 2,063.68ms
+Solving for size 16 took 25,846.65ms
