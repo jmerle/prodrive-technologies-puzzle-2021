@@ -1,0 +1,96 @@
+Moves (70):
+0,0,H,sportiviteitsprijs
+0,0,V,stichtingsregister
+5,0,H,tekstschrijfsters
+10,0,H,registratieletters
+15,0,H,toetsingsgrootheid
+0,5,V,in
+0,5,V,ine
+0,5,V,inelastic
+0,5,V,inelasticities
+0,10,V,int
+0,10,V,interj
+0,10,V,interject
+0,10,V,interjectie
+0,10,V,interjecties
+0,15,V,ins
+0,15,V,inschrijf
+0,15,V,inschrijfperiode
+2,0,H,interess
+2,0,H,interessant
+2,0,H,interessants
+2,0,H,interessantst
+2,0,H,interessantste
+7,0,H,ni
+7,0,H,nih
+7,0,H,nihilist
+7,0,H,nihilistisch
+7,0,H,nihilistische
+7,0,H,nihilistischer
+12,0,H,gl
+12,0,H,glit
+12,0,H,glitter
+12,0,H,glittert
+12,0,H,glittertje
+17,0,H,re
+17,0,H,reg
+17,0,H,regi
+17,0,H,regis
+17,0,H,registratie
+17,0,H,registratiedossier
+0,2,V,ott
+0,2,V,ottink
+0,7,V,ijs
+0,7,V,ijsschots
+0,12,V,sot
+0,12,V,sottisier
+0,17,V,si
+0,17,V,sis
+0,17,V,sist
+0,17,V,sists
+1,0,H,tet
+1,0,H,tetten
+3,0,H,cii
+6,0,H,ip
+8,0,H,gs
+8,0,H,gsm
+11,0,H,es
+11,0,H,ese
+11,0,H,eses
+14,0,H,sh
+14,0,H,shi
+14,0,H,shist
+16,0,H,et
+0,4,V,terr
+0,4,V,territ
+0,8,V,tra
+0,8,V,tram
+0,8,V,tramtrein
+0,11,V,tes
+0,11,V,tess
+0,14,V,rr
+
+Board:
+   0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17
+ 0 S  p  o  r  t  I  v  i  t  e  I  t  s  p  r  I  j  s
+ 1 t  e  t  t  e  n  ▢  j  r  ▢  n  e  o  ▢  r  n  ▢  i
+ 2 i  n  t  e  r  e  s  s  a  n  t  s  t  e  ▢  s  ▢  s
+ 3 c  i  i  ▢  r  l  ▢  s  m  ▢  e  s  t  ▢  ▢  c  ▢  t
+ 4 h  ▢  n  ▢  i  a  ▢  c  t  ▢  r  ▢  i  ▢  ▢  h  ▢  s
+ 5 T  e  k  s  t  S  c  h  r  i  J  f  s  t  e  R  s  ▢
+ 6 i  p  ▢  ▢  ▢  t  ▢  o  e  ▢  e  ▢  i  ▢  ▢  i  ▢  ▢
+ 7 n  i  h  i  l  i  s  t  i  s  c  h  e  r  ▢  j  ▢  ▢
+ 8 g  s  m  ▢  ▢  c  ▢  s  n  ▢  t  ▢  r  ▢  ▢  f  ▢  ▢
+ 9 s  ▢  ▢  ▢  ▢  i  ▢  ▢  ▢  ▢  i  ▢  ▢  ▢  ▢  p  ▢  ▢
+10 R  e  g  i  s  T  r  a  t  i  E  l  e  t  t  E  r  s
+11 e  s  e  s  ▢  i  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢  ▢  r  ▢  ▢
+12 g  l  i  t  t  e  r  t  j  e  ▢  ▢  ▢  ▢  ▢  i  ▢  ▢
+13 i  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  o  ▢  ▢
+14 s  h  i  s  t  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  d  ▢  ▢
+15 T  o  e  t  s  I  n  g  s  g  R  o  o  t  h  E  i  d
+16 e  t  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+17 r  e  g  i  s  t  r  a  t  i  e  d  o  s  s  i  e  r
+
+Score: 25,348
+
+Solving for size 18 took 2,637.88ms

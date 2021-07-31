@@ -1,0 +1,137 @@
+Moves (104):
+0,0,H,territorialiteitsprincipe
+0,0,V,territorialiteitsbeginsel
+5,0,H,tentoonstellingsinstituut
+10,0,H,landinrichtingscommissies
+15,0,H,terroristenorganisaties
+20,0,H,investeringsopportuniteit
+0,5,V,tr
+0,5,V,tra
+0,5,V,traitor
+0,5,V,traitorousness
+0,10,V,le
+0,10,V,lep
+0,10,V,lepralijdsters
+0,15,V,te
+0,15,V,ter
+0,15,V,terr
+0,15,V,terrestrisch
+0,15,V,terrestrische
+0,20,V,ne
+0,20,V,neg
+0,20,V,negotiatress
+0,20,V,negotiatresses
+2,0,H,re
+2,0,H,rec
+2,0,H,recreatie
+2,0,H,recreatiesport
+7,0,H,ro
+7,0,H,rot
+7,0,H,rots
+7,0,H,rotswoestijn
+7,0,H,rotswoestijnen
+12,0,H,th
+12,0,H,the
+12,0,H,thesis
+12,0,H,thesisonderwerpen
+17,0,H,bi
+17,0,H,bij
+17,0,H,bijstort
+17,0,H,bijstorting
+17,0,H,bijstortingsverplichting
+22,0,H,st
+22,0,H,sto
+22,0,H,stof
+22,0,H,stofwisseling
+22,0,H,stofwisselingsstoornis
+22,0,H,stofwisselingsstoornissen
+0,2,V,reco
+0,2,V,recognition
+0,7,V,roi
+0,7,V,rois
+0,7,V,roists
+0,12,V,tor
+0,12,V,tort
+0,12,V,tortoise
+0,12,V,tortoises
+0,17,V,pi
+0,17,V,pit
+0,17,V,pith
+0,17,V,pithiness
+0,22,V,im
+0,22,V,imp
+0,22,V,impe
+0,22,V,impetuosities
+3,0,H,rio
+3,0,H,rios
+4,0,H,ing
+8,0,H,irid
+8,0,H,iridium
+8,0,H,iridiums
+11,0,H,is
+13,0,H,ea
+13,0,H,ear
+13,0,H,earn
+13,0,H,earnest
+13,0,H,earnests
+14,0,H,ik
+18,0,H,ex
+18,0,H,exp
+18,0,H,expropriation
+18,0,H,expropriations
+21,0,H,no
+21,0,H,nos
+21,0,H,nosh
+21,0,H,nosher
+21,0,H,nosherie
+21,0,H,nosheries
+23,0,H,et
+0,4,V,ide
+0,8,V,iseult
+0,9,V,ass
+0,9,V,asse
+0,13,V,ent
+0,13,V,entwining
+0,14,V,ii
+0,18,V,ros
+0,18,V,rosits
+0,21,V,cr
+0,21,V,cru
+0,21,V,crud
+0,21,V,crudities
+0,23,V,pa
+0,23,V,pas
+0,23,V,pass
+0,23,V,passau
+
+Board:
+   0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+ 0 T  e  r  r  i  T  o  r  i  a  L  i  t  e  i  T  s  p  r  i  N  c  i  p  e
+ 1 e  ▢  e  ▢  d  r  ▢  o  s  s  e  ▢  o  n  i  e  ▢  i  o  ▢  e  r  m  a  ▢
+ 2 r  e  c  r  e  a  t  i  e  s  p  o  r  t  ▢  r  ▢  t  s  ▢  g  u  p  s  ▢
+ 3 r  i  o  s  ▢  i  ▢  s  u  e  r  ▢  t  w  ▢  r  ▢  h  i  ▢  o  d  e  s  ▢
+ 4 i  n  g  ▢  ▢  t  ▢  t  l  ▢  a  ▢  o  i  ▢  e  ▢  i  t  ▢  t  i  t  a  ▢
+ 5 T  e  n  t  o  O  n  s  t  e  L  l  i  n  g  S  i  n  s  t  I  t  u  u  t
+ 6 o  ▢  i  ▢  ▢  r  ▢  ▢  ▢  ▢  i  ▢  s  i  ▢  t  ▢  e  ▢  ▢  a  i  o  ▢  ▢
+ 7 r  o  t  s  w  o  e  s  t  i  j  n  e  n  ▢  r  ▢  s  ▢  ▢  t  e  s  ▢  ▢
+ 8 i  r  i  d  i  u  m  s  ▢  ▢  d  ▢  s  g  ▢  i  ▢  s  ▢  ▢  r  s  i  ▢  ▢
+ 9 a  ▢  o  ▢  ▢  s  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢  ▢  e  ▢  t  ▢  ▢
+10 L  a  n  d  i  N  r  i  c  h  T  i  n  g  s  C  o  m  m  i  S  s  i  e  s
+11 i  s  ▢  ▢  ▢  e  ▢  ▢  ▢  ▢  e  ▢  ▢  ▢  ▢  h  ▢  ▢  ▢  ▢  s  ▢  e  ▢  ▢
+12 t  h  e  s  i  s  o  n  d  e  r  w  e  r  p  e  n  ▢  ▢  ▢  e  ▢  s  ▢  ▢
+13 e  a  r  n  e  s  t  s  ▢  ▢  s  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢  ▢
+14 i  k  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+15 T  e  r  r  o  R  i  s  t  e  N  o  r  g  a  N  i  s  a  t  I  e  s  ▢  ▢
+16 s  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+17 b  i  j  s  t  o  r  t  i  n  g  s  v  e  r  p  l  i  c  h  t  i  n  g  ▢
+18 e  x  p  r  o  p  r  i  a  t  i  o  n  s  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+19 g  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+20 I  n  v  e  s  T  e  r  i  n  G  s  o  p  p  O  r  t  u  n  I  t  e  i  t
+21 n  o  s  h  e  r  i  e  s  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+22 s  t  o  f  w  i  s  s  e  l  i  n  g  s  s  t  o  o  r  n  i  s  s  e  n
+23 e  t  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+24 l  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+
+Score: 97,404
+
+Solving for size 25 took 3,294.17ms

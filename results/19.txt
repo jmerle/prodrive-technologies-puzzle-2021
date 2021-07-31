@@ -1,0 +1,96 @@
+Moves (69):
+0,0,H,vrijheidsstrijdster
+0,0,V,vrijheidsstrijders
+5,0,H,elektriciteitsprijs
+10,0,H,trainingspartijtjes
+15,0,H,expressionistischer
+0,5,V,el
+0,5,V,electro
+0,5,V,electrotypist
+0,5,V,electrotypists
+0,10,V,tj
+0,10,V,tjon
+0,10,V,tjonge
+0,10,V,tjonger
+0,10,V,tjongerstraat
+0,15,V,st
+0,15,V,str
+0,15,V,strafregister
+0,15,V,strafregisters
+2,0,H,in
+2,0,H,ink
+2,0,H,inkt
+2,0,H,inktreservoir
+2,0,H,inktreservoirs
+7,0,H,de
+7,0,H,det
+7,0,H,detent
+7,0,H,detentie
+7,0,H,detentiefase
+7,0,H,detentiefasering
+12,0,H,ins
+12,0,H,inst
+12,0,H,institutist
+12,0,H,institutists
+17,0,H,sp
+17,0,H,sport
+17,0,H,sportiviteit
+17,0,H,sportiviteitsprijs
+0,2,V,inktte
+0,7,V,die
+0,7,V,diet
+0,12,V,ivriet
+0,17,V,ee
+0,17,V,een
+0,17,V,eenzijdig
+0,17,V,eenzijdigheid
+1,0,H,rancel
+3,0,H,jat
+6,0,H,ii
+8,0,H,sta
+8,0,H,stap
+8,0,H,staphylomata
+11,0,H,ru
+11,0,H,rui
+11,0,H,ruin
+11,0,H,ruings
+13,0,H,je
+13,0,H,jee
+13,0,H,jeer
+0,4,V,heriot
+0,8,V,stro
+0,8,V,strooi
+0,11,V,rai
+0,13,V,jas
+0,13,V,jasp
+0,13,V,jaspis
+0,16,V,ti
+0,16,V,tied
+0,18,V,rs
+0,18,V,rsi
+
+Board:
+   0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18
+ 0 V  r  i  j  h  E  i  d  s  s  T  r  i  j  d  S  t  e  r
+ 1 r  a  n  c  e  l  ▢  i  t  ▢  j  a  v  a  ▢  t  i  e  s
+ 2 i  n  k  t  r  e  s  e  r  v  o  i  r  s  ▢  r  e  n  i
+ 3 j  a  t  ▢  i  c  ▢  t  o  ▢  n  ▢  i  p  ▢  a  d  z  ▢
+ 4 h  ▢  t  ▢  o  t  ▢  ▢  o  ▢  g  ▢  e  i  ▢  f  ▢  i  ▢
+ 5 E  l  e  k  t  R  i  c  i  t  E  i  t  s  p  R  i  j  s
+ 6 i  i  ▢  ▢  ▢  o  ▢  ▢  ▢  ▢  r  ▢  ▢  ▢  ▢  e  ▢  d  ▢
+ 7 d  e  t  e  n  t  i  e  f  a  s  e  r  i  n  g  ▢  i  ▢
+ 8 s  t  a  p  h  y  l  o  m  a  t  a  ▢  ▢  ▢  i  ▢  g  ▢
+ 9 s  ▢  ▢  ▢  ▢  p  ▢  ▢  ▢  ▢  r  ▢  ▢  ▢  ▢  s  ▢  h  ▢
+10 T  r  a  i  n  I  n  g  s  p  A  r  t  i  j  T  j  e  s
+11 r  u  i  n  g  s  ▢  ▢  ▢  ▢  a  ▢  ▢  ▢  ▢  e  ▢  i  ▢
+12 i  n  s  t  i  t  u  t  i  s  t  s  ▢  ▢  ▢  r  ▢  d  ▢
+13 j  e  e  r  ▢  s  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢
+14 d  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+15 E  x  p  r  e  S  s  i  o  n  I  s  t  i  s  C  h  e  r
+16 r  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+17 s  p  o  r  t  i  v  i  t  e  i  t  s  p  r  i  j  s  ▢
+18 ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+
+Score: 25,761
+
+Solving for size 19 took 2,567.65ms

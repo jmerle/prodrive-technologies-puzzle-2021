@@ -1,0 +1,102 @@
+Moves (74):
+0,0,H,prioriteitenlijstjes
+0,0,V,prioriteitenlijstje
+5,0,H,identiteitscrisissen
+10,0,H,elektriciteitscrisis
+15,0,H,stichtingsvoorzitter
+0,5,V,in
+0,5,V,int
+0,5,V,interieur
+0,5,V,interieurproduct
+0,5,V,interieurproducten
+0,10,V,ei
+0,10,V,eiwitsynthese
+0,10,V,eiwitsyntheses
+0,15,V,sp
+0,15,V,spe
+0,15,V,spel
+0,15,V,spelling
+0,15,V,spellinghervorming
+0,15,V,spellinghervormingen
+2,0,H,inject
+2,0,H,injectie
+2,0,H,injectiegeweer
+7,0,H,ex
+7,0,H,ext
+7,0,H,extrauterine
+12,0,H,li
+12,0,H,lim
+12,0,H,limp
+12,0,H,limpid
+12,0,H,limpidnesses
+17,0,H,ja
+17,0,H,jar
+17,0,H,jargon
+17,0,H,jargonregister
+0,2,V,injure
+0,7,V,ere
+0,7,V,eremieten
+0,12,V,lie
+0,12,V,lieg
+0,12,V,lieger
+0,12,V,liegers
+0,17,V,jo
+0,17,V,joy
+0,17,V,joyless
+0,17,V,joylessness
+0,17,V,joylessnesses
+1,0,H,rent
+1,0,H,renten
+4,0,H,rort
+4,0,H,rorter
+8,0,H,ins
+8,0,H,insp
+8,0,H,inspiring
+11,0,H,ni
+11,0,H,nie
+11,0,H,nier
+13,0,H,ii
+16,0,H,tie
+16,0,H,tiet
+18,0,H,er
+18,0,H,ers
+0,4,V,reciet
+0,8,V,ing
+0,8,V,ingo
+0,8,V,ingooi
+0,13,V,irrision
+0,13,V,irrisions
+0,16,V,to
+0,16,V,tom
+0,16,V,tome
+0,18,V,ets
+0,18,V,etst
+0,18,V,etstoel
+0,19,V,ss
+
+Board:
+   0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19
+ 0 P  r  i  o  r  I  t  e  i  t  E  n  l  i  j  S  t  j  e  s
+ 1 r  e  n  t  e  n  ▢  r  n  ▢  i  ▢  i  r  ▢  p  o  o  t  s
+ 2 i  n  j  e  c  t  i  e  g  e  w  e  e  r  ▢  e  m  y  s  ▢
+ 3 o  ▢  u  ▢  i  e  ▢  m  o  ▢  i  ▢  g  i  ▢  l  e  l  t  ▢
+ 4 r  o  r  t  e  r  ▢  i  o  ▢  t  ▢  e  s  ▢  l  ▢  e  o  ▢
+ 5 I  d  e  n  t  I  t  e  i  t  S  c  r  i  s  I  s  s  e  n
+ 6 t  ▢  ▢  ▢  ▢  e  ▢  t  ▢  ▢  y  ▢  s  o  ▢  n  ▢  s  l  ▢
+ 7 e  x  t  r  a  u  t  e  r  i  n  e  ▢  n  ▢  g  ▢  n  ▢  ▢
+ 8 i  n  s  p  i  r  i  n  g  ▢  t  ▢  ▢  s  ▢  h  ▢  e  ▢  ▢
+ 9 t  ▢  ▢  ▢  ▢  p  ▢  ▢  ▢  ▢  h  ▢  ▢  ▢  ▢  e  ▢  s  ▢  ▢
+10 E  l  e  k  t  R  i  c  i  t  E  i  t  s  c  R  i  s  i  s
+11 n  i  e  r  ▢  o  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢  ▢  v  ▢  e  ▢  ▢
+12 l  i  m  p  i  d  n  e  s  s  e  s  ▢  ▢  ▢  o  ▢  s  ▢  ▢
+13 i  i  ▢  ▢  ▢  u  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢  ▢  r  ▢  ▢  ▢  ▢
+14 j  ▢  ▢  ▢  ▢  c  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  m  ▢  ▢  ▢  ▢
+15 S  t  i  c  h  T  i  n  g  s  V  o  o  r  z  I  t  t  e  r
+16 t  i  e  t  ▢  e  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  n  ▢  ▢  ▢  ▢
+17 j  a  r  g  o  n  r  e  g  i  s  t  e  r  ▢  g  ▢  ▢  ▢  ▢
+18 e  r  s  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  e  ▢  ▢  ▢  ▢
+19 ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  n  ▢  ▢  ▢  ▢
+
+Score: 27,070
+
+Solving for size 20 took 2,554.38ms

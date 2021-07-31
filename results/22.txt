@@ -1,0 +1,111 @@
+Moves (81):
+0,0,H,inschrijvingsregisters
+0,0,V,inschrijvingsregister
+5,0,H,rijgeschiktheidsattest
+10,0,H,nierfunctiestoornissen
+15,0,H,gistingsverschijnselen
+20,0,H,rechtspositieregeling
+0,5,V,ri
+0,5,V,rij
+0,5,V,rijs
+0,5,V,rijststro
+0,10,V,ni
+0,10,V,nit
+0,10,V,nitwit
+0,10,V,nitwitteries
+0,15,V,gr
+0,15,V,gro
+0,15,V,grondstof
+0,15,V,grondstofprijs
+0,20,V,re
+0,20,V,rec
+0,20,V,rechts
+0,20,V,rechtsvergelijkend
+0,20,V,rechtsvergelijkende
+2,0,H,sc
+2,0,H,schrijf
+2,0,H,schrijfkistje
+2,0,H,schrijfkistjes
+7,0,H,jo
+7,0,H,jon
+7,0,H,jong
+7,0,H,jonger
+7,0,H,jongere
+7,0,H,jongeren
+7,0,H,jongerendienst
+12,0,H,sp
+12,0,H,spirit
+12,0,H,spiritist
+12,0,H,spiritists
+17,0,H,sport
+17,0,H,sportiviteit
+17,0,H,sportiviteitsprijs
+0,2,V,schrijen
+0,7,V,jok
+0,7,V,jokt
+0,12,V,ste
+0,12,V,ster
+0,12,V,sterre
+0,12,V,sterrensysteem
+0,17,V,script
+0,17,V,scripts
+0,17,V,scriptschrijvers
+1,0,H,nico
+3,0,H,cerris
+6,0,H,ine
+6,0,H,inearth
+9,0,H,ij
+9,0,H,ijs
+9,0,H,ijsje
+11,0,H,gs
+11,0,H,gsm
+14,0,H,ep
+14,0,H,epi
+14,0,H,epis
+14,0,H,epistilbite
+14,0,H,epistilbites
+16,0,H,ie
+18,0,H,ta
+18,0,H,tach
+18,0,H,tachymetric
+0,6,V,imf
+0,9,V,issa
+0,13,V,ros
+0,13,V,ross
+0,14,V,ee
+0,18,V,tor
+0,18,V,torr
+0,18,V,torret
+0,18,V,torretje
+0,18,V,torretjes
+0,19,V,et
+0,21,V,sst
+
+Board:
+   0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21
+ 0 I  n  s  c  h  R  i  j  v  i  N  g  s  r  e  G  i  s  t  e  R  s
+ 1 n  i  c  o  ▢  i  m  o  ▢  s  i  ▢  t  o  e  r  ▢  c  o  t  e  s
+ 2 s  c  h  r  i  j  f  k  i  s  t  j  e  s  ▢  o  ▢  r  r  ▢  c  t
+ 3 c  e  r  r  i  s  ▢  t  ▢  a  w  ▢  r  s  ▢  n  ▢  i  r  ▢  h  ▢
+ 4 h  ▢  i  ▢  ▢  t  ▢  ▢  ▢  ▢  i  ▢  r  ▢  ▢  d  ▢  p  e  ▢  t  ▢
+ 5 R  i  j  g  e  S  c  h  i  k  T  h  e  i  d  S  a  t  t  e  S  t
+ 6 i  n  e  a  r  t  h  ▢  ▢  ▢  t  ▢  n  ▢  ▢  t  ▢  s  j  ▢  v  ▢
+ 7 j  o  n  g  e  r  e  n  d  i  e  n  s  t  ▢  o  ▢  c  e  ▢  e  ▢
+ 8 v  ▢  ▢  ▢  ▢  o  ▢  ▢  ▢  ▢  r  ▢  y  ▢  ▢  f  ▢  h  s  ▢  r  ▢
+ 9 i  j  s  j  e  ▢  ▢  ▢  ▢  ▢  i  ▢  s  ▢  ▢  p  ▢  r  ▢  ▢  g  ▢
+10 N  i  e  r  f  U  n  c  t  i  E  s  t  o  o  R  n  i  s  s  E  n
+11 g  s  m  ▢  ▢  ▢  ▢  ▢  ▢  ▢  s  ▢  e  ▢  ▢  i  ▢  j  ▢  ▢  l  ▢
+12 s  p  i  r  i  t  i  s  t  s  ▢  ▢  e  ▢  ▢  j  ▢  v  ▢  ▢  i  ▢
+13 r  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  m  ▢  ▢  s  ▢  e  ▢  ▢  j  ▢
+14 e  p  i  s  t  i  l  b  i  t  e  s  ▢  ▢  ▢  ▢  ▢  r  ▢  ▢  k  ▢
+15 G  i  s  t  i  N  g  s  v  e  R  s  c  h  i  J  n  s  e  l  E  n
+16 i  e  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  n  ▢
+17 s  p  o  r  t  i  v  i  t  e  i  t  s  p  r  i  j  s  ▢  ▢  d  ▢
+18 t  a  c  h  y  m  e  t  r  i  c  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  e  ▢
+19 e  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+20 R  e  c  h  t  S  p  o  s  i  T  i  e  r  e  G  e  l  i  n  G  ▢
+21 ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+
+Score: 88,753
+
+Solving for size 22 took 3,116.69ms

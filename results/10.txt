@@ -1,0 +1,50 @@
+Moves (32):
+0,0,H,spiritists
+0,0,V,stijfsters
+5,0,H,stresstest
+0,5,V,th
+0,5,V,thy
+0,5,V,thyristor
+0,5,V,thyristors
+2,0,H,ic
+2,0,H,ich
+2,0,H,ichthy
+2,0,H,ichthyosis
+7,0,H,ep
+7,0,H,epi
+7,0,H,epis
+7,0,H,epistolist
+0,2,V,inhearsing
+0,7,V,ses
+0,7,V,sess
+0,7,V,sessie
+1,0,H,tin
+1,0,H,tino
+3,0,H,joe
+3,0,H,joet
+6,0,H,tas
+6,0,H,tass
+6,0,H,tasset
+8,0,H,ren
+8,0,H,reno
+0,6,V,ito
+0,9,V,sus
+0,9,V,suscitate
+0,9,V,suscitates
+
+Board:
+  0  1  2  3  4  5  6  7  8  9
+0 S  p  i  r  i  T  i  s  t  s
+1 t  i  n  o  ▢  h  t  e  ▢  u
+2 i  c  h  t  h  y  o  s  i  s
+3 j  o  e  t  ▢  r  ▢  s  ▢  c
+4 f  ▢  a  ▢  ▢  i  ▢  i  ▢  i
+5 S  t  r  e  s  S  t  e  s  t
+6 t  a  s  s  e  t  ▢  ▢  ▢  a
+7 e  p  i  s  t  o  l  i  s  t
+8 r  e  n  o  ▢  r  ▢  ▢  ▢  e
+9 s  ▢  g  ▢  ▢  s  ▢  ▢  ▢  s
+
+Score: 2,245
+
+Solving for size 10 took 905.22ms

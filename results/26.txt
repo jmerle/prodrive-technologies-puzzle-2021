@@ -1,0 +1,138 @@
+Moves (104):
+0,0,H,spijsverteringsstoornissen
+0,0,V,studiefinancieringsstelsel
+5,0,H,elektriciteitsdistributeur
+10,0,H,natuurontwikkelingsproject
+15,0,H,investeringspremieregeling
+20,0,H,toetredingspartnerschappen
+25,0,H,liefdadigheidsorganisaties
+0,5,V,vi
+0,5,V,vis
+0,5,V,visser
+0,5,V,visserij
+0,5,V,visserijstraat
+0,10,V,re
+0,10,V,rei
+0,10,V,reis
+0,10,V,reisbeschrijving
+0,10,V,reisbeschrijvingen
+0,15,V,sp
+0,15,V,spheristerion
+0,15,V,spheristerions
+0,20,V,ni
+0,20,V,nit
+0,20,V,nitrobacter
+0,20,V,nitrobacterium
+0,25,V,na
+0,25,V,naja
+0,25,V,najaar
+0,25,V,najaarszitting
+2,0,H,ui
+2,0,H,uit
+2,0,H,uitgestrooid
+2,0,H,uitgestrooide
+7,0,H,in
+7,0,H,int
+7,0,H,interj
+7,0,H,interjacencies
+12,0,H,interact
+12,0,H,interactieve
+12,0,H,interactiever
+17,0,H,gr
+17,0,H,gro
+17,0,H,groot
+17,0,H,grootboek
+17,0,H,grootboekinschrijving
+17,0,H,grootboekinschrijvingen
+22,0,H,la
+22,0,H,lan
+22,0,H,land
+22,0,H,landinrichting
+22,0,H,landinrichtingscommissie
+22,0,H,landinrichtingscommissies
+0,2,V,interest
+0,2,V,interests
+0,7,V,rort
+0,12,V,nee
+0,12,V,neer
+0,12,V,neeritter
+0,17,V,or
+0,17,V,ork
+0,17,V,orkest
+0,17,V,orkestdirigent
+0,22,V,sc
+0,22,V,schiet
+0,22,V,schietschijf
+0,22,V,schietschijfcellen
+1,0,H,ten
+1,0,H,tenuti
+3,0,H,dse
+6,0,H,fis
+8,0,H,nos
+8,0,H,nostos
+11,0,H,ci
+11,0,H,cier
+13,0,H,eth
+13,0,H,eths
+16,0,H,nu
+16,0,H,nul
+16,0,H,nulcoupon
+18,0,H,si
+18,0,H,sig
+18,0,H,siglos
+21,0,H,ep
+21,0,H,epris
+21,0,H,eprise
+23,0,H,sh
+23,0,H,she
+23,0,H,shes
+0,4,V,ster
+0,4,V,sterft
+0,8,V,tsourises
+0,9,V,eeo
+0,13,V,gj
+0,16,V,th
+0,16,V,the
+0,16,V,theres
+0,16,V,theresia
+0,19,V,ri
+0,19,V,rig
+0,19,V,rightist
+0,19,V,rightists
+0,23,V,stie
+0,23,V,stieren
+0,23,V,stierenoffer
+0,23,V,stierenoffers
+
+Board:
+   0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+ 0 S  p  i  j  s  V  e  r  t  e  R  i  n  g  s  S  t  o  o  r  N  i  s  s  e  N
+ 1 t  e  n  u  t  i  ▢  o  s  e  e  ▢  e  j  ▢  p  h  r  ▢  i  i  ▢  c  t  ▢  a
+ 2 u  i  t  g  e  s  t  r  o  o  i  d  e  ▢  ▢  h  e  k  ▢  g  t  ▢  h  i  ▢  j
+ 3 d  s  e  ▢  r  s  ▢  t  u  ▢  s  ▢  r  ▢  ▢  e  r  e  ▢  h  r  ▢  i  e  ▢  a
+ 4 i  ▢  r  ▢  f  e  ▢  ▢  r  ▢  b  ▢  i  ▢  ▢  r  e  s  ▢  t  o  ▢  e  r  ▢  a
+ 5 E  l  e  k  t  R  i  c  i  t  E  i  t  s  d  I  s  t  r  i  B  u  t  e  u  R
+ 6 f  i  s  ▢  ▢  i  ▢  ▢  s  ▢  s  ▢  t  ▢  ▢  s  i  d  ▢  s  a  ▢  s  n  ▢  s
+ 7 i  n  t  e  r  j  a  c  e  n  c  i  e  s  ▢  t  a  i  ▢  t  c  ▢  c  o  ▢  z
+ 8 n  o  s  t  o  s  ▢  ▢  s  ▢  h  ▢  r  ▢  ▢  e  ▢  r  ▢  s  t  ▢  h  f  ▢  i
+ 9 a  ▢  ▢  ▢  ▢  t  ▢  ▢  ▢  ▢  r  ▢  ▢  ▢  ▢  r  ▢  i  ▢  ▢  e  ▢  i  f  ▢  t
+10 N  a  t  u  u  R  o  n  t  w  I  k  k  e  l  I  n  g  s  p  R  o  j  e  c  T
+11 c  i  e  r  ▢  a  ▢  ▢  ▢  ▢  j  ▢  ▢  ▢  ▢  o  ▢  e  ▢  ▢  i  ▢  f  r  ▢  i
+12 i  n  t  e  r  a  c  t  i  e  v  e  r  ▢  ▢  n  ▢  n  ▢  ▢  u  ▢  c  s  ▢  n
+13 e  t  h  s  ▢  t  ▢  ▢  ▢  ▢  i  ▢  ▢  ▢  ▢  s  ▢  t  ▢  ▢  m  ▢  e  ▢  ▢  g
+14 r  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  n  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  l  ▢  ▢  ▢
+15 I  n  v  e  s  T  e  r  i  n  G  s  p  r  e  M  i  e  r  e  G  e  l  i  n  G
+16 n  u  l  c  o  u  p  o  n  ▢  e  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  e  ▢  ▢  ▢
+17 g  r  o  o  t  b  o  e  k  i  n  s  c  h  r  i  j  v  i  n  g  e  n  ▢  ▢  ▢
+18 s  i  g  l  o  s  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+19 s  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+20 T  o  e  t  r  E  d  i  n  g  S  p  a  r  t  N  e  r  s  c  H  a  p  p  e  N
+21 e  p  r  i  s  e  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+22 l  a  n  d  i  n  r  i  c  h  t  i  n  g  s  c  o  m  m  i  s  s  i  e  s  ▢
+23 s  h  e  s  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+24 e  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+25 L  i  e  f  d  A  d  i  g  h  E  i  d  s  o  R  g  a  n  i  S  a  t  i  e  S
+
+Score: 315,698
+
+Solving for size 26 took 3,420.34ms

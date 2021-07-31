@@ -1,0 +1,34 @@
+Moves (19):
+0,0,H,tittish
+0,0,V,tiritis
+5,0,H,ijstijd
+0,5,V,sh
+0,5,V,shi
+0,5,V,shir
+0,5,V,shirtje
+2,0,H,ri
+2,0,H,ris
+2,0,H,risorii
+0,2,V,tes
+0,2,V,test
+0,2,V,testis
+1,0,H,ide
+1,0,H,idee
+4,0,H,twi
+4,0,H,twistte
+0,6,V,hoi
+0,6,V,hoised
+
+Board:
+  0  1  2  3  4  5  6
+0 T  i  t  t  i  S  h
+1 i  d  e  e  ▢  h  o
+2 r  i  s  o  r  i  i
+3 i  ▢  t  ▢  ▢  r  s
+4 t  w  i  s  t  t  e
+5 I  j  s  t  i  J  d
+6 s  ▢  ▢  ▢  ▢  e  ▢
+
+Score: 1,429
+
+Solving for size 7 took 511.07ms

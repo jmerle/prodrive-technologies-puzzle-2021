@@ -1,0 +1,158 @@
+Moves (120):
+0,0,H,drugsbestrijdingsorganisaties
+0,0,V,drugsbestrijdingsorganisatie
+5,0,H,bedrijfscontactfunctionarissen
+10,0,H,investeringsgoederenindustrie
+15,0,H,geslachtsziektebestrijding
+20,0,H,arbeidsongeschiktheidsperiodes
+25,0,H,transmissiesysteembeheerders
+0,5,V,be
+0,5,V,bed
+0,5,V,bedrijf
+0,5,V,bedrijfsuitje
+0,5,V,bedrijfsuitjes
+0,10,V,in
+0,10,V,int
+0,10,V,intern
+0,10,V,interne
+0,10,V,internet
+0,10,V,internetgigant
+0,15,V,ge
+0,15,V,ges
+0,15,V,gest
+0,15,V,gestoffeerd
+0,15,V,gestoffeerde
+0,15,V,gestoffeerden
+0,20,V,af
+0,20,V,afdeling
+0,20,V,afdelingsdirectie
+0,25,V,ti
+0,25,V,tij
+0,25,V,tijd
+0,25,V,tijdsinvestering
+2,0,H,ui
+2,0,H,uit
+2,0,H,uitgedost
+7,0,H,st
+7,0,H,sta
+7,0,H,staats
+7,0,H,staatsrecht
+7,0,H,staatsrechtgeleerde
+12,0,H,di
+12,0,H,div
+12,0,H,divi
+12,0,H,divide
+12,0,H,dividend
+12,0,H,dividendrendement
+12,0,H,dividendrendementen
+17,0,H,on
+17,0,H,ont
+17,0,H,ontsteking
+17,0,H,ontstekingstijdstip
+22,0,H,inv
+22,0,H,invest
+22,0,H,investering
+22,0,H,investeringsopportuniteit
+22,0,H,investeringsopportuniteiten
+27,0,H,el
+27,0,H,elektriciteit
+27,0,H,elektriciteitsdistributeur
+27,0,H,elektriciteitsdistributeurs
+0,2,V,uitgedaan
+0,7,V,sis
+0,7,V,siss
+0,7,V,sisses
+0,12,V,dig
+0,12,V,digitate
+0,12,V,digitated
+0,17,V,om
+0,17,V,omgrensd
+0,17,V,omgrensde
+0,22,V,ins
+0,22,V,inst
+0,22,V,instandhouding
+0,22,V,instandhoudingsdoel
+0,27,V,ex
+0,27,V,exp
+0,27,V,expres
+0,27,V,express
+0,27,V,expressionist
+0,27,V,expressionistisch
+0,27,V,expressionistische
+0,27,V,expressionistischer
+1,0,H,raio
+3,0,H,gag
+6,0,H,ega
+6,0,H,egad
+9,0,H,rs
+13,0,H,imp
+13,0,H,impress
+13,0,H,impressment
+13,0,H,impressments
+14,0,H,nr
+18,0,H,ri
+18,0,H,rij
+18,0,H,rijk
+18,0,H,rijks
+18,0,H,rijksarchief
+18,0,H,rijksarchiefschool
+21,0,H,nip
+21,0,H,nipple
+21,0,H,nipples
+23,0,H,ss
+24,0,H,ae
+24,0,H,aelbers
+0,6,V,epo
+0,6,V,epos
+0,9,V,rr
+0,13,V,ijs
+0,13,V,ijst
+0,14,V,nl
+0,18,V,ret
+0,18,V,retouche
+0,18,V,retoucher
+0,19,V,gf
+0,23,V,stag
+0,23,V,staggart
+0,23,V,staggarts
+0,28,V,stu
+0,28,V,stud
+0,28,V,studie
+0,28,V,studiewijzer
+
+Board:
+   0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+ 0 D  r  u  g  s  B  e  s  t  r  I  j  d  i  n  G  s  o  r  g  A  n  i  s  a  T  i  e  s  ▢
+ 1 r  a  i  o  ▢  e  p  i  ▢  r  n  ▢  i  j  l  e  ▢  m  e  f  f  ▢  n  t  ▢  i  ▢  x  t  ▢
+ 2 u  i  t  g  e  d  o  s  t  ▢  t  ▢  g  s  ▢  s  ▢  g  t  ▢  d  ▢  s  a  ▢  j  ▢  p  u  ▢
+ 3 g  a  g  ▢  ▢  r  s  s  ▢  ▢  e  ▢  i  t  ▢  t  ▢  r  o  ▢  e  ▢  t  g  ▢  d  ▢  r  d  ▢
+ 4 s  ▢  e  ▢  ▢  i  ▢  e  ▢  ▢  r  ▢  t  ▢  ▢  o  ▢  e  u  ▢  l  ▢  a  g  ▢  s  ▢  e  i  ▢
+ 5 B  e  d  r  i  J  f  s  c  o  N  t  a  c  t  F  u  n  c  t  I  o  n  a  r  I  s  s  e  n
+ 6 e  g  a  d  ▢  f  ▢  ▢  ▢  ▢  e  ▢  t  ▢  ▢  f  ▢  s  h  ▢  n  ▢  d  r  ▢  n  ▢  s  w  ▢
+ 7 s  t  a  a  t  s  r  e  c  h  t  g  e  l  e  e  r  d  e  ▢  g  ▢  h  t  ▢  v  ▢  i  i  ▢
+ 8 t  ▢  n  ▢  ▢  u  ▢  ▢  ▢  ▢  g  ▢  d  ▢  ▢  e  ▢  e  r  ▢  s  ▢  o  s  ▢  e  ▢  o  j  ▢
+ 9 r  s  ▢  ▢  ▢  i  ▢  ▢  ▢  ▢  i  ▢  ▢  ▢  ▢  r  ▢  ▢  ▢  ▢  d  ▢  u  ▢  ▢  s  ▢  n  z  ▢
+10 I  n  v  e  s  T  e  r  i  n  G  s  g  o  e  D  e  r  e  n  I  n  d  u  s  T  r  i  e  ▢
+11 j  ▢  ▢  ▢  ▢  j  ▢  ▢  ▢  ▢  a  ▢  ▢  ▢  ▢  e  ▢  ▢  ▢  ▢  r  ▢  i  ▢  ▢  e  ▢  s  r  ▢
+12 d  i  v  i  d  e  n  d  r  e  n  d  e  m  e  n  t  e  n  ▢  e  ▢  n  ▢  ▢  r  ▢  t  ▢  ▢
+13 i  m  p  r  e  s  s  m  e  n  t  s  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  c  ▢  g  ▢  ▢  i  ▢  i  ▢  ▢
+14 n  r  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  t  ▢  s  ▢  ▢  n  ▢  s  ▢  ▢
+15 G  e  s  l  a  C  h  t  s  z  I  e  k  t  e  B  e  s  t  r  I  j  d  i  n  G  ▢  c  ▢  ▢
+16 s  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  e  ▢  o  ▢  ▢  ▢  ▢  h  ▢  ▢
+17 o  n  t  s  t  e  k  i  n  g  s  t  i  j  d  s  t  i  p  ▢  ▢  ▢  e  ▢  ▢  ▢  ▢  e  ▢  ▢
+18 r  i  j  k  s  a  r  c  h  i  e  f  s  c  h  o  o  l  ▢  ▢  ▢  ▢  l  ▢  ▢  ▢  ▢  r  ▢  ▢
+19 g  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+20 A  r  b  e  i  D  s  o  n  g  E  s  c  h  i  K  t  h  e  i  D  s  p  e  r  I  o  d  e  s
+21 n  i  p  p  l  e  s  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+22 i  n  v  e  s  t  e  r  i  n  g  s  o  p  p  o  r  t  u  n  i  t  e  i  t  e  n  ▢  ▢  ▢
+23 s  s  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+24 a  e  l  b  e  r  s  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+25 T  r  a  n  s  M  i  s  s  i  E  s  y  s  t  E  e  m  b  e  H  e  e  r  d  E  r  s  ▢  ▢
+26 i  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+27 e  l  e  k  t  r  i  c  i  t  e  i  t  s  d  i  s  t  r  i  b  u  t  e  u  r  s  ▢  ▢  ▢
+28 ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+29 ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+
+Score: 344,098
+
+Solving for size 30 took 3,793.77ms

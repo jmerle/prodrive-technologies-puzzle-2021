@@ -1,0 +1,67 @@
+Moves (45):
+0,0,H,spiritstirring
+0,0,V,spiritistische
+5,0,H,troostprijsjes
+10,0,H,skriesstrjitte
+0,5,V,th
+0,5,V,thir
+0,5,V,thirst
+0,5,V,thirstiness
+0,5,V,thirstinesses
+0,10,V,ra
+0,10,V,rad
+0,10,V,radiesthesist
+0,10,V,radiesthesists
+2,0,H,in
+2,0,H,inbezittreding
+7,0,H,sc
+7,0,H,schijn
+7,0,H,schijnwijsheid
+12,0,H,hyp
+12,0,H,hype
+12,0,H,hypers
+12,0,H,hypersensitise
+0,2,V,imbizo
+0,7,V,tit
+0,7,V,titter
+0,12,V,non
+0,12,V,noncredit
+1,0,H,pim
+1,0,H,pima
+3,0,H,rei
+3,0,H,reit
+3,0,H,reiter
+3,0,H,reiterate
+6,0,H,if
+8,0,H,ts
+8,0,H,tsar
+11,0,H,ce
+11,0,H,cee
+11,0,H,cees
+13,0,H,es
+13,0,H,est
+13,0,H,ests
+0,6,V,seta
+0,9,V,rie
+0,13,V,gegons
+
+Board:
+   0  1  2  3  4  5  6  7  8  9 10 11 12 13
+ 0 S  p  i  r  i  T  s  t  i  r  R  i  n  g
+ 1 p  i  m  a  ▢  h  e  i  ▢  i  a  ▢  o  e
+ 2 i  n  b  e  z  i  t  t  r  e  d  i  n  g
+ 3 r  e  i  t  e  r  a  t  e  ▢  i  ▢  c  o
+ 4 i  ▢  z  ▢  ▢  s  ▢  e  ▢  ▢  e  ▢  r  n
+ 5 T  r  o  o  s  T  p  r  i  j  S  j  e  s
+ 6 i  f  ▢  ▢  ▢  i  ▢  ▢  ▢  ▢  t  ▢  d  ▢
+ 7 s  c  h  i  j  n  w  i  j  s  h  e  i  d
+ 8 t  s  a  r  ▢  e  ▢  ▢  ▢  ▢  e  ▢  t  ▢
+ 9 i  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢
+10 S  k  r  i  e  S  s  t  r  j  I  t  t  e
+11 c  e  e  s  ▢  e  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢
+12 h  y  p  e  r  s  e  n  s  i  t  i  s  e
+13 e  s  t  s  ▢  ▢  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢
+
+Score: 7,087
+
+Solving for size 14 took 1,702.64ms

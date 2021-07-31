@@ -1,0 +1,90 @@
+Moves (66):
+0,0,H,striptijdschrift
+0,0,V,seropositiviteit
+5,0,H,osteoarthritides
+10,0,H,verzetsstrijders
+15,0,H,tijdsregistratie
+0,5,V,te
+0,5,V,tes
+0,5,V,test
+0,5,V,testfaciliteit
+0,10,V,co
+0,10,V,con
+0,10,V,cont
+0,10,V,contrist
+0,10,V,contristation
+0,10,V,contristations
+0,15,V,ti
+0,15,V,tig
+0,15,V,tigris
+0,15,V,tigrish
+0,15,V,tigrishness
+0,15,V,tigrishnesses
+2,0,H,re
+2,0,H,req
+2,0,H,requisit
+2,0,H,requisition
+2,0,H,requisitionist
+7,0,H,ign
+7,0,H,ignitibilities
+12,0,H,tr
+12,0,H,tra
+12,0,H,tran
+12,0,H,transi
+12,0,H,transit
+12,0,H,transito
+12,0,H,transitoriness
+12,0,H,transitorinesses
+0,2,V,requit
+0,2,V,requiting
+0,7,V,jet
+0,7,V,jets
+0,7,V,jetset
+0,12,V,res
+0,12,V,resinise
+0,12,V,resinises
+1,0,H,ese
+4,0,H,psi
+4,0,H,psis
+8,0,H,teg
+8,0,H,tegellijm
+9,0,H,it
+13,0,H,ex
+13,0,H,exp
+13,0,H,expo
+13,0,H,export
+13,0,H,exportbelasting
+0,4,V,phi
+0,4,V,phis
+0,6,V,ilia
+0,9,V,sto
+0,9,V,stop
+0,9,V,stoper
+0,13,V,int
+0,13,V,intr
+0,13,V,intrad
+0,13,V,intrados
+0,14,V,fc
+
+Board:
+   0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15
+ 0 S  t  r  i  p  T  i  j  d  s  C  h  r  i  f  T
+ 1 e  s  e  ▢  h  e  l  e  ▢  t  o  ▢  e  n  c  i
+ 2 r  e  q  u  i  s  i  t  i  o  n  i  s  t  ▢  g
+ 3 o  ▢  u  ▢  s  t  a  s  ▢  p  t  ▢  i  r  ▢  r
+ 4 p  s  i  s  ▢  f  ▢  e  ▢  e  r  ▢  n  a  ▢  i
+ 5 O  s  t  e  o  A  r  t  h  r  I  t  i  d  e  S
+ 6 s  ▢  i  ▢  ▢  c  ▢  ▢  ▢  ▢  s  ▢  s  o  ▢  h
+ 7 i  g  n  i  t  i  b  i  l  i  t  i  e  s  ▢  n
+ 8 t  e  g  e  l  l  i  j  m  ▢  a  ▢  s  ▢  ▢  e
+ 9 i  t  ▢  ▢  ▢  i  ▢  ▢  ▢  ▢  t  ▢  ▢  ▢  ▢  s
+10 V  e  r  z  e  T  s  s  t  r  I  j  d  e  r  S
+11 i  ▢  ▢  ▢  ▢  e  ▢  ▢  ▢  ▢  o  ▢  ▢  ▢  ▢  e
+12 t  r  a  n  s  i  t  o  r  i  n  e  s  s  e  s
+13 e  x  p  o  r  t  b  e  l  a  s  t  i  n  g  ▢
+14 i  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+15 T  i  j  d  s  R  e  g  i  s  T  r  a  t  i  E
+
+Score: 22,842
+
+Solving for size 16 took 2,063.68ms

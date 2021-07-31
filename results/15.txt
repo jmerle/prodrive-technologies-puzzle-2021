@@ -1,0 +1,78 @@
+Moves (55):
+0,0,H,schrijfstertjes
+0,0,V,spiritstirring
+5,0,H,tsjerkestrjitte
+10,0,H,restitutionists
+0,5,V,ji
+0,5,V,jin
+0,5,V,jinriksha
+0,10,V,re
+0,10,V,ret
+0,10,V,retroject
+0,10,V,retrojecting
+2,0,H,in
+2,0,H,int
+2,0,H,intern
+2,0,H,interne
+2,0,H,internet
+2,0,H,internets
+2,0,H,internetsite
+2,0,H,internetsites
+7,0,H,te
+7,0,H,ter
+7,0,H,tere
+7,0,H,terecht
+7,0,H,terechtbracht
+12,0,H,ni
+12,0,H,nigh
+12,0,H,night
+12,0,H,nights
+12,0,H,nightshirt
+0,2,V,het
+0,2,V,hetzij
+0,7,V,sit
+0,7,V,sith
+0,7,V,sithes
+0,12,V,jesu
+0,12,V,jesuit
+1,0,H,pee
+1,0,H,peet
+4,0,H,isis
+8,0,H,init
+8,0,H,initial
+8,0,H,initialisation
+8,0,H,initialisations
+9,0,H,rg
+9,0,H,rgb
+13,0,H,gi
+13,0,H,gis
+13,0,H,gist
+13,0,H,gisting
+13,0,H,gistingsproces
+0,6,V,fie
+0,9,V,epi
+0,9,V,epimer
+0,14,V,syn
+0,14,V,synthetists
+
+Board:
+   0  1  2  3  4  5  6  7  8  9 10 11 12 13 14
+ 0 S  c  h  r  i  J  f  s  t  e  R  t  j  e  s
+ 1 p  e  e  t  ▢  i  i  i  ▢  p  e  ▢  e  ▢  y
+ 2 i  n  t  e  r  n  e  t  s  i  t  e  s  ▢  n
+ 3 r  ▢  z  ▢  ▢  r  ▢  h  ▢  m  r  ▢  u  ▢  t
+ 4 i  s  i  s  ▢  i  ▢  e  ▢  e  o  ▢  i  ▢  h
+ 5 T  s  j  e  r  K  e  s  t  r  J  i  t  t  e
+ 6 s  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢  ▢  e  ▢  ▢  ▢  t
+ 7 t  e  r  e  c  h  t  b  r  a  c  h  t  ▢  i
+ 8 i  n  i  t  i  a  l  i  s  a  t  i  o  n  s
+ 9 r  g  b  ▢  ▢  ▢  ▢  ▢  ▢  ▢  i  ▢  ▢  ▢  t
+10 R  e  s  t  i  T  u  t  i  o  N  i  s  t  s
+11 i  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  g  ▢  ▢  ▢  ▢
+12 n  i  g  h  t  s  h  i  r  t  ▢  ▢  ▢  ▢  ▢
+13 g  i  s  t  i  n  g  s  p  r  o  c  e  s  ▢
+14 ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+
+Score: 7,815
+
+Solving for size 15 took 1,985.86ms

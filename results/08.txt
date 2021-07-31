@@ -1,0 +1,38 @@
+Moves (22):
+0,0,H,tsitsith
+0,0,V,tightish
+5,0,H,iritises
+0,5,V,ij
+0,5,V,ijs
+0,5,V,ijspiste
+2,0,H,gj
+2,0,H,gjetost
+2,0,H,gjetosts
+7,0,H,hi
+7,0,H,his
+7,0,H,hiss
+7,0,H,hissies
+7,0,H,hissiest
+0,2,V,ine
+0,2,V,inertias
+0,7,V,hisses
+3,0,H,har
+3,0,H,harumphs
+4,0,H,tit
+4,0,H,titi
+0,4,V,stom
+
+Board:
+  0  1  2  3  4  5  6  7
+0 T  s  i  t  s  I  t  h
+1 i  ▢  n  ▢  t  j  ▢  i
+2 g  j  e  t  o  s  t  s
+3 h  a  r  u  m  p  h  s
+4 t  i  t  i  ▢  i  ▢  e
+5 I  r  i  t  i  S  e  s
+6 s  ▢  a  ▢  ▢  t  ▢  ▢
+7 h  i  s  s  i  e  s  t
+
+Score: 1,708
+
+Solving for size 8 took 509.40ms

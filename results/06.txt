@@ -1,0 +1,28 @@
+Moves (14):
+0,0,H,trijst
+0,0,V,tritst
+5,0,H,tiriti
+0,5,V,ti
+0,5,V,tis
+0,5,V,tishri
+2,0,H,ir
+2,0,H,iritis
+0,2,V,isidor
+3,0,H,tid
+3,0,H,tids
+0,1,V,rari
+0,3,V,jets
+0,3,V,jetski
+
+Board:
+  0  1  2  3  4  5
+0 T  r  i  j  s  T
+1 r  a  s  e  ▢  i
+2 i  r  i  t  i  s
+3 t  i  d  s  ▢  h
+4 s  ▢  o  k  ▢  r
+5 T  i  r  i  t  I
+
+Score: 1,145
+
+Solving for size 6 took 444.64ms

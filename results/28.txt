@@ -1,0 +1,153 @@
+Moves (117):
+0,0,H,spijsverteringsstoornissen
+0,0,V,staatselektriciteitsbedrijf
+5,0,H,sincerefriendshipfriendship
+10,0,H,transmissiesysteembeheerders
+15,0,H,transmissiesysteembeheerder
+20,0,H,begrotingsoverschrijdingen
+25,0,H,justitiefunctionarissen
+0,5,V,vi
+0,5,V,vis
+0,5,V,visitress
+0,10,V,re
+0,10,V,rei
+0,10,V,reis
+0,10,V,reisherinneringen
+0,15,V,st
+0,15,V,sto
+0,15,V,stor
+0,15,V,storting
+0,15,V,stortingsbewijzen
+0,20,V,ni
+0,20,V,nie
+0,20,V,niet
+0,20,V,nietje
+0,20,V,nietjes
+0,20,V,nietjesmachine
+0,25,V,no
+0,25,V,not
+0,25,V,notorious
+0,25,V,notoriousness
+2,0,H,ar
+2,0,H,art
+2,0,H,arti
+2,0,H,arties
+2,0,H,artiest
+2,0,H,artieste
+2,0,H,artiesten
+2,0,H,artiestenlijst
+7,0,H,le
+7,0,H,lev
+7,0,H,leve
+7,0,H,levens
+7,0,H,levensinstinct
+12,0,H,in
+12,0,H,int
+12,0,H,inter
+12,0,H,interrelation
+12,0,H,interrelations
+12,0,H,interrelationship
+12,0,H,interrelationships
+17,0,H,ip
+17,0,H,ipsissimis
+22,0,H,dr
+22,0,H,drug
+22,0,H,drugs
+22,0,H,drugsbestrijding
+22,0,H,drugsbestrijdingsorganisatie
+0,2,V,intern
+0,7,V,rie
+0,7,V,riet
+0,12,V,nes
+0,12,V,nest
+0,12,V,nested
+0,17,V,on
+0,17,V,ont
+0,17,V,ontgift
+0,17,V,ontgiftte
+0,22,V,sc
+0,22,V,schild
+0,22,V,schilde
+0,22,V,schilder
+0,22,V,schilderijen
+0,22,V,schilderijengalerij
+1,0,H,tin
+1,0,H,tina
+3,0,H,ane
+3,0,H,anelli
+6,0,H,et
+8,0,H,es
+8,0,H,est
+8,0,H,esth
+8,0,H,esthesia
+8,0,H,esthesias
+11,0,H,rein
+11,0,H,reins
+11,0,H,reinsert
+11,0,H,reinserts
+13,0,H,ct
+13,0,H,cts
+14,0,H,ie
+18,0,H,to
+18,0,H,top
+18,0,H,topt
+18,0,H,toptijd
+18,0,H,toptijdschrift
+18,0,H,toptijdschriften
+19,0,H,stoun
+23,0,H,ron
+23,0,H,ront
+23,0,H,rontgen
+23,0,H,rontgenograph
+23,0,H,rontgenographs
+24,0,H,ik
+0,6,V,eit
+0,9,V,eel
+0,9,V,eelt
+0,13,V,gat
+0,13,V,gate
+0,13,V,gaters
+0,16,V,ter
+0,16,V,teri
+0,18,V,ot
+0,18,V,otis
+0,21,V,intr
+0,21,V,intron
+0,21,V,introns
+0,23,V,she
+0,23,V,sheets
+
+Board:
+   0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27
+ 0 S  p  i  j  s  V  e  r  t  e  R  i  n  g  s  S  t  o  o  r  N  i  s  s  e  N  ▢  ▢
+ 1 t  i  n  a  ▢  i  i  i  ▢  e  e  ▢  e  a  ▢  t  e  n  t  ▢  i  n  c  h  ▢  o  ▢  ▢
+ 2 a  r  t  i  e  s  t  e  n  l  i  j  s  t  ▢  o  r  t  i  ▢  e  t  h  e  ▢  t  ▢  ▢
+ 3 a  n  e  l  l  i  ▢  t  ▢  t  s  ▢  t  e  ▢  r  i  g  s  ▢  t  r  i  e  ▢  o  ▢  ▢
+ 4 t  ▢  r  ▢  ▢  t  ▢  ▢  ▢  ▢  h  ▢  e  r  ▢  t  ▢  i  ▢  ▢  j  o  l  t  ▢  r  ▢  ▢
+ 5 S  i  n  c  e  R  e  f  r  i  E  n  d  s  h  I  p  f  r  i  E  n  d  s  h  I  p  ▢
+ 6 e  t  ▢  ▢  ▢  e  ▢  ▢  ▢  ▢  r  ▢  ▢  ▢  ▢  n  ▢  t  ▢  ▢  s  s  e  ▢  ▢  o  ▢  ▢
+ 7 l  e  v  e  n  s  i  n  s  t  i  n  c  t  ▢  g  ▢  t  ▢  ▢  m  ▢  r  ▢  ▢  u  ▢  ▢
+ 8 e  s  t  h  e  s  i  a  s  ▢  n  ▢  ▢  ▢  ▢  s  ▢  e  ▢  ▢  a  ▢  i  ▢  ▢  s  ▢  ▢
+ 9 k  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  n  ▢  ▢  ▢  ▢  b  ▢  ▢  ▢  ▢  c  ▢  j  ▢  ▢  n  ▢  ▢
+10 T  r  a  n  s  M  i  s  s  i  E  s  y  s  t  E  e  m  b  e  H  e  e  r  d  E  r  s
+11 r  e  i  n  s  e  r  t  s  ▢  r  ▢  ▢  ▢  ▢  w  ▢  ▢  ▢  ▢  i  ▢  n  ▢  ▢  s  ▢  ▢
+12 i  n  t  e  r  r  e  l  a  t  i  o  n  s  h  i  p  s  ▢  ▢  n  ▢  g  ▢  ▢  s  ▢  ▢
+13 c  t  s  ▢  ▢  ▢  ▢  ▢  ▢  ▢  n  ▢  ▢  ▢  ▢  j  ▢  ▢  ▢  ▢  e  ▢  a  ▢  ▢  ▢  ▢  ▢
+14 i  e  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  g  ▢  ▢  ▢  ▢  z  ▢  ▢  ▢  ▢  ▢  ▢  l  ▢  ▢  ▢  ▢  ▢
+15 T  r  a  n  s  M  i  s  s  i  E  s  y  s  t  E  e  m  b  e  H  e  e  r  d  E  r  ▢
+16 e  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  n  ▢  ▢  ▢  ▢  n  ▢  ▢  ▢  ▢  ▢  ▢  r  ▢  ▢  ▢  ▢  ▢
+17 i  p  s  i  s  s  i  m  i  s  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  i  ▢  ▢  ▢  ▢  ▢
+18 t  o  p  t  i  j  d  s  c  h  r  i  f  t  e  n  ▢  ▢  ▢  ▢  ▢  ▢  j  ▢  ▢  ▢  ▢  ▢
+19 s  t  o  u  n  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+20 B  e  g  r  o  T  i  n  g  s  O  v  e  r  s  C  h  r  i  j  D  i  n  g  e  N  ▢  ▢
+21 e  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+22 d  r  u  g  s  b  e  s  t  r  i  j  d  i  n  g  s  o  r  g  a  n  i  s  a  t  i  e
+23 r  o  n  t  g  e  n  o  g  r  a  p  h  s  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+24 i  k  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+25 J  u  s  t  i  T  i  e  f  u  N  c  t  i  o  N  a  r  i  s  S  e  n  ▢  ▢  ▣  ▢  ▢
+26 f  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+27 ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+
+Score: 313,049
+
+Solving for size 28 took 3,570.67ms

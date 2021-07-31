@@ -1,0 +1,62 @@
+Moves (42):
+0,0,H,tijdritfiets
+0,0,V,trottoirtjes
+5,0,H,orthopristis
+10,0,H,emissieprijs
+0,5,V,ie
+0,5,V,iet
+0,5,V,iets
+0,5,V,ietsepietsie
+0,10,V,ta
+0,10,V,tax
+0,10,V,taxa
+0,10,V,taxatie
+0,10,V,taxatieprijs
+2,0,H,or
+2,0,H,ort
+2,0,H,orth
+2,0,H,orthotist
+7,0,H,ru
+7,0,H,rui
+7,0,H,ruim
+7,0,H,ruimte
+7,0,H,ruimtes
+7,0,H,ruimteschip
+0,2,V,jet
+0,2,V,jets
+0,2,V,jetset
+0,7,V,fysici
+1,0,H,ree
+3,0,H,tss
+6,0,H,io
+8,0,H,te
+8,0,H,tes
+8,0,H,test
+8,0,H,teststrip
+11,0,H,syn
+11,0,H,synthetists
+0,4,V,rho
+0,4,V,rhos
+0,6,V,tri
+0,8,V,ietjes
+0,11,V,sw
+0,11,V,swinish
+
+Board:
+   0  1  2  3  4  5  6  7  8  9 10 11
+ 0 T  i  j  d  r  I  t  f  i  e  T  s
+ 1 r  e  e  ▢  h  e  r  y  e  ▢  a  w
+ 2 o  r  t  h  o  t  i  s  t  ▢  x  i
+ 3 t  s  s  ▢  s  s  ▢  i  j  ▢  a  n
+ 4 t  ▢  e  ▢  ▢  e  ▢  c  e  ▢  t  i
+ 5 O  r  t  h  o  P  r  i  s  t  I  s
+ 6 i  o  ▢  ▢  ▢  i  ▢  ▢  ▢  ▢  e  h
+ 7 r  u  i  m  t  e  s  c  h  i  p  ▢
+ 8 t  e  s  t  s  t  r  i  p  ▢  r  ▢
+ 9 j  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢  ▢  i  ▢
+10 E  m  i  s  s  I  e  p  r  i  J  s
+11 s  y  n  t  h  e  t  i  s  t  s  ▢
+
+Score: 6,137
+
+Solving for size 12 took 1,291.43ms

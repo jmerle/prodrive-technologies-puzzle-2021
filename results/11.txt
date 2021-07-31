@@ -1,0 +1,55 @@
+Moves (36):
+0,0,H,stresstests
+0,0,V,stijgijzers
+5,0,H,institutist
+10,0,H,spiritistic
+0,5,V,se
+0,5,V,sen
+0,5,V,sens
+0,5,V,sensitief
+0,5,V,sensitiefst
+0,10,V,sp
+0,10,V,spirit
+0,10,V,spiritist
+2,0,H,in
+2,0,H,int
+2,0,H,intern
+2,0,H,internuntii
+7,0,H,zi
+7,0,H,zij
+7,0,H,zijwiel
+7,0,H,zijwieltjes
+0,2,V,rit
+0,2,V,ritjes
+0,7,V,ern
+0,7,V,erne
+0,7,V,ernest
+1,0,H,tui
+1,0,H,tuis
+1,0,H,tuiste
+4,0,H,gre
+4,0,H,greasies
+4,0,H,greasiest
+8,0,H,et
+8,0,H,eto
+8,0,H,etouffee
+0,8,V,sit
+0,9,V,teis
+
+Board:
+   0  1  2  3  4  5  6  7  8  9 10
+ 0 S  t  r  e  s  S  t  e  s  t  S
+ 1 t  u  i  s  t  e  ▢  r  i  e  p
+ 2 i  n  t  e  r  n  u  n  t  i  i
+ 3 j  ▢  j  ▢  ▢  s  ▢  e  ▢  s  r
+ 4 g  r  e  a  s  i  e  s  t  ▢  i
+ 5 I  n  s  t  i  T  u  t  i  s  T
+ 6 j  ▢  ▢  ▢  ▢  i  ▢  ▢  ▢  ▢  i
+ 7 z  i  j  w  i  e  l  t  j  e  s
+ 8 e  t  o  u  f  f  e  e  ▢  ▢  t
+ 9 r  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢  ▢  ▢
+10 S  p  i  r  i  T  i  s  t  i  C
+
+Score: 5,625
+
+Solving for size 11 took 1,322.10ms

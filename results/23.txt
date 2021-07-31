@@ -1,0 +1,121 @@
+Moves (90):
+0,0,H,spijsverteringsstoornis
+0,0,V,stronttonnetjesschepper
+5,0,H,terroristenorganisaties
+10,0,H,elektriciteitsstoringen
+15,0,H,spijsverteringssysteem
+20,0,H,productiviteitsstijging
+0,5,V,vi
+0,5,V,vis
+0,5,V,visser
+0,5,V,visserij
+0,5,V,visserijstraat
+0,10,V,re
+0,10,V,reu
+0,10,V,reuzen
+0,10,V,reuzenmiereneter
+0,10,V,reuzenmiereneters
+0,15,V,sc
+0,15,V,schoen
+0,15,V,schoenen
+0,15,V,schoenenontwerpster
+0,20,V,ne
+0,20,V,nev
+0,20,V,neve
+0,20,V,nevenintrige
+0,20,V,nevenintriges
+2,0,H,ri
+2,0,H,rij
+2,0,H,rijs
+2,0,H,rijststro
+7,0,H,on
+7,0,H,onvrij
+7,0,H,onvrijwillig
+7,0,H,onvrijwillige
+7,0,H,onvrijwilliger
+12,0,H,ja
+12,0,H,jazz
+12,0,H,jazzzangeres
+12,0,H,jazzzangeresje
+17,0,H,hi
+17,0,H,hit
+17,0,H,hitte
+17,0,H,hittepetit
+22,0,H,rijg
+22,0,H,rijgeschiktheid
+22,0,H,rijgeschiktheidsattest
+0,2,V,iljo
+0,7,V,rerigs
+0,12,V,no
+0,12,V,nos
+0,12,V,nosh
+0,12,V,nosher
+0,12,V,nosherie
+0,12,V,nosheries
+0,17,V,ong
+0,17,V,ongunst
+0,17,V,ongunstig
+0,17,V,ongunstiger
+0,17,V,ongunstigere
+0,22,V,sp
+0,22,V,sports
+0,22,V,sportschoen
+0,22,V,sportschoentjes
+1,0,H,tol
+1,0,H,tolo
+4,0,H,nj
+6,0,H,ti
+6,0,H,tis
+8,0,H,nt
+11,0,H,te
+13,0,H,et
+13,0,H,eten
+13,0,H,etenstijd
+16,0,H,ch
+16,0,H,che
+16,0,H,cheep
+18,0,H,el
+18,0,H,els
+18,0,H,elsstraat
+21,0,H,es
+0,3,V,joss
+0,3,V,josser
+0,6,V,est
+0,6,V,esth
+0,9,V,ei
+0,13,V,gi
+0,13,V,gij
+0,13,V,gijs
+0,16,V,tee
+0,18,V,ot
+0,19,V,rj
+
+Board:
+   0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22
+ 0 S  p  i  j  s  V  e  r  t  e  R  i  n  g  s  S  t  o  o  r  N  i  s
+ 1 t  o  l  o  ▢  i  s  e  ▢  i  e  ▢  o  i  ▢  c  e  n  t  j  e  ▢  p
+ 2 r  i  j  s  t  s  t  r  o  ▢  u  ▢  s  j  ▢  h  e  g  ▢  ▢  v  ▢  o
+ 3 o  ▢  o  s  ▢  s  h  i  ▢  ▢  z  ▢  h  s  ▢  o  ▢  u  ▢  ▢  e  ▢  r
+ 4 n  j  ▢  e  ▢  e  ▢  g  ▢  ▢  e  ▢  e  ▢  ▢  e  ▢  n  ▢  ▢  n  ▢  t
+ 5 T  e  r  r  o  R  i  s  t  e  N  o  r  g  a  N  i  s  a  t  I  e  s
+ 6 t  i  s  ▢  ▢  i  ▢  ▢  ▢  ▢  m  ▢  i  ▢  ▢  e  ▢  t  ▢  ▢  n  ▢  c
+ 7 o  n  v  r  i  j  w  i  l  l  i  g  e  r  ▢  n  ▢  i  ▢  ▢  t  ▢  h
+ 8 n  t  ▢  ▢  ▢  s  ▢  ▢  ▢  ▢  e  ▢  s  ▢  ▢  o  ▢  g  ▢  ▢  r  ▢  o
+ 9 n  ▢  ▢  ▢  ▢  t  ▢  ▢  ▢  ▢  r  ▢  ▢  ▢  ▢  n  ▢  e  ▢  ▢  i  ▢  e
+10 E  l  e  k  t  R  i  c  i  t  E  i  t  s  s  T  o  r  i  n  G  e  n
+11 t  e  ▢  ▢  ▢  a  ▢  ▢  ▢  ▢  n  ▢  ▢  ▢  ▢  w  ▢  e  ▢  ▢  e  ▢  t
+12 j  a  z  z  z  a  n  g  e  r  e  s  j  e  ▢  e  ▢  ▢  ▢  ▢  s  ▢  j
+13 e  t  e  n  s  t  i  j  d  ▢  t  ▢  ▢  ▢  ▢  r  ▢  ▢  ▢  ▢  ▢  ▢  e
+14 s  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  e  ▢  ▢  ▢  ▢  p  ▢  ▢  ▢  ▢  ▢  ▢  s
+15 S  p  i  j  s  V  e  r  t  e  R  i  n  g  s  S  y  s  t  e  E  m  ▢
+16 c  h  e  e  p  ▢  ▢  ▢  ▢  ▢  s  ▢  ▢  ▢  ▢  t  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+17 h  i  t  t  e  p  e  t  i  t  ▢  ▢  ▢  ▢  ▢  e  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+18 e  l  s  s  t  r  a  a  t  ▢  ▢  ▢  ▢  ▢  ▢  r  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+19 p  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+20 P  r  o  d  u  C  t  i  v  i  T  e  i  t  s  S  t  i  j  g  I  n  g
+21 e  s  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢
+22 r  i  j  g  e  s  c  h  i  k  t  h  e  i  d  s  a  t  t  e  s  t  ▢
+
+Score: 93,996
+
+Solving for size 23 took 3,150.56ms

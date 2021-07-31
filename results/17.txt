@@ -1,0 +1,88 @@
+Moves (63):
+0,0,H,identiteitscrisis
+0,0,V,irresistibilities
+5,0,H,identiteitscrises
+10,0,H,integriteitseisen
+15,0,H,exportrestituties
+0,5,V,in
+0,5,V,inf
+0,5,V,infusie
+0,5,V,infusiediertje
+0,10,V,su
+0,10,V,sug
+0,10,V,suggest
+0,10,V,suggestiviteit
+0,15,V,ina
+0,15,V,inattentive
+0,15,V,inattentivenesses
+2,0,H,re
+2,0,H,ret
+2,0,H,retrofiring
+7,0,H,te
+7,0,H,tet
+7,0,H,tetrodotoxin
+7,0,H,tetrodotoxins
+12,0,H,ij
+12,0,H,ijs
+12,0,H,ijst
+12,0,H,ijstijd
+12,0,H,ijstijden
+0,2,V,ent
+0,2,V,entiteit
+0,7,V,eur
+0,7,V,euro
+0,7,V,eurorente
+0,12,V,rei
+0,12,V,reimprisoned
+1,0,H,ren
+1,0,H,reno
+1,0,H,renown
+3,0,H,eris
+6,0,H,sri
+8,0,H,is
+9,0,H,be
+9,0,H,bei
+9,0,H,beij
+9,0,H,beijnes
+13,0,H,tr
+13,0,H,trom
+13,0,H,trompe
+13,0,H,trompet
+13,0,H,trompettist
+13,0,H,trompettiste
+13,0,H,trompettisten
+16,0,H,se
+16,0,H,sem
+16,0,H,semi
+16,0,H,semiconscious
+16,0,H,semiconsciousness
+0,8,V,iris
+0,11,V,ct
+0,13,V,ism
+0,13,V,ismatic
+0,16,V,st
+0,16,V,stijfsel
+
+Board:
+   0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16
+ 0 I  d  e  n  t  I  t  e  i  t  S  c  r  i  s  I  s
+ 1 r  e  n  o  w  n  ▢  u  r  ▢  u  t  e  s  ▢  n  t
+ 2 r  e  t  r  o  f  i  r  i  n  g  ▢  i  m  ▢  a  i
+ 3 e  r  i  s  ▢  u  ▢  o  s  ▢  g  ▢  m  a  ▢  t  j
+ 4 s  ▢  t  ▢  ▢  s  ▢  r  ▢  ▢  e  ▢  p  t  ▢  t  f
+ 5 I  d  e  n  t  I  t  e  i  t  S  c  r  i  s  E  s
+ 6 s  r  i  ▢  ▢  e  ▢  n  ▢  ▢  t  ▢  i  c  ▢  n  e
+ 7 t  e  t  r  o  d  o  t  o  x  i  n  s  ▢  ▢  t  l
+ 8 i  s  ▢  ▢  ▢  i  ▢  e  ▢  ▢  v  ▢  o  ▢  ▢  i  ▢
+ 9 b  e  i  j  n  e  s  ▢  ▢  ▢  i  ▢  n  ▢  ▢  v  ▢
+10 I  n  t  e  g  R  i  t  e  i  T  s  e  i  s  E  n
+11 l  ▢  ▢  ▢  ▢  t  ▢  ▢  ▢  ▢  e  ▢  d  ▢  ▢  n  ▢
+12 i  j  s  t  i  j  d  e  n  ▢  i  ▢  ▢  ▢  ▢  e  ▢
+13 t  r  o  m  p  e  t  t  i  s  t  e  n  ▢  ▢  s  ▢
+14 i  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  ▢  s  ▢
+15 E  x  p  o  r  T  r  e  s  t  I  t  u  t  i  E  s
+16 s  e  m  i  c  o  n  s  c  i  o  u  s  n  e  s  s
+
+Score: 23,768
+
+Solving for size 17 took 2,272.73ms
